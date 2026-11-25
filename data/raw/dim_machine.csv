@@ -1,0 +1,121 @@
+machine_id,machine_code,machine_name,machine_type,manufacturer,purchase_date,installation_date,plant,production_capacity_per_hour,power_consumption_kw,machine_status
+1,MAC001,Air Jet Loom 1,Air Jet Loom,Savio,2018-05-13,2020-03-30,SoluTex Manufacturing Plant,853,52.47,Retired
+2,MAC002,Rapier Loom 2,Rapier Loom,Itema,2024-01-19,2020-03-16,SoluTex Manufacturing Plant,729,54.54,Retired
+3,MAC003,Dyeing Machine 3,Dyeing Machine,Itema,2020-11-01,2015-05-13,SoluTex Manufacturing Plant,938,24.85,Retired
+4,MAC004,Stitching Machine 4,Stitching Machine,Tsudakoma,2024-03-10,2020-10-22,SoluTex Manufacturing Plant,651,47.84,Idle
+5,MAC005,Cutting Machine 5,Cutting Machine,Toyota,2022-12-18,2019-12-13,SoluTex Manufacturing Plant,599,25.81,Retired
+6,MAC006,Cutting Machine 6,Cutting Machine,Lakshmi Machine Works,2019-08-25,2021-12-28,SoluTex Manufacturing Plant,484,36.69,Under Maintenance
+7,MAC007,Cutting Machine 7,Cutting Machine,Toyota,2015-01-18,2014-04-02,SoluTex Manufacturing Plant,552,23.02,Running
+8,MAC008,Rapier Loom 8,Rapier Loom,Lakshmi Machine Works,2012-06-03,2012-01-02,SoluTex Manufacturing Plant,615,6.91,Under Maintenance
+9,MAC009,Air Jet Loom 9,Air Jet Loom,Toyota,2023-02-04,2015-07-18,SoluTex Manufacturing Plant,349,25.95,Idle
+10,MAC010,Stitching Machine 10,Stitching Machine,Rieter,2017-03-11,2017-11-17,SoluTex Manufacturing Plant,409,27.78,Retired
+11,MAC011,Air Jet Loom 11,Air Jet Loom,Itema,2021-05-06,2014-08-23,SoluTex Manufacturing Plant,307,40.28,Retired
+12,MAC012,Rapier Loom 12,Rapier Loom,Itema,2018-12-04,2018-06-13,SoluTex Manufacturing Plant,922,17.26,Retired
+13,MAC013,Rapier Loom 13,Rapier Loom,Rieter,2022-08-03,2025-03-25,SoluTex Manufacturing Plant,996,50.61,Retired
+14,MAC014,Dyeing Machine 14,Dyeing Machine,Rieter,2023-06-10,2023-12-29,SoluTex Manufacturing Plant,479,28.91,Retired
+15,MAC015,Air Jet Loom 15,Air Jet Loom,Itema,2019-02-08,2013-01-31,SoluTex Manufacturing Plant,413,31.57,Under Maintenance
+16,MAC016,Cutting Machine 16,Cutting Machine,Itema,2017-01-30,2021-02-05,SoluTex Manufacturing Plant,668,50.06,Retired
+17,MAC017,Air Jet Loom 17,Air Jet Loom,Lakshmi Machine Works,2018-06-22,2014-11-30,SoluTex Manufacturing Plant,712,32.36,Retired
+18,MAC018,Air Jet Loom 18,Air Jet Loom,Savio,2012-12-11,2017-08-05,SoluTex Manufacturing Plant,859,28.3,Retired
+19,MAC019,Air Jet Loom 19,Air Jet Loom,Lakshmi Machine Works,2015-09-29,2014-12-09,SoluTex Manufacturing Plant,842,50.38,Running
+20,MAC020,Rapier Loom 20,Rapier Loom,Tsudakoma,2013-03-30,2020-10-08,SoluTex Manufacturing Plant,479,45.21,Retired
+21,MAC021,Stitching Machine 21,Stitching Machine,Savio,2013-08-31,2020-06-16,SoluTex Manufacturing Plant,532,50.8,Idle
+22,MAC022,Air Jet Loom 22,Air Jet Loom,Lakshmi Machine Works,2020-07-07,2015-02-11,SoluTex Manufacturing Plant,213,34.83,Idle
+23,MAC023,Air Jet Loom 23,Air Jet Loom,Tsudakoma,2017-03-01,2012-10-31,SoluTex Manufacturing Plant,348,13.88,Under Maintenance
+24,MAC024,Packing Machine 24,Packing Machine,Rieter,2020-12-16,2013-12-13,SoluTex Manufacturing Plant,201,55.86,Idle
+25,MAC025,Air Jet Loom 25,Air Jet Loom,Itema,2020-11-13,2015-02-09,SoluTex Manufacturing Plant,938,11.14,Running
+26,MAC026,Embroidery Machine 26,Embroidery Machine,Tsudakoma,2021-05-10,2017-03-29,SoluTex Manufacturing Plant,360,37.24,Idle
+27,MAC027,Embroidery Machine 27,Embroidery Machine,Rieter,2016-12-19,2018-02-16,SoluTex Manufacturing Plant,421,29.54,Under Maintenance
+28,MAC028,Air Jet Loom 28,Air Jet Loom,Rieter,2013-12-11,2014-01-04,SoluTex Manufacturing Plant,706,23.86,Retired
+29,MAC029,Cutting Machine 29,Cutting Machine,Tsudakoma,2021-12-22,2016-08-20,SoluTex Manufacturing Plant,548,48.55,Running
+30,MAC030,Air Jet Loom 30,Air Jet Loom,Lakshmi Machine Works,2016-02-15,2024-03-27,SoluTex Manufacturing Plant,632,38.71,Under Maintenance
+31,MAC031,Air Jet Loom 31,Air Jet Loom,Toyota,2020-09-22,2012-01-05,SoluTex Manufacturing Plant,210,30.86,Running
+32,MAC032,Rapier Loom 32,Rapier Loom,Savio,2012-08-27,2021-11-21,SoluTex Manufacturing Plant,390,6.75,Running
+33,MAC033,Air Jet Loom 33,Air Jet Loom,Lakshmi Machine Works,2023-08-16,2017-06-12,SoluTex Manufacturing Plant,354,48.06,Retired
+34,MAC034,Air Jet Loom 34,Air Jet Loom,Picanol,2014-09-19,2015-10-01,SoluTex Manufacturing Plant,919,43.0,Retired
+35,MAC035,Air Jet Loom 35,Air Jet Loom,Tsudakoma,2017-05-07,2023-07-03,SoluTex Manufacturing Plant,248,7.14,Running
+36,MAC036,Stitching Machine 36,Stitching Machine,Rieter,2021-06-10,2017-02-24,SoluTex Manufacturing Plant,294,5.71,Under Maintenance
+37,MAC037,Dyeing Machine 37,Dyeing Machine,Toyota,2011-12-09,2024-01-11,SoluTex Manufacturing Plant,348,7.33,Retired
+38,MAC038,Embroidery Machine 38,Embroidery Machine,Lakshmi Machine Works,2015-11-07,2016-11-08,SoluTex Manufacturing Plant,275,21.45,Retired
+39,MAC039,Dyeing Machine 39,Dyeing Machine,Rieter,2023-05-06,2014-05-12,SoluTex Manufacturing Plant,848,56.06,Running
+40,MAC040,Packing Machine 40,Packing Machine,Toyota,2022-07-01,2018-03-10,SoluTex Manufacturing Plant,443,39.82,Retired
+41,MAC041,Embroidery Machine 41,Embroidery Machine,Itema,2018-10-12,2022-12-18,SoluTex Manufacturing Plant,740,42.11,Idle
+42,MAC042,Cutting Machine 42,Cutting Machine,Itema,2022-08-06,2018-08-03,SoluTex Manufacturing Plant,616,52.5,Under Maintenance
+43,MAC043,Dyeing Machine 43,Dyeing Machine,Itema,2021-10-04,2024-05-20,SoluTex Manufacturing Plant,795,5.32,Idle
+44,MAC044,Stitching Machine 44,Stitching Machine,Picanol,2019-12-09,2017-02-17,SoluTex Manufacturing Plant,243,32.86,Running
+45,MAC045,Rapier Loom 45,Rapier Loom,Itema,2017-04-09,2018-08-12,SoluTex Manufacturing Plant,602,42.8,Retired
+46,MAC046,Stitching Machine 46,Stitching Machine,Savio,2017-11-29,2021-11-12,SoluTex Manufacturing Plant,226,8.7,Under Maintenance
+47,MAC047,Dyeing Machine 47,Dyeing Machine,Tsudakoma,2014-03-09,2012-01-01,SoluTex Manufacturing Plant,210,27.92,Under Maintenance
+48,MAC048,Packing Machine 48,Packing Machine,Tsudakoma,2021-07-27,2012-03-02,SoluTex Manufacturing Plant,906,19.09,Under Maintenance
+49,MAC049,Rapier Loom 49,Rapier Loom,Rieter,2016-03-06,2020-12-27,SoluTex Manufacturing Plant,717,59.89,Under Maintenance
+50,MAC050,Air Jet Loom 50,Air Jet Loom,Picanol,2012-09-29,2022-02-11,SoluTex Manufacturing Plant,583,55.7,Retired
+51,MAC051,Cutting Machine 51,Cutting Machine,Tsudakoma,2023-08-14,2019-05-03,SoluTex Manufacturing Plant,979,54.89,Retired
+52,MAC052,Rapier Loom 52,Rapier Loom,Itema,2015-04-05,2018-03-08,SoluTex Manufacturing Plant,509,22.21,Retired
+53,MAC053,Rapier Loom 53,Rapier Loom,Lakshmi Machine Works,2022-05-14,2022-05-12,SoluTex Manufacturing Plant,305,38.46,Idle
+54,MAC054,Rapier Loom 54,Rapier Loom,Rieter,2018-08-13,2015-03-03,SoluTex Manufacturing Plant,930,5.3,Idle
+55,MAC055,Air Jet Loom 55,Air Jet Loom,Tsudakoma,2020-01-03,2017-05-11,SoluTex Manufacturing Plant,824,12.37,Idle
+56,MAC056,Stitching Machine 56,Stitching Machine,Itema,2018-05-19,2018-05-28,SoluTex Manufacturing Plant,643,13.78,Idle
+57,MAC057,Air Jet Loom 57,Air Jet Loom,Rieter,2015-03-27,2023-01-31,SoluTex Manufacturing Plant,679,41.47,Running
+58,MAC058,Rapier Loom 58,Rapier Loom,Itema,2020-12-30,2012-10-25,SoluTex Manufacturing Plant,892,44.81,Idle
+59,MAC059,Embroidery Machine 59,Embroidery Machine,Tsudakoma,2019-05-08,2019-12-16,SoluTex Manufacturing Plant,550,29.29,Under Maintenance
+60,MAC060,Cutting Machine 60,Cutting Machine,Savio,2019-12-30,2022-05-30,SoluTex Manufacturing Plant,563,43.42,Idle
+61,MAC061,Embroidery Machine 61,Embroidery Machine,Lakshmi Machine Works,2016-12-06,2019-06-24,SoluTex Manufacturing Plant,565,19.63,Retired
+62,MAC062,Air Jet Loom 62,Air Jet Loom,Picanol,2015-12-20,2014-10-07,SoluTex Manufacturing Plant,202,58.62,Retired
+63,MAC063,Rapier Loom 63,Rapier Loom,Picanol,2011-09-28,2018-04-30,SoluTex Manufacturing Plant,726,37.16,Retired
+64,MAC064,Dyeing Machine 64,Dyeing Machine,Savio,2013-03-19,2016-03-12,SoluTex Manufacturing Plant,800,37.41,Idle
+65,MAC065,Rapier Loom 65,Rapier Loom,Tsudakoma,2024-03-23,2014-12-17,SoluTex Manufacturing Plant,341,44.76,Retired
+66,MAC066,Cutting Machine 66,Cutting Machine,Lakshmi Machine Works,2014-01-24,2023-11-29,SoluTex Manufacturing Plant,628,7.48,Idle
+67,MAC067,Rapier Loom 67,Rapier Loom,Itema,2019-07-07,2018-10-09,SoluTex Manufacturing Plant,961,41.38,Retired
+68,MAC068,Stitching Machine 68,Stitching Machine,Rieter,2014-07-03,2018-08-26,SoluTex Manufacturing Plant,524,34.75,Running
+69,MAC069,Dyeing Machine 69,Dyeing Machine,Toyota,2023-05-11,2016-07-20,SoluTex Manufacturing Plant,213,34.11,Idle
+70,MAC070,Cutting Machine 70,Cutting Machine,Lakshmi Machine Works,2019-11-06,2018-07-18,SoluTex Manufacturing Plant,710,9.31,Retired
+71,MAC071,Air Jet Loom 71,Air Jet Loom,Tsudakoma,2023-01-06,2020-12-25,SoluTex Manufacturing Plant,926,29.25,Idle
+72,MAC072,Stitching Machine 72,Stitching Machine,Tsudakoma,2015-08-21,2014-11-27,SoluTex Manufacturing Plant,967,59.49,Retired
+73,MAC073,Cutting Machine 73,Cutting Machine,Toyota,2014-06-25,2018-06-15,SoluTex Manufacturing Plant,618,44.37,Retired
+74,MAC074,Air Jet Loom 74,Air Jet Loom,Lakshmi Machine Works,2018-01-27,2021-11-30,SoluTex Manufacturing Plant,920,32.57,Idle
+75,MAC075,Embroidery Machine 75,Embroidery Machine,Toyota,2015-12-17,2013-09-04,SoluTex Manufacturing Plant,363,47.4,Running
+76,MAC076,Air Jet Loom 76,Air Jet Loom,Lakshmi Machine Works,2017-04-03,2013-12-31,SoluTex Manufacturing Plant,997,36.31,Under Maintenance
+77,MAC077,Packing Machine 77,Packing Machine,Picanol,2024-01-06,2015-05-22,SoluTex Manufacturing Plant,794,52.09,Under Maintenance
+78,MAC078,Cutting Machine 78,Cutting Machine,Lakshmi Machine Works,2017-09-26,2021-12-07,SoluTex Manufacturing Plant,612,58.97,Under Maintenance
+79,MAC079,Stitching Machine 79,Stitching Machine,Tsudakoma,2016-10-10,2013-06-25,SoluTex Manufacturing Plant,830,58.55,Idle
+80,MAC080,Air Jet Loom 80,Air Jet Loom,Toyota,2018-06-28,2020-06-17,SoluTex Manufacturing Plant,310,12.86,Retired
+81,MAC081,Rapier Loom 81,Rapier Loom,Tsudakoma,2017-06-28,2024-10-24,SoluTex Manufacturing Plant,306,51.18,Running
+82,MAC082,Cutting Machine 82,Cutting Machine,Rieter,2024-01-01,2017-10-13,SoluTex Manufacturing Plant,460,34.52,Under Maintenance
+83,MAC083,Rapier Loom 83,Rapier Loom,Savio,2017-07-31,2023-02-21,SoluTex Manufacturing Plant,964,59.63,Under Maintenance
+84,MAC084,Air Jet Loom 84,Air Jet Loom,Tsudakoma,2023-07-14,2014-12-17,SoluTex Manufacturing Plant,289,48.43,Under Maintenance
+85,MAC085,Packing Machine 85,Packing Machine,Toyota,2022-05-20,2023-05-19,SoluTex Manufacturing Plant,829,21.64,Under Maintenance
+86,MAC086,Packing Machine 86,Packing Machine,Rieter,2023-02-21,2012-09-05,SoluTex Manufacturing Plant,939,46.84,Idle
+87,MAC087,Embroidery Machine 87,Embroidery Machine,Toyota,2018-03-16,2014-08-30,SoluTex Manufacturing Plant,839,29.16,Retired
+88,MAC088,Air Jet Loom 88,Air Jet Loom,Itema,2019-03-18,2025-02-03,SoluTex Manufacturing Plant,293,53.3,Idle
+89,MAC089,Packing Machine 89,Packing Machine,Toyota,2015-11-23,2021-03-11,SoluTex Manufacturing Plant,891,49.25,Running
+90,MAC090,Stitching Machine 90,Stitching Machine,Rieter,2017-02-17,2022-09-16,SoluTex Manufacturing Plant,217,38.81,Under Maintenance
+91,MAC091,Air Jet Loom 91,Air Jet Loom,Toyota,2023-08-08,2024-09-24,SoluTex Manufacturing Plant,236,23.22,Retired
+92,MAC092,Rapier Loom 92,Rapier Loom,Itema,2017-07-01,2019-06-23,SoluTex Manufacturing Plant,487,56.62,Retired
+93,MAC093,Stitching Machine 93,Stitching Machine,Tsudakoma,2018-02-18,2023-10-07,SoluTex Manufacturing Plant,539,55.24,Retired
+94,MAC094,Dyeing Machine 94,Dyeing Machine,Tsudakoma,2017-03-07,2012-05-20,SoluTex Manufacturing Plant,809,49.7,Idle
+95,MAC095,Dyeing Machine 95,Dyeing Machine,Lakshmi Machine Works,2016-11-23,2020-08-26,SoluTex Manufacturing Plant,893,29.7,Idle
+96,MAC096,Air Jet Loom 96,Air Jet Loom,Toyota,2013-09-17,2023-04-03,SoluTex Manufacturing Plant,328,41.86,Idle
+97,MAC097,Packing Machine 97,Packing Machine,Rieter,2021-06-29,2025-04-24,SoluTex Manufacturing Plant,285,20.07,Retired
+98,MAC098,Stitching Machine 98,Stitching Machine,Picanol,2015-03-27,2024-11-24,SoluTex Manufacturing Plant,794,44.96,Under Maintenance
+99,MAC099,Embroidery Machine 99,Embroidery Machine,Rieter,2024-01-20,2022-12-10,SoluTex Manufacturing Plant,334,27.62,Idle
+100,MAC100,Stitching Machine 100,Stitching Machine,Tsudakoma,2013-01-22,2018-03-14,SoluTex Manufacturing Plant,260,6.03,Running
+101,MAC101,Stitching Machine 101,Stitching Machine,Rieter,2021-10-27,2014-11-12,SoluTex Manufacturing Plant,600,49.8,Running
+102,MAC102,Dyeing Machine 102,Dyeing Machine,Rieter,2014-10-27,2022-09-04,SoluTex Manufacturing Plant,268,30.48,Retired
+103,MAC103,Dyeing Machine 103,Dyeing Machine,Toyota,2020-01-24,2025-05-03,SoluTex Manufacturing Plant,969,40.62,Idle
+104,MAC104,Air Jet Loom 104,Air Jet Loom,Itema,2014-04-06,2016-05-16,SoluTex Manufacturing Plant,291,42.47,Retired
+105,MAC105,Cutting Machine 105,Cutting Machine,Picanol,2024-02-22,2015-02-25,SoluTex Manufacturing Plant,910,43.75,Idle
+106,MAC106,Stitching Machine 106,Stitching Machine,Toyota,2013-07-28,2017-04-23,SoluTex Manufacturing Plant,585,38.31,Under Maintenance
+107,MAC107,Cutting Machine 107,Cutting Machine,Itema,2023-04-27,2014-02-19,SoluTex Manufacturing Plant,822,15.87,Under Maintenance
+108,MAC108,Rapier Loom 108,Rapier Loom,Savio,2020-09-25,2014-06-10,SoluTex Manufacturing Plant,622,35.0,Under Maintenance
+109,MAC109,Rapier Loom 109,Rapier Loom,Picanol,2018-06-24,2016-12-18,SoluTex Manufacturing Plant,431,56.13,Idle
+110,MAC110,Packing Machine 110,Packing Machine,Picanol,2023-09-05,2017-12-28,SoluTex Manufacturing Plant,926,18.15,Under Maintenance
+111,MAC111,Stitching Machine 111,Stitching Machine,Picanol,2022-04-26,2023-07-02,SoluTex Manufacturing Plant,480,30.43,Idle
+112,MAC112,Stitching Machine 112,Stitching Machine,Itema,2023-10-24,2021-06-16,SoluTex Manufacturing Plant,533,55.02,Idle
+113,MAC113,Dyeing Machine 113,Dyeing Machine,Rieter,2023-03-04,2013-12-04,SoluTex Manufacturing Plant,820,30.94,Idle
+114,MAC114,Dyeing Machine 114,Dyeing Machine,Rieter,2023-05-07,2014-05-10,SoluTex Manufacturing Plant,688,6.75,Under Maintenance
+115,MAC115,Stitching Machine 115,Stitching Machine,Toyota,2019-09-30,2014-10-02,SoluTex Manufacturing Plant,468,25.75,Retired
+116,MAC116,Packing Machine 116,Packing Machine,Savio,2023-04-30,2012-02-05,SoluTex Manufacturing Plant,640,30.95,Retired
+117,MAC117,Air Jet Loom 117,Air Jet Loom,Lakshmi Machine Works,2012-08-14,2019-11-09,SoluTex Manufacturing Plant,446,27.74,Retired
+118,MAC118,Dyeing Machine 118,Dyeing Machine,Rieter,2011-10-21,2019-01-30,SoluTex Manufacturing Plant,854,50.68,Idle
+119,MAC119,Stitching Machine 119,Stitching Machine,Itema,2016-05-17,2021-09-04,SoluTex Manufacturing Plant,973,43.74,Under Maintenance
+120,MAC120,Embroidery Machine 120,Embroidery Machine,Toyota,2014-05-19,2021-04-10,SoluTex Manufacturing Plant,937,10.19,Running

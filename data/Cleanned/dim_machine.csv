@@ -1,0 +1,121 @@
+﻿machine_id,machine_code,machine_name,machine_type,manufacturer,installation_date,retirement_date,service_years,production_capacity_per_hour,power_consumption_kw,machine_status
+1,MAC001,Air Jet Loom 1,Air Jet Loom,Savio,2020-03-30,2026-04-01,6.0,853,52.47,Retired
+2,MAC002,Rapier Loom 2,Rapier Loom,Itema,2020-03-16,2032-03-13,12.0,729,54.54,Retired
+3,MAC003,Dyeing Machine 3,Dyeing Machine,Itema,2015-05-13,2026-03-05,10.8,938,24.85,Retired
+4,MAC004,Stitching Machine 4,Stitching Machine,Tsudakoma,2020-10-22,,5.8,651,47.84,Idle
+5,MAC005,Cutting Machine 5,Cutting Machine,Toyota,2019-12-13,2033-10-09,13.8,599,25.81,Retired
+6,MAC006,Cutting Machine 6,Cutting Machine,Lakshmi Machine Works,2021-12-28,,4.6,484,36.69,Under Maintenance
+7,MAC007,Cutting Machine 7,Cutting Machine,Toyota,2014-04-02,,12.4,552,23.02,Running
+8,MAC008,Rapier Loom 8,Rapier Loom,Lakshmi Machine Works,2012-01-02,,14.6,615,6.91,Under Maintenance
+9,MAC009,Air Jet Loom 9,Air Jet Loom,Toyota,2015-07-18,,11.1,349,25.95,Idle
+10,MAC010,Stitching Machine 10,Stitching Machine,Rieter,2017-11-17,2027-01-13,9.2,409,27.78,Retired
+11,MAC011,Air Jet Loom 11,Air Jet Loom,Itema,2014-08-23,2024-12-24,10.3,307,40.28,Retired
+12,MAC012,Rapier Loom 12,Rapier Loom,Itema,2018-06-13,2032-01-08,13.6,922,17.26,Retired
+13,MAC013,Rapier Loom 13,Rapier Loom,Rieter,2025-03-25,2038-08-14,13.4,996,50.61,Retired
+14,MAC014,Dyeing Machine 14,Dyeing Machine,Rieter,2023-12-29,2035-02-19,11.1,479,28.91,Retired
+15,MAC015,Air Jet Loom 15,Air Jet Loom,Itema,2013-01-31,,13.5,413,31.57,Under Maintenance
+16,MAC016,Cutting Machine 16,Cutting Machine,Itema,2021-02-05,2035-04-05,14.2,668,50.06,Retired
+17,MAC017,Air Jet Loom 17,Air Jet Loom,Lakshmi Machine Works,2014-11-30,2027-05-31,12.5,712,32.36,Retired
+18,MAC018,Air Jet Loom 18,Air Jet Loom,Savio,2017-08-05,2025-07-05,7.9,859,28.3,Retired
+19,MAC019,Air Jet Loom 19,Air Jet Loom,Lakshmi Machine Works,2014-12-09,,11.7,842,50.38,Running
+20,MAC020,Rapier Loom 20,Rapier Loom,Tsudakoma,2020-10-08,2035-07-05,14.7,479,45.21,Retired
+21,MAC021,Stitching Machine 21,Stitching Machine,Savio,2020-06-16,,6.1,532,50.8,Idle
+22,MAC022,Air Jet Loom 22,Air Jet Loom,Lakshmi Machine Works,2015-02-11,,11.5,213,34.83,Idle
+23,MAC023,Air Jet Loom 23,Air Jet Loom,Tsudakoma,2012-10-31,,13.8,348,13.88,Under Maintenance
+24,MAC024,Packing Machine 24,Packing Machine,Rieter,2013-12-13,,12.7,201,55.86,Idle
+25,MAC025,Air Jet Loom 25,Air Jet Loom,Itema,2015-02-09,,11.5,938,11.14,Running
+26,MAC026,Embroidery Machine 26,Embroidery Machine,Tsudakoma,2017-03-29,,9.4,360,37.24,Idle
+27,MAC027,Embroidery Machine 27,Embroidery Machine,Rieter,2018-02-16,,8.5,421,29.54,Under Maintenance
+28,MAC028,Air Jet Loom 28,Air Jet Loom,Rieter,2014-01-04,2022-09-08,8.7,706,23.86,Retired
+29,MAC029,Cutting Machine 29,Cutting Machine,Tsudakoma,2016-08-20,,10.0,548,48.55,Running
+30,MAC030,Air Jet Loom 30,Air Jet Loom,Lakshmi Machine Works,2024-03-27,,2.4,632,38.71,Under Maintenance
+31,MAC031,Air Jet Loom 31,Air Jet Loom,Toyota,2012-01-05,,14.6,210,30.86,Running
+32,MAC032,Rapier Loom 32,Rapier Loom,Savio,2021-11-21,,4.7,390,6.75,Running
+33,MAC033,Air Jet Loom 33,Air Jet Loom,Lakshmi Machine Works,2017-06-12,2030-01-07,12.6,354,48.06,Retired
+34,MAC034,Air Jet Loom 34,Air Jet Loom,Picanol,2015-10-01,2031-02-24,15.4,919,43.0,Retired
+35,MAC035,Air Jet Loom 35,Air Jet Loom,Tsudakoma,2023-07-03,,3.1,248,7.14,Running
+36,MAC036,Stitching Machine 36,Stitching Machine,Rieter,2017-02-24,,9.5,294,5.71,Under Maintenance
+37,MAC037,Dyeing Machine 37,Dyeing Machine,Toyota,2024-01-11,2029-02-08,5.1,348,7.33,Retired
+38,MAC038,Embroidery Machine 38,Embroidery Machine,Lakshmi Machine Works,2016-11-08,2027-11-21,11.0,275,21.45,Retired
+39,MAC039,Dyeing Machine 39,Dyeing Machine,Rieter,2014-05-12,,12.2,848,56.06,Running
+40,MAC040,Packing Machine 40,Packing Machine,Toyota,2018-03-10,2027-04-14,9.1,443,39.82,Retired
+41,MAC041,Embroidery Machine 41,Embroidery Machine,Itema,2022-12-18,,3.6,740,42.11,Idle
+42,MAC042,Cutting Machine 42,Cutting Machine,Itema,2018-08-03,,8.0,616,52.5,Under Maintenance
+43,MAC043,Dyeing Machine 43,Dyeing Machine,Itema,2024-05-20,,2.2,795,5.32,Idle
+44,MAC044,Stitching Machine 44,Stitching Machine,Picanol,2017-02-17,,9.5,243,32.86,Running
+45,MAC045,Rapier Loom 45,Rapier Loom,Itema,2018-08-12,2025-04-10,6.7,602,42.8,Retired
+46,MAC046,Stitching Machine 46,Stitching Machine,Savio,2021-11-12,,4.7,226,8.7,Under Maintenance
+47,MAC047,Dyeing Machine 47,Dyeing Machine,Tsudakoma,2012-01-01,,14.6,210,27.92,Under Maintenance
+48,MAC048,Packing Machine 48,Packing Machine,Tsudakoma,2012-03-02,,14.4,906,19.09,Under Maintenance
+49,MAC049,Rapier Loom 49,Rapier Loom,Rieter,2020-12-27,,5.6,717,59.89,Under Maintenance
+50,MAC050,Air Jet Loom 50,Air Jet Loom,Picanol,2022-02-11,2036-08-17,14.5,583,55.7,Retired
+51,MAC051,Cutting Machine 51,Cutting Machine,Tsudakoma,2019-05-03,2033-06-23,14.1,979,54.89,Retired
+52,MAC052,Rapier Loom 52,Rapier Loom,Itema,2018-03-08,2032-02-07,13.9,509,22.21,Retired
+53,MAC053,Rapier Loom 53,Rapier Loom,Lakshmi Machine Works,2022-05-12,,4.2,305,38.46,Idle
+54,MAC054,Rapier Loom 54,Rapier Loom,Rieter,2015-03-03,,11.4,930,5.3,Idle
+55,MAC055,Air Jet Loom 55,Air Jet Loom,Tsudakoma,2017-05-11,,9.2,824,12.37,Idle
+56,MAC056,Stitching Machine 56,Stitching Machine,Itema,2018-05-28,,8.2,643,13.78,Idle
+57,MAC057,Air Jet Loom 57,Air Jet Loom,Rieter,2023-01-31,,3.5,679,41.47,Running
+58,MAC058,Rapier Loom 58,Rapier Loom,Itema,2012-10-25,,13.8,892,44.81,Idle
+59,MAC059,Embroidery Machine 59,Embroidery Machine,Tsudakoma,2019-12-16,,6.6,550,29.29,Under Maintenance
+60,MAC060,Cutting Machine 60,Cutting Machine,Savio,2022-05-30,,4.2,563,43.42,Idle
+61,MAC061,Embroidery Machine 61,Embroidery Machine,Lakshmi Machine Works,2019-06-24,2034-01-31,14.6,565,19.63,Retired
+62,MAC062,Air Jet Loom 62,Air Jet Loom,Picanol,2014-10-07,2028-01-10,13.3,202,58.62,Retired
+63,MAC063,Rapier Loom 63,Rapier Loom,Picanol,2018-04-30,2030-05-17,12.0,726,37.16,Retired
+64,MAC064,Dyeing Machine 64,Dyeing Machine,Savio,2016-03-12,,10.4,800,37.41,Idle
+65,MAC065,Rapier Loom 65,Rapier Loom,Tsudakoma,2014-12-17,2027-02-21,12.2,341,44.76,Retired
+66,MAC066,Cutting Machine 66,Cutting Machine,Lakshmi Machine Works,2023-11-29,,2.7,628,7.48,Idle
+67,MAC067,Rapier Loom 67,Rapier Loom,Itema,2018-10-09,2030-06-08,11.7,961,41.38,Retired
+68,MAC068,Stitching Machine 68,Stitching Machine,Rieter,2018-08-26,,8.0,524,34.75,Running
+69,MAC069,Dyeing Machine 69,Dyeing Machine,Toyota,2016-07-20,,10.1,213,34.11,Idle
+70,MAC070,Cutting Machine 70,Cutting Machine,Lakshmi Machine Works,2018-07-18,2032-02-14,13.6,710,9.31,Retired
+71,MAC071,Air Jet Loom 71,Air Jet Loom,Tsudakoma,2020-12-25,,5.6,926,29.25,Idle
+72,MAC072,Stitching Machine 72,Stitching Machine,Tsudakoma,2014-11-27,2027-12-26,13.1,967,59.49,Retired
+73,MAC073,Cutting Machine 73,Cutting Machine,Toyota,2018-06-15,2033-01-19,14.6,618,44.37,Retired
+74,MAC074,Air Jet Loom 74,Air Jet Loom,Lakshmi Machine Works,2021-11-30,,4.7,920,32.57,Idle
+75,MAC075,Embroidery Machine 75,Embroidery Machine,Toyota,2013-09-04,,12.9,363,47.4,Running
+76,MAC076,Air Jet Loom 76,Air Jet Loom,Lakshmi Machine Works,2013-12-31,,12.6,997,36.31,Under Maintenance
+77,MAC077,Packing Machine 77,Packing Machine,Picanol,2015-05-22,,11.2,794,52.09,Under Maintenance
+78,MAC078,Cutting Machine 78,Cutting Machine,Lakshmi Machine Works,2021-12-07,,4.7,612,58.97,Under Maintenance
+79,MAC079,Stitching Machine 79,Stitching Machine,Tsudakoma,2013-06-25,,13.1,830,58.55,Idle
+80,MAC080,Air Jet Loom 80,Air Jet Loom,Toyota,2020-06-17,2029-04-13,8.8,310,12.86,Retired
+81,MAC081,Rapier Loom 81,Rapier Loom,Tsudakoma,2024-10-24,,1.8,306,51.18,Running
+82,MAC082,Cutting Machine 82,Cutting Machine,Rieter,2017-10-13,,8.8,460,34.52,Under Maintenance
+83,MAC083,Rapier Loom 83,Rapier Loom,Savio,2023-02-21,,3.5,964,59.63,Under Maintenance
+84,MAC084,Air Jet Loom 84,Air Jet Loom,Tsudakoma,2014-12-17,,11.6,289,48.43,Under Maintenance
+85,MAC085,Packing Machine 85,Packing Machine,Toyota,2023-05-19,,3.2,829,21.64,Under Maintenance
+86,MAC086,Packing Machine 86,Packing Machine,Rieter,2012-09-05,,13.9,939,46.84,Idle
+87,MAC087,Embroidery Machine 87,Embroidery Machine,Toyota,2014-08-30,2024-12-28,10.3,839,29.16,Retired
+88,MAC088,Air Jet Loom 88,Air Jet Loom,Itema,2025-02-03,,1.5,293,53.3,Idle
+89,MAC089,Packing Machine 89,Packing Machine,Toyota,2021-03-11,,5.4,891,49.25,Running
+90,MAC090,Stitching Machine 90,Stitching Machine,Rieter,2022-09-16,,3.9,217,38.81,Under Maintenance
+91,MAC091,Air Jet Loom 91,Air Jet Loom,Toyota,2024-09-24,2036-03-01,11.4,236,23.22,Retired
+92,MAC092,Rapier Loom 92,Rapier Loom,Itema,2019-06-23,2032-10-31,13.4,487,56.62,Retired
+93,MAC093,Stitching Machine 93,Stitching Machine,Tsudakoma,2023-10-07,2036-06-01,12.7,539,55.24,Retired
+94,MAC094,Dyeing Machine 94,Dyeing Machine,Tsudakoma,2012-05-20,,14.2,809,49.7,Idle
+95,MAC095,Dyeing Machine 95,Dyeing Machine,Lakshmi Machine Works,2020-08-26,,5.9,893,29.7,Idle
+96,MAC096,Air Jet Loom 96,Air Jet Loom,Toyota,2023-04-03,,3.3,328,41.86,Idle
+97,MAC097,Packing Machine 97,Packing Machine,Rieter,2025-04-24,2040-03-21,14.9,285,20.07,Retired
+98,MAC098,Stitching Machine 98,Stitching Machine,Picanol,2024-11-24,,1.7,794,44.96,Under Maintenance
+99,MAC099,Embroidery Machine 99,Embroidery Machine,Rieter,2022-12-10,,3.7,334,27.62,Idle
+100,MAC100,Stitching Machine 100,Stitching Machine,Tsudakoma,2018-03-14,,8.4,260,6.03,Running
+101,MAC101,Stitching Machine 101,Stitching Machine,Rieter,2014-11-12,,11.7,600,49.8,Running
+102,MAC102,Dyeing Machine 102,Dyeing Machine,Rieter,2022-09-04,2036-01-05,13.3,268,30.48,Retired
+103,MAC103,Dyeing Machine 103,Dyeing Machine,Toyota,2025-05-03,,1.3,969,40.62,Idle
+104,MAC104,Air Jet Loom 104,Air Jet Loom,Itema,2016-05-16,2024-05-10,8.0,291,42.47,Retired
+105,MAC105,Cutting Machine 105,Cutting Machine,Picanol,2015-02-25,,11.4,910,43.75,Idle
+106,MAC106,Stitching Machine 106,Stitching Machine,Toyota,2017-04-23,,9.3,585,38.31,Under Maintenance
+107,MAC107,Cutting Machine 107,Cutting Machine,Itema,2014-02-19,,12.5,822,15.87,Under Maintenance
+108,MAC108,Rapier Loom 108,Rapier Loom,Savio,2014-06-10,,12.2,622,35.0,Under Maintenance
+109,MAC109,Rapier Loom 109,Rapier Loom,Picanol,2016-12-18,,9.6,431,56.13,Idle
+110,MAC110,Packing Machine 110,Packing Machine,Picanol,2017-12-28,,8.6,926,18.15,Under Maintenance
+111,MAC111,Stitching Machine 111,Stitching Machine,Picanol,2023-07-02,,3.1,480,30.43,Idle
+112,MAC112,Stitching Machine 112,Stitching Machine,Itema,2021-06-16,,5.1,533,55.02,Idle
+113,MAC113,Dyeing Machine 113,Dyeing Machine,Rieter,2013-12-04,,12.7,820,30.94,Idle
+114,MAC114,Dyeing Machine 114,Dyeing Machine,Rieter,2014-05-10,,12.2,688,6.75,Under Maintenance
+115,MAC115,Stitching Machine 115,Stitching Machine,Toyota,2014-10-02,2024-12-11,10.2,468,25.75,Retired
+116,MAC116,Packing Machine 116,Packing Machine,Savio,2012-02-05,2023-06-23,11.4,640,30.95,Retired
+117,MAC117,Air Jet Loom 117,Air Jet Loom,Lakshmi Machine Works,2019-11-09,2033-08-05,13.7,446,27.74,Retired
+118,MAC118,Dyeing Machine 118,Dyeing Machine,Rieter,2019-01-30,,7.5,854,50.68,Idle
+119,MAC119,Stitching Machine 119,Stitching Machine,Itema,2021-09-04,,4.9,973,43.74,Under Maintenance
+120,MAC120,Embroidery Machine 120,Embroidery Machine,Toyota,2021-04-10,,5.3,937,10.19,Running

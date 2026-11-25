@@ -1,0 +1,251 @@
+﻿supplier_id,supplier_code,supplier_name,material_supplied,city,state,supplier_rating,lead_time_days,supplier_status
+1,SUP0001,Soni-Walia,Cotton Yarn,Ahmedabad,Gujarat,3.71,30,Inactive
+2,SUP0002,"Agrawal, Dutt and Dhar",Fabric,Jaipur,Rajasthan,3.72,30,Inactive
+3,SUP0003,Chander Group,Cartons,Ichalkaranji,Maharashtra,4.3,24,Inactive
+4,SUP0004,Bajwa Ltd,Polyester Yarn,Coimbatore,Tamil Nadu,4.43,19,Inactive
+5,SUP0005,Vyas Inc,Labels,Tiruppur,Tamil Nadu,4.59,26,Inactive
+6,SUP0006,Lad LLC,Elastic,Surat,Gujarat,4.52,2,Inactive
+7,SUP0007,"Mittal, Reddy and Golla",Fabric,Erode,Tamil Nadu,4.45,14,Inactive
+8,SUP0008,Shan PLC,Labels,Nagpur,Maharashtra,4.0,4,Inactive
+9,SUP0009,"Bhavsar, Arora and Agate",Polyester Yarn,Coimbatore,Tamil Nadu,3.97,4,Active
+10,SUP0010,Borra Inc,Cotton Yarn,Jaipur,Rajasthan,3.67,29,Active
+11,SUP0011,Narayan Group,Chemicals,Mumbai,Maharashtra,4.83,4,Active
+12,SUP0012,Sharaf-Brar,Chemicals,Surat,Gujarat,3.86,4,Inactive
+13,SUP0013,"Bains, Prakash and Kapadia",Cartons,Ludhiana,Punjab,4.36,10,Active
+14,SUP0014,"Cheema, Panchal and Shenoy",Polyester Yarn,Nagpur,Maharashtra,4.47,22,Active
+15,SUP0015,Bassi-Sani,Labels,Ichalkaranji,Maharashtra,3.69,15,Inactive
+16,SUP0016,"Kamdar, Vasa and Mand",Reactive Dyes,Ludhiana,Punjab,4.44,22,Inactive
+17,SUP0017,"Gade, Chaudhari and Pandya",Threads,Nagpur,Maharashtra,4.21,25,Active
+18,SUP0018,"Zacharia, Nigam and Thaker",Threads,Pune,Maharashtra,3.98,11,Inactive
+19,SUP0019,Lala Inc,Cartons,Tiruppur,Tamil Nadu,4.69,20,Active
+20,SUP0020,Boase-Rattan,Labels,Hyderabad,Telangana,3.99,25,Inactive
+21,SUP0021,"Prabhu, Verma and D’Alia",Cartons,Surat,Gujarat,3.91,11,Inactive
+22,SUP0022,"Dass, Bava and Mani",Cotton Yarn,Jaipur,Rajasthan,4.22,12,Active
+23,SUP0023,Aggarwal-Raja,Fabric,Pune,Maharashtra,3.76,23,Active
+24,SUP0024,"Johal, Bakshi and Subramanian",Elastic,Pune,Maharashtra,3.8,18,Active
+25,SUP0025,"Vig, Nair and Dyal",Labels,Tiruppur,Tamil Nadu,4.39,17,Inactive
+26,SUP0026,Kalla-Dora,Fabric,Panipat,Haryana,3.87,26,Inactive
+27,SUP0027,Sagar-Kara,Cartons,Hyderabad,Telangana,4.44,19,Inactive
+28,SUP0028,"Dalal, Bansal and Garg",Polyester Yarn,Mumbai,Maharashtra,4.89,26,Active
+29,SUP0029,Bandi Group,Reactive Dyes,Ahmedabad,Gujarat,3.72,10,Inactive
+30,SUP0030,Reddy PLC,Elastic,Erode,Tamil Nadu,4.85,4,Active
+31,SUP0031,Garg-Chhabra,Cartons,Nagpur,Maharashtra,4.83,13,Inactive
+32,SUP0032,Pall Ltd,Labels,Mumbai,Maharashtra,3.84,29,Active
+33,SUP0033,Pant PLC,Elastic,Hyderabad,Telangana,4.66,19,Inactive
+34,SUP0034,Sant PLC,Fabric,Ahmedabad,Gujarat,3.77,9,Active
+35,SUP0035,Om-Johal,Threads,Ichalkaranji,Maharashtra,3.58,6,Inactive
+36,SUP0036,Palla Inc,Elastic,Ludhiana,Punjab,4.6,14,Active
+37,SUP0037,"Pingle, Kuruvilla and Behl",Labels,Tiruppur,Tamil Nadu,4.46,15,Inactive
+38,SUP0038,Dhar LLC,Elastic,Erode,Tamil Nadu,4.61,22,Active
+39,SUP0039,Khalsa-Dhillon,Reactive Dyes,Ichalkaranji,Maharashtra,3.79,3,Active
+40,SUP0040,"Ghose, Natarajan and Mukhopadhyay",Fabric,Hyderabad,Telangana,3.69,3,Inactive
+41,SUP0041,Kashyap-Sheth,Chemicals,Erode,Tamil Nadu,4.59,15,Inactive
+42,SUP0042,Raju Group,Polyester Yarn,Erode,Tamil Nadu,3.93,28,Inactive
+43,SUP0043,"Dugal, Sridhar and Thaman",Reactive Dyes,Ludhiana,Punjab,4.08,16,Inactive
+44,SUP0044,"Wadhwa, Gaba and Nath",Polyester Yarn,Tiruppur,Tamil Nadu,4.42,4,Inactive
+45,SUP0045,Patil Ltd,Labels,Nagpur,Maharashtra,3.86,21,Active
+46,SUP0046,"Lalla, Shetty and Goda",Threads,Mumbai,Maharashtra,3.69,18,Active
+47,SUP0047,Roy-Aggarwal,Cartons,Pune,Maharashtra,4.06,11,Inactive
+48,SUP0048,Dass-Majumdar,Cotton Yarn,Surat,Gujarat,4.03,9,Active
+49,SUP0049,Koshy LLC,Labels,Mumbai,Maharashtra,4.64,3,Inactive
+50,SUP0050,Narain Group,Cotton Yarn,Hyderabad,Telangana,4.28,15,Inactive
+51,SUP0051,Shroff-Pillay,Elastic,Tiruppur,Tamil Nadu,4.04,11,Inactive
+52,SUP0052,"De, Kanda and Hayre",Chemicals,Ichalkaranji,Maharashtra,4.72,30,Inactive
+53,SUP0053,Venkataraman-Issac,Chemicals,Jaipur,Rajasthan,4.85,21,Inactive
+54,SUP0054,"Tara, Rege and Roy",Threads,Ichalkaranji,Maharashtra,4.34,30,Active
+55,SUP0055,Iyengar-Magar,Cotton Yarn,Ahmedabad,Gujarat,4.94,25,Inactive
+56,SUP0056,Pai LLC,Elastic,Jaipur,Rajasthan,3.99,10,Active
+57,SUP0057,"Shah, Viswanathan and Srinivas",Chemicals,Nagpur,Maharashtra,4.2,19,Inactive
+58,SUP0058,Singh LLC,Cotton Yarn,Pune,Maharashtra,4.42,27,Inactive
+59,SUP0059,"Dash, Thaman and Kata",Packaging Material,Panipat,Haryana,4.4,2,Inactive
+60,SUP0060,"Contractor, Mane and Kaur",Fabric,Panipat,Haryana,4.12,21,Inactive
+61,SUP0061,"Walla, Sarkar and Cheema",Labels,Panipat,Haryana,4.95,12,Active
+62,SUP0062,"Deol, Lanka and Desai",Elastic,Tiruppur,Tamil Nadu,3.71,22,Inactive
+63,SUP0063,Khurana-Chand,Elastic,Ahmedabad,Gujarat,3.8,15,Active
+64,SUP0064,Sidhu Ltd,Chemicals,Indore,Madhya Pradesh,4.91,7,Active
+65,SUP0065,Banerjee-Parsa,Packaging Material,Mumbai,Maharashtra,3.57,26,Inactive
+66,SUP0066,Tata-Kumar,Threads,Ahmedabad,Gujarat,3.7,12,Inactive
+67,SUP0067,"Lala, Dhar and Kibe",Threads,Panipat,Haryana,3.58,27,Active
+68,SUP0068,Bumb-Grover,Fabric,Coimbatore,Tamil Nadu,3.97,29,Active
+69,SUP0069,Mohan-Kalita,Labels,Ludhiana,Punjab,3.89,15,Inactive
+70,SUP0070,"Reddy, Hans and Comar",Polyester Yarn,Erode,Tamil Nadu,4.32,4,Inactive
+71,SUP0071,Nadig Ltd,Packaging Material,Hyderabad,Telangana,4.92,12,Inactive
+72,SUP0072,Bal-Dua,Reactive Dyes,Solapur,Maharashtra,3.64,26,Active
+73,SUP0073,Nagar Inc,Packaging Material,Indore,Madhya Pradesh,4.75,5,Active
+74,SUP0074,Om and Sons,Packaging Material,Tiruppur,Tamil Nadu,3.93,6,Inactive
+75,SUP0075,"Prashad, Andra and Dara",Labels,Solapur,Maharashtra,4.04,30,Inactive
+76,SUP0076,"Dhingra, Raghavan and Saran",Chemicals,Mumbai,Maharashtra,4.94,30,Active
+77,SUP0077,Dass-Venkataraman,Cotton Yarn,Coimbatore,Tamil Nadu,4.11,17,Inactive
+78,SUP0078,Chhabra-Garde,Fabric,Erode,Tamil Nadu,4.39,19,Active
+79,SUP0079,"Nadkarni, Verma and Contractor",Cotton Yarn,Ludhiana,Punjab,5.0,14,Active
+80,SUP0080,"Bhardwaj, Batta and Bose",Packaging Material,Ahmedabad,Gujarat,4.96,20,Active
+81,SUP0081,Kota-Datta,Reactive Dyes,Indore,Madhya Pradesh,4.24,15,Active
+82,SUP0082,"Arya, Radhakrishnan and Wagle",Polyester Yarn,Mumbai,Maharashtra,3.61,14,Inactive
+83,SUP0083,Patla-Bhatnagar,Cartons,Jaipur,Rajasthan,3.86,6,Inactive
+84,SUP0084,"Dalal, Viswanathan and Gaba",Reactive Dyes,Pune,Maharashtra,3.66,15,Inactive
+85,SUP0085,Kulkarni Inc,Cartons,Ahmedabad,Gujarat,3.57,23,Active
+86,SUP0086,Bains Ltd,Cotton Yarn,Hyderabad,Telangana,4.9,17,Inactive
+87,SUP0087,"Trivedi, Ratti and Banik",Labels,Surat,Gujarat,3.55,2,Active
+88,SUP0088,"Divan, Saxena and Oak",Elastic,Ahmedabad,Gujarat,4.19,7,Active
+89,SUP0089,"Raja, Edwin and Deep",Labels,Panipat,Haryana,4.12,4,Inactive
+90,SUP0090,Badal-Sampath,Polyester Yarn,Pune,Maharashtra,4.46,28,Inactive
+91,SUP0091,Soman LLC,Packaging Material,Solapur,Maharashtra,3.72,12,Active
+92,SUP0092,Reddy Ltd,Fabric,Panipat,Haryana,4.97,22,Inactive
+93,SUP0093,"Walia, Jayaraman and Goda",Elastic,Panipat,Haryana,4.58,11,Active
+94,SUP0094,Parsa-Gola,Chemicals,Jaipur,Rajasthan,4.07,28,Inactive
+95,SUP0095,"Arora, Halder and Bawa",Cotton Yarn,Jaipur,Rajasthan,3.68,17,Active
+96,SUP0096,Vyas-Singhal,Polyester Yarn,Indore,Madhya Pradesh,3.72,6,Active
+97,SUP0097,Nanda LLC,Reactive Dyes,Solapur,Maharashtra,3.86,7,Inactive
+98,SUP0098,"Tata, Kant and Chhabra",Fabric,Panipat,Haryana,3.56,24,Active
+99,SUP0099,Bhargava-Minhas,Packaging Material,Coimbatore,Tamil Nadu,4.43,14,Inactive
+100,SUP0100,Ramaswamy-Wable,Threads,Indore,Madhya Pradesh,4.98,27,Active
+101,SUP0101,Dugar Ltd,Chemicals,Ahmedabad,Gujarat,4.67,22,Inactive
+102,SUP0102,"Tailor, Lall and Bava",Cotton Yarn,Panipat,Haryana,3.71,16,Inactive
+103,SUP0103,"Parsa, Acharya and Jha",Elastic,Ludhiana,Punjab,4.95,11,Inactive
+104,SUP0104,Pall LLC,Threads,Panipat,Haryana,3.61,29,Inactive
+105,SUP0105,"Pathak, Minhas and Mangat",Labels,Erode,Tamil Nadu,3.69,3,Inactive
+106,SUP0106,Nayak Inc,Polyester Yarn,Tiruppur,Tamil Nadu,3.68,24,Inactive
+107,SUP0107,Kapadia-Agarwal,Fabric,Solapur,Maharashtra,3.53,8,Inactive
+108,SUP0108,Ram PLC,Reactive Dyes,Jaipur,Rajasthan,4.16,28,Active
+109,SUP0109,"Sundaram, Shetty and Kohli",Fabric,Indore,Madhya Pradesh,4.43,28,Active
+110,SUP0110,"Kumer, Nigam and Pandit",Cartons,Panipat,Haryana,4.68,21,Active
+111,SUP0111,Kala Group,Fabric,Surat,Gujarat,4.97,2,Inactive
+112,SUP0112,Gour-Borra,Packaging Material,Erode,Tamil Nadu,4.3,24,Active
+113,SUP0113,Sagar-Mutti,Chemicals,Indore,Madhya Pradesh,4.8,14,Active
+114,SUP0114,"Apte, Chakrabarti and Bandi",Labels,Solapur,Maharashtra,4.88,19,Inactive
+115,SUP0115,Mukherjee LLC,Reactive Dyes,Solapur,Maharashtra,4.4,14,Inactive
+116,SUP0116,Chahal-Verma,Cartons,Ludhiana,Punjab,4.91,15,Active
+117,SUP0117,Lal-Shenoy,Packaging Material,Panipat,Haryana,4.69,8,Active
+118,SUP0118,Dara Ltd,Polyester Yarn,Indore,Madhya Pradesh,4.74,17,Active
+119,SUP0119,Karan-Kala,Labels,Surat,Gujarat,3.64,12,Active
+120,SUP0120,Chandra LLC,Threads,Pune,Maharashtra,4.26,11,Inactive
+121,SUP0121,"Goswami, Sekhon and Bhandari",Labels,Indore,Madhya Pradesh,3.68,17,Active
+122,SUP0122,Trivedi-Ben,Cartons,Ludhiana,Punjab,4.28,10,Inactive
+123,SUP0123,Kumer-Ramesh,Cotton Yarn,Coimbatore,Tamil Nadu,4.58,20,Active
+124,SUP0124,Roy Inc,Chemicals,Ludhiana,Punjab,4.51,2,Active
+125,SUP0125,Babu LLC,Reactive Dyes,Ahmedabad,Gujarat,4.97,25,Inactive
+126,SUP0126,Mahajan-Cherian,Packaging Material,Erode,Tamil Nadu,3.65,16,Inactive
+127,SUP0127,"Sarin, Narayanan and Mistry",Cotton Yarn,Tiruppur,Tamil Nadu,4.77,26,Active
+128,SUP0128,Bava-Doshi,Polyester Yarn,Nagpur,Maharashtra,4.88,11,Inactive
+129,SUP0129,Datta LLC,Cotton Yarn,Jaipur,Rajasthan,3.78,15,Inactive
+130,SUP0130,"Pall, Dave and Kari",Cartons,Nagpur,Maharashtra,4.56,6,Inactive
+131,SUP0131,"Kibe, Konda and Bhavsar",Labels,Coimbatore,Tamil Nadu,5.0,21,Inactive
+132,SUP0132,"Gupta, Saraf and Bhagat",Packaging Material,Pune,Maharashtra,3.84,15,Active
+133,SUP0133,Mukhopadhyay LLC,Fabric,Pune,Maharashtra,4.68,8,Active
+134,SUP0134,"Dasgupta, Gopal and Malhotra",Fabric,Solapur,Maharashtra,4.71,4,Active
+135,SUP0135,"Naik, Nadig and Ahuja",Threads,Tiruppur,Tamil Nadu,3.94,8,Inactive
+136,SUP0136,Khalsa Group,Cotton Yarn,Tiruppur,Tamil Nadu,4.4,9,Inactive
+137,SUP0137,Gala Group,Chemicals,Ichalkaranji,Maharashtra,3.72,24,Inactive
+138,SUP0138,Chandran-Nayar,Elastic,Coimbatore,Tamil Nadu,4.39,23,Active
+139,SUP0139,Chadha-Gupta,Fabric,Pune,Maharashtra,4.32,16,Inactive
+140,SUP0140,"Gole, Uppal and Basak",Fabric,Erode,Tamil Nadu,4.97,2,Inactive
+141,SUP0141,Chanda-Rajagopal,Cotton Yarn,Hyderabad,Telangana,4.96,2,Inactive
+142,SUP0142,Oommen-Trivedi,Elastic,Hyderabad,Telangana,4.79,17,Active
+143,SUP0143,Sule Group,Cartons,Ludhiana,Punjab,3.92,7,Active
+144,SUP0144,Kamdar-Chauhan,Elastic,Pune,Maharashtra,4.99,29,Inactive
+145,SUP0145,Kapur Ltd,Cotton Yarn,Surat,Gujarat,4.3,26,Inactive
+146,SUP0146,Deep-Goswami,Elastic,Tiruppur,Tamil Nadu,3.99,13,Inactive
+147,SUP0147,Upadhyay LLC,Cartons,Ahmedabad,Gujarat,3.58,6,Inactive
+148,SUP0148,"Oak, Randhawa and Savant",Elastic,Ichalkaranji,Maharashtra,4.91,11,Inactive
+149,SUP0149,"Pall, Tata and Mandal",Threads,Ludhiana,Punjab,4.69,3,Inactive
+150,SUP0150,Contractor-Khosla,Labels,Ichalkaranji,Maharashtra,3.99,5,Inactive
+151,SUP0151,"Loke, Gandhi and Kata",Cartons,Ichalkaranji,Maharashtra,4.47,4,Inactive
+152,SUP0152,Narayan and Sons,Cotton Yarn,Ahmedabad,Gujarat,4.76,10,Active
+153,SUP0153,Bansal PLC,Labels,Mumbai,Maharashtra,4.45,7,Inactive
+154,SUP0154,Sharaf-Patil,Fabric,Erode,Tamil Nadu,4.84,15,Inactive
+155,SUP0155,Issac Inc,Elastic,Ludhiana,Punjab,4.97,4,Inactive
+156,SUP0156,"Kaur, Nath and Kala",Fabric,Ludhiana,Punjab,3.63,8,Active
+157,SUP0157,"Bumb, Badami and Madan",Reactive Dyes,Pune,Maharashtra,4.98,17,Active
+158,SUP0158,Krishnamurthy Group,Polyester Yarn,Tiruppur,Tamil Nadu,4.16,18,Active
+159,SUP0159,Prashad-Iyer,Reactive Dyes,Erode,Tamil Nadu,3.88,2,Inactive
+160,SUP0160,"Kala, Palla and Kuruvilla",Elastic,Hyderabad,Telangana,4.95,27,Active
+161,SUP0161,Raju PLC,Chemicals,Panipat,Haryana,4.43,6,Active
+162,SUP0162,"Chakrabarti, Sarkar and Chanda",Polyester Yarn,Tiruppur,Tamil Nadu,4.08,8,Inactive
+163,SUP0163,Chakraborty Inc,Labels,Solapur,Maharashtra,3.81,21,Inactive
+164,SUP0164,Lad-Khalsa,Elastic,Coimbatore,Tamil Nadu,3.93,15,Active
+165,SUP0165,"Bansal, Rattan and Korpal",Reactive Dyes,Ludhiana,Punjab,4.17,21,Inactive
+166,SUP0166,"Mammen, Patla and Deshmukh",Labels,Coimbatore,Tamil Nadu,4.13,21,Active
+167,SUP0167,Bansal and Sons,Labels,Hyderabad,Telangana,3.99,7,Inactive
+168,SUP0168,Desai Inc,Cartons,Ahmedabad,Gujarat,4.32,5,Active
+169,SUP0169,"Babu, Kota and Kohli",Fabric,Pune,Maharashtra,4.46,8,Active
+170,SUP0170,Loke-D’Alia,Threads,Mumbai,Maharashtra,3.5,11,Inactive
+171,SUP0171,Mandal PLC,Fabric,Jaipur,Rajasthan,4.21,30,Active
+172,SUP0172,"Om, Deol and Soman",Labels,Mumbai,Maharashtra,3.88,18,Active
+173,SUP0173,Palan-Kapoor,Fabric,Erode,Tamil Nadu,4.54,21,Inactive
+174,SUP0174,Balakrishnan LLC,Reactive Dyes,Panipat,Haryana,4.43,2,Inactive
+175,SUP0175,"Kumar, Contractor and Andra",Threads,Solapur,Maharashtra,3.73,6,Active
+176,SUP0176,"Amble, Goswami and Koshy",Polyester Yarn,Panipat,Haryana,3.76,10,Inactive
+177,SUP0177,Savant-Badami,Polyester Yarn,Ahmedabad,Gujarat,4.64,28,Active
+178,SUP0178,Sethi-Parmar,Elastic,Jaipur,Rajasthan,4.25,15,Active
+179,SUP0179,Borra and Sons,Labels,Solapur,Maharashtra,3.82,6,Active
+180,SUP0180,Butala Inc,Packaging Material,Pune,Maharashtra,3.85,12,Active
+181,SUP0181,Guha LLC,Fabric,Coimbatore,Tamil Nadu,3.98,16,Active
+182,SUP0182,"Sahota, Manne and Mannan",Labels,Ahmedabad,Gujarat,4.28,21,Active
+183,SUP0183,"Patla, Kumar and Pai",Reactive Dyes,Pune,Maharashtra,4.5,26,Active
+184,SUP0184,"Krishnamurthy, Mutti and Uppal",Chemicals,Ichalkaranji,Maharashtra,4.54,3,Inactive
+185,SUP0185,Zachariah-Ganesh,Threads,Pune,Maharashtra,3.88,8,Inactive
+186,SUP0186,"Bail, Kumer and Sathe",Reactive Dyes,Tiruppur,Tamil Nadu,4.67,16,Inactive
+187,SUP0187,Ramakrishnan-Mane,Cartons,Panipat,Haryana,4.72,29,Inactive
+188,SUP0188,Rout LLC,Packaging Material,Solapur,Maharashtra,4.25,3,Active
+189,SUP0189,"Raval, Shetty and Dhaliwal",Chemicals,Solapur,Maharashtra,3.57,9,Inactive
+190,SUP0190,Karnik Inc,Cotton Yarn,Panipat,Haryana,4.94,5,Inactive
+191,SUP0191,Sama PLC,Fabric,Mumbai,Maharashtra,4.63,6,Inactive
+192,SUP0192,"Buch, Chander and Singhal",Cotton Yarn,Ludhiana,Punjab,4.86,19,Active
+193,SUP0193,Kadakia-Bhatia,Cartons,Erode,Tamil Nadu,4.51,2,Active
+194,SUP0194,"Samra, Raval and Dave",Threads,Hyderabad,Telangana,3.89,27,Inactive
+195,SUP0195,"Contractor, Hans and Misra",Fabric,Surat,Gujarat,3.9,26,Inactive
+196,SUP0196,Mall-Sridhar,Threads,Indore,Madhya Pradesh,3.58,15,Inactive
+197,SUP0197,Deo-Thakkar,Packaging Material,Indore,Madhya Pradesh,4.47,8,Inactive
+198,SUP0198,Hans Ltd,Chemicals,Hyderabad,Telangana,3.59,23,Inactive
+199,SUP0199,Dhawan LLC,Packaging Material,Pune,Maharashtra,3.67,27,Active
+200,SUP0200,"Gara, Gole and Sarna",Chemicals,Ludhiana,Punjab,4.4,28,Inactive
+201,SUP0201,"Ahluwalia, More and Vala",Packaging Material,Jaipur,Rajasthan,4.09,21,Active
+202,SUP0202,"Mangal, Kunda and Dyal",Cartons,Panipat,Haryana,3.55,26,Active
+203,SUP0203,Parekh-Nagarajan,Fabric,Ichalkaranji,Maharashtra,3.72,30,Active
+204,SUP0204,Varma-Vaidya,Cotton Yarn,Panipat,Haryana,4.83,30,Active
+205,SUP0205,"Bora, Koshy and Hayer",Polyester Yarn,Panipat,Haryana,4.06,26,Inactive
+206,SUP0206,Majumdar Group,Packaging Material,Ahmedabad,Gujarat,4.94,9,Inactive
+207,SUP0207,Jayaraman-Parmer,Reactive Dyes,Jaipur,Rajasthan,4.9,24,Inactive
+208,SUP0208,Boase and Sons,Cotton Yarn,Indore,Madhya Pradesh,3.98,30,Active
+209,SUP0209,Sule and Sons,Polyester Yarn,Nagpur,Maharashtra,4.52,20,Active
+210,SUP0210,"Datta, Bedi and Banik",Cartons,Erode,Tamil Nadu,4.9,3,Active
+211,SUP0211,Dalal PLC,Elastic,Ichalkaranji,Maharashtra,3.53,4,Inactive
+212,SUP0212,Bassi Ltd,Packaging Material,Coimbatore,Tamil Nadu,4.12,25,Active
+213,SUP0213,"Ben, Rai and Ravi",Fabric,Ludhiana,Punjab,3.53,11,Active
+214,SUP0214,Balay LLC,Fabric,Coimbatore,Tamil Nadu,3.95,20,Inactive
+215,SUP0215,Pathak Inc,Packaging Material,Ahmedabad,Gujarat,4.78,17,Active
+216,SUP0216,"Vohra, Yadav and Raj",Cartons,Tiruppur,Tamil Nadu,4.78,5,Active
+217,SUP0217,"Sachdev, Dora and Mammen",Polyester Yarn,Surat,Gujarat,3.85,24,Inactive
+218,SUP0218,Yogi-Chawla,Polyester Yarn,Coimbatore,Tamil Nadu,4.73,2,Active
+219,SUP0219,"Garg, Sinha and Pandey",Labels,Indore,Madhya Pradesh,3.63,17,Inactive
+220,SUP0220,Balay-Mander,Threads,Surat,Gujarat,4.22,12,Inactive
+221,SUP0221,Ramachandran-Dass,Packaging Material,Ludhiana,Punjab,4.45,3,Inactive
+222,SUP0222,"Bains, Pingle and Modi",Labels,Coimbatore,Tamil Nadu,4.47,30,Inactive
+223,SUP0223,Rai LLC,Elastic,Nagpur,Maharashtra,4.72,16,Active
+224,SUP0224,"Dyal, Hayre and Palan",Labels,Ahmedabad,Gujarat,4.78,26,Active
+225,SUP0225,Chadha-Sankaran,Threads,Tiruppur,Tamil Nadu,4.21,25,Inactive
+226,SUP0226,"Mahal, Chaudhari and Badal",Chemicals,Pune,Maharashtra,3.56,29,Inactive
+227,SUP0227,"Arya, Ray and Ramanathan",Fabric,Erode,Tamil Nadu,4.48,5,Inactive
+228,SUP0228,Grewal Inc,Reactive Dyes,Tiruppur,Tamil Nadu,3.88,2,Inactive
+229,SUP0229,"Thakur, Roy and Malhotra",Threads,Hyderabad,Telangana,4.56,7,Inactive
+230,SUP0230,"Keer, Rana and D’Alia",Threads,Hyderabad,Telangana,4.17,27,Inactive
+231,SUP0231,Char-Karan,Reactive Dyes,Tiruppur,Tamil Nadu,4.77,8,Active
+232,SUP0232,Karpe Group,Cartons,Panipat,Haryana,3.53,14,Active
+233,SUP0233,"Choudhury, Natt and Date",Packaging Material,Pune,Maharashtra,4.77,13,Inactive
+234,SUP0234,Ben-Mutti,Labels,Tiruppur,Tamil Nadu,4.02,16,Active
+235,SUP0235,Dar PLC,Cotton Yarn,Surat,Gujarat,4.32,25,Inactive
+236,SUP0236,Dass Group,Threads,Hyderabad,Telangana,4.21,2,Inactive
+237,SUP0237,Malhotra and Sons,Packaging Material,Ahmedabad,Gujarat,4.51,21,Inactive
+238,SUP0238,Saraf-Konda,Polyester Yarn,Erode,Tamil Nadu,3.78,2,Active
+239,SUP0239,"Ganguly, Chacko and Kaul",Cartons,Panipat,Haryana,4.18,23,Inactive
+240,SUP0240,Lanka-Jaggi,Cartons,Panipat,Haryana,3.61,20,Inactive
+241,SUP0241,"Chatterjee, Tiwari and Sunder",Reactive Dyes,Erode,Tamil Nadu,4.92,13,Inactive
+242,SUP0242,"Saxena, Shetty and Murthy",Polyester Yarn,Coimbatore,Tamil Nadu,4.73,19,Active
+243,SUP0243,Jhaveri LLC,Packaging Material,Hyderabad,Telangana,4.11,14,Inactive
+244,SUP0244,"Agrawal, Dey and Khalsa",Packaging Material,Surat,Gujarat,4.03,19,Active
+245,SUP0245,"Bedi, Sathe and Vaidya",Packaging Material,Mumbai,Maharashtra,4.06,20,Inactive
+246,SUP0246,Nayak-Deshmukh,Chemicals,Ahmedabad,Gujarat,4.54,29,Active
+247,SUP0247,"Prasad, Dar and Nanda",Threads,Mumbai,Maharashtra,4.12,5,Active
+248,SUP0248,Srinivasan-Mohanty,Threads,Indore,Madhya Pradesh,3.54,8,Inactive
+249,SUP0249,Shanker Ltd,Threads,Nagpur,Maharashtra,4.33,13,Inactive
+250,SUP0250,Bhagat-Thakkar,Elastic,Ichalkaranji,Maharashtra,4.88,8,Active

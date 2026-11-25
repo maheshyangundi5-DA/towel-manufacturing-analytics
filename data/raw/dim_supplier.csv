@@ -1,0 +1,251 @@
+supplier_id,supplier_code,supplier_name,material_supplied,city,state,country,supplier_rating,lead_time_days,phone,email,supplier_status
+1,SUP0001,Soni-Walia,Cotton Yarn,Ahmedabad,Gujarat,India,3.71,30,01254339022,supplier1@gmail.com,Inactive
+2,SUP0002,"Agrawal, Dutt and Dhar",Fabric,Jaipur,Rajasthan,India,3.72,30,7395400054,supplier2@gmail.com,Inactive
+3,SUP0003,Chander Group,Cartons,Ichalkaranji,Maharashtra,India,4.3,24,+914514751461,supplier3@gmail.com,Inactive
+4,SUP0004,Bajwa Ltd,Polyester Yarn,Coimbatore,Tamil Nadu,India,4.43,19,08896620527,supplier4@gmail.com,Inactive
+5,SUP0005,Vyas Inc,Labels,Tiruppur,Tamil Nadu,India,4.59,26,6108114954,supplier5@gmail.com,Inactive
+6,SUP0006,Lad LLC,Elastic,Surat,Gujarat,India,4.52,2,01438438031,supplier6@gmail.com,Inactive
+7,SUP0007,"Mittal, Reddy and Golla",Fabric,Erode,Tamil Nadu,India,4.45,14,02925220905,supplier7@gmail.com,Inactive
+8,SUP0008,Shan PLC,Labels,Nagpur,Maharashtra,India,4.0,4,8590839440,supplier8@gmail.com,Inactive
+9,SUP0009,"Bhavsar, Arora and Agate",Polyester Yarn,Coimbatore,Tamil Nadu,India,3.97,4,09348344708,supplier9@gmail.com,Active
+10,SUP0010,Borra Inc,Cotton Yarn,Jaipur,Rajasthan,India,3.67,29,09767729225,supplier10@gmail.com,Active
+11,SUP0011,Narayan Group,Chemicals,Mumbai,Maharashtra,India,4.83,4,4589621785,supplier11@gmail.com,Active
+12,SUP0012,Sharaf-Brar,Chemicals,Surat,Gujarat,India,3.86,4,03893819102,supplier12@gmail.com,Inactive
+13,SUP0013,"Bains, Prakash and Kapadia",Cartons,Ludhiana,Punjab,India,4.36,10,+911081467865,supplier13@gmail.com,Active
+14,SUP0014,"Cheema, Panchal and Shenoy",Polyester Yarn,Nagpur,Maharashtra,India,4.47,22,+911900401229,supplier14@gmail.com,Active
+15,SUP0015,Bassi-Sani,Labels,Ichalkaranji,Maharashtra,India,3.69,15,01959522581,supplier15@gmail.com,Inactive
+16,SUP0016,"Kamdar, Vasa and Mand",Reactive Dyes,Ludhiana,Punjab,India,4.44,22,1786539167,supplier16@gmail.com,Inactive
+17,SUP0017,"Gade, Chaudhari and Pandya",Threads,Nagpur,Maharashtra,India,4.21,25,+911940981299,supplier17@gmail.com,Active
+18,SUP0018,"Zacharia, Nigam and Thaker",Threads,Pune,Maharashtra,India,3.98,11,0245397326,supplier18@gmail.com,Inactive
+19,SUP0019,Lala Inc,Cartons,Tiruppur,Tamil Nadu,India,4.69,20,+914463697503,supplier19@gmail.com,Active
+20,SUP0020,Boase-Rattan,Labels,Hyderabad,Telangana,India,3.99,25,03924413542,supplier20@gmail.com,Inactive
+21,SUP0021,"Prabhu, Verma and D’Alia",Cartons,Surat,Gujarat,India,3.91,11,7627626413,supplier21@gmail.com,Inactive
+22,SUP0022,"Dass, Bava and Mani",Cotton Yarn,Jaipur,Rajasthan,India,4.22,12,06660164960,supplier22@gmail.com,Active
+23,SUP0023,Aggarwal-Raja,Fabric,Pune,Maharashtra,India,3.76,23,02685416641,supplier23@gmail.com,Active
+24,SUP0024,"Johal, Bakshi and Subramanian",Elastic,Pune,Maharashtra,India,3.8,18,06135424863,supplier24@gmail.com,Active
+25,SUP0025,"Vig, Nair and Dyal",Labels,Tiruppur,Tamil Nadu,India,4.39,17,7460624866,supplier25@gmail.com,Inactive
+26,SUP0026,Kalla-Dora,Fabric,Panipat,Haryana,India,3.87,26,1845297302,supplier26@gmail.com,Inactive
+27,SUP0027,Sagar-Kara,Cartons,Hyderabad,Telangana,India,4.44,19,8730444050,supplier27@gmail.com,Inactive
+28,SUP0028,"Dalal, Bansal and Garg",Polyester Yarn,Mumbai,Maharashtra,India,4.89,26,06361156964,supplier28@gmail.com,Active
+29,SUP0029,Bandi Group,Reactive Dyes,Ahmedabad,Gujarat,India,3.72,10,04197702226,supplier29@gmail.com,Inactive
+30,SUP0030,Reddy PLC,Elastic,Erode,Tamil Nadu,India,4.85,4,8133478045,supplier30@gmail.com,Active
+31,SUP0031,Garg-Chhabra,Cartons,Nagpur,Maharashtra,India,4.83,13,3841062303,supplier31@gmail.com,Inactive
+32,SUP0032,Pall Ltd,Labels,Mumbai,Maharashtra,India,3.84,29,+913554492578,supplier32@gmail.com,Active
+33,SUP0033,Pant PLC,Elastic,Hyderabad,Telangana,India,4.66,19,6921325248,supplier33@gmail.com,Inactive
+34,SUP0034,Sant PLC,Fabric,Ahmedabad,Gujarat,India,3.77,9,3750699317,supplier34@gmail.com,Active
+35,SUP0035,Om-Johal,Threads,Ichalkaranji,Maharashtra,India,3.58,6,1820923803,supplier35@gmail.com,Inactive
+36,SUP0036,Palla Inc,Elastic,Ludhiana,Punjab,India,4.6,14,04104403333,supplier36@gmail.com,Active
+37,SUP0037,"Pingle, Kuruvilla and Behl",Labels,Tiruppur,Tamil Nadu,India,4.46,15,3719556705,supplier37@gmail.com,Inactive
+38,SUP0038,Dhar LLC,Elastic,Erode,Tamil Nadu,India,4.61,22,02791277228,supplier38@gmail.com,Active
+39,SUP0039,Khalsa-Dhillon,Reactive Dyes,Ichalkaranji,Maharashtra,India,3.79,3,0047523031,supplier39@gmail.com,Active
+40,SUP0040,"Ghose, Natarajan and Mukhopadhyay",Fabric,Hyderabad,Telangana,India,3.69,3,08229970735,supplier40@gmail.com,Inactive
+41,SUP0041,Kashyap-Sheth,Chemicals,Erode,Tamil Nadu,India,4.59,15,+917354018647,supplier41@gmail.com,Inactive
+42,SUP0042,Raju Group,Polyester Yarn,Erode,Tamil Nadu,India,3.93,28,02205569929,supplier42@gmail.com,Inactive
+43,SUP0043,"Dugal, Sridhar and Thaman",Reactive Dyes,Ludhiana,Punjab,India,4.08,16,+910546628280,supplier43@gmail.com,Inactive
+44,SUP0044,"Wadhwa, Gaba and Nath",Polyester Yarn,Tiruppur,Tamil Nadu,India,4.42,4,0693126092,supplier44@gmail.com,Inactive
+45,SUP0045,Patil Ltd,Labels,Nagpur,Maharashtra,India,3.86,21,09721805600,supplier45@gmail.com,Active
+46,SUP0046,"Lalla, Shetty and Goda",Threads,Mumbai,Maharashtra,India,3.69,18,00845481976,supplier46@gmail.com,Active
+47,SUP0047,Roy-Aggarwal,Cartons,Pune,Maharashtra,India,4.06,11,07653550094,supplier47@gmail.com,Inactive
+48,SUP0048,Dass-Majumdar,Cotton Yarn,Surat,Gujarat,India,4.03,9,07240208259,supplier48@gmail.com,Active
+49,SUP0049,Koshy LLC,Labels,Mumbai,Maharashtra,India,4.64,3,2941769445,supplier49@gmail.com,Inactive
+50,SUP0050,Narain Group,Cotton Yarn,Hyderabad,Telangana,India,4.28,15,06680555091,supplier50@gmail.com,Inactive
+51,SUP0051,Shroff-Pillay,Elastic,Tiruppur,Tamil Nadu,India,4.04,11,09369684842,supplier51@gmail.com,Inactive
+52,SUP0052,"De, Kanda and Hayre",Chemicals,Ichalkaranji,Maharashtra,India,4.72,30,9790511893,supplier52@gmail.com,Inactive
+53,SUP0053,Venkataraman-Issac,Chemicals,Jaipur,Rajasthan,India,4.85,21,+913409419662,supplier53@gmail.com,Inactive
+54,SUP0054,"Tara, Rege and Roy",Threads,Ichalkaranji,Maharashtra,India,4.34,30,+915428455067,supplier54@gmail.com,Active
+55,SUP0055,Iyengar-Magar,Cotton Yarn,Ahmedabad,Gujarat,India,4.94,25,+919526614136,supplier55@gmail.com,Inactive
+56,SUP0056,Pai LLC,Elastic,Jaipur,Rajasthan,India,3.99,10,2580247439,supplier56@gmail.com,Active
+57,SUP0057,"Shah, Viswanathan and Srinivas",Chemicals,Nagpur,Maharashtra,India,4.2,19,6713155988,supplier57@gmail.com,Inactive
+58,SUP0058,Singh LLC,Cotton Yarn,Pune,Maharashtra,India,4.42,27,9113745199,supplier58@gmail.com,Inactive
+59,SUP0059,"Dash, Thaman and Kata",Packaging Material,Panipat,Haryana,India,4.4,2,5238665450,supplier59@gmail.com,Inactive
+60,SUP0060,"Contractor, Mane and Kaur",Fabric,Panipat,Haryana,India,4.12,21,+917059369248,supplier60@gmail.com,Inactive
+61,SUP0061,"Walla, Sarkar and Cheema",Labels,Panipat,Haryana,India,4.95,12,00217887715,supplier61@gmail.com,Active
+62,SUP0062,"Deol, Lanka and Desai",Elastic,Tiruppur,Tamil Nadu,India,3.71,22,09560274225,supplier62@gmail.com,Inactive
+63,SUP0063,Khurana-Chand,Elastic,Ahmedabad,Gujarat,India,3.8,15,+916469280820,supplier63@gmail.com,Active
+64,SUP0064,Sidhu Ltd,Chemicals,Indore,Madhya Pradesh,India,4.91,7,01538953019,supplier64@gmail.com,Active
+65,SUP0065,Banerjee-Parsa,Packaging Material,Mumbai,Maharashtra,India,3.57,26,+918533212116,supplier65@gmail.com,Inactive
+66,SUP0066,Tata-Kumar,Threads,Ahmedabad,Gujarat,India,3.7,12,07991807987,supplier66@gmail.com,Inactive
+67,SUP0067,"Lala, Dhar and Kibe",Threads,Panipat,Haryana,India,3.58,27,+912789101661,supplier67@gmail.com,Active
+68,SUP0068,Bumb-Grover,Fabric,Coimbatore,Tamil Nadu,India,3.97,29,09621819557,supplier68@gmail.com,Active
+69,SUP0069,Mohan-Kalita,Labels,Ludhiana,Punjab,India,3.89,15,8598903733,supplier69@gmail.com,Inactive
+70,SUP0070,"Reddy, Hans and Comar",Polyester Yarn,Erode,Tamil Nadu,India,4.32,4,6834268519,supplier70@gmail.com,Inactive
+71,SUP0071,Nadig Ltd,Packaging Material,Hyderabad,Telangana,India,4.92,12,05749456504,supplier71@gmail.com,Inactive
+72,SUP0072,Bal-Dua,Reactive Dyes,Solapur,Maharashtra,India,3.64,26,5129672769,supplier72@gmail.com,Active
+73,SUP0073,Nagar Inc,Packaging Material,Indore,Madhya Pradesh,India,4.75,5,4405273440,supplier73@gmail.com,Active
+74,SUP0074,Om and Sons,Packaging Material,Tiruppur,Tamil Nadu,India,3.93,6,+914710230232,supplier74@gmail.com,Inactive
+75,SUP0075,"Prashad, Andra and Dara",Labels,Solapur,Maharashtra,India,4.04,30,+917505591422,supplier75@gmail.com,Inactive
+76,SUP0076,"Dhingra, Raghavan and Saran",Chemicals,Mumbai,Maharashtra,India,4.94,30,2268506893,supplier76@gmail.com,Active
+77,SUP0077,Dass-Venkataraman,Cotton Yarn,Coimbatore,Tamil Nadu,India,4.11,17,+916561725184,supplier77@gmail.com,Inactive
+78,SUP0078,Chhabra-Garde,Fabric,Erode,Tamil Nadu,India,4.39,19,8632187443,supplier78@gmail.com,Active
+79,SUP0079,"Nadkarni, Verma and Contractor",Cotton Yarn,Ludhiana,Punjab,India,5.0,14,9511728839,supplier79@gmail.com,Active
+80,SUP0080,"Bhardwaj, Batta and Bose",Packaging Material,Ahmedabad,Gujarat,India,4.96,20,01332225016,supplier80@gmail.com,Active
+81,SUP0081,Kota-Datta,Reactive Dyes,Indore,Madhya Pradesh,India,4.24,15,00908339253,supplier81@gmail.com,Active
+82,SUP0082,"Arya, Radhakrishnan and Wagle",Polyester Yarn,Mumbai,Maharashtra,India,3.61,14,+918363379290,supplier82@gmail.com,Inactive
+83,SUP0083,Patla-Bhatnagar,Cartons,Jaipur,Rajasthan,India,3.86,6,+915147606710,supplier83@gmail.com,Inactive
+84,SUP0084,"Dalal, Viswanathan and Gaba",Reactive Dyes,Pune,Maharashtra,India,3.66,15,06056834906,supplier84@gmail.com,Inactive
+85,SUP0085,Kulkarni Inc,Cartons,Ahmedabad,Gujarat,India,3.57,23,+916862626505,supplier85@gmail.com,Active
+86,SUP0086,Bains Ltd,Cotton Yarn,Hyderabad,Telangana,India,4.9,17,04664846624,supplier86@gmail.com,Inactive
+87,SUP0087,"Trivedi, Ratti and Banik",Labels,Surat,Gujarat,India,3.55,2,01870694684,supplier87@gmail.com,Active
+88,SUP0088,"Divan, Saxena and Oak",Elastic,Ahmedabad,Gujarat,India,4.19,7,+913710789297,supplier88@gmail.com,Active
+89,SUP0089,"Raja, Edwin and Deep",Labels,Panipat,Haryana,India,4.12,4,+915538083682,supplier89@gmail.com,Inactive
+90,SUP0090,Badal-Sampath,Polyester Yarn,Pune,Maharashtra,India,4.46,28,06393676423,supplier90@gmail.com,Inactive
+91,SUP0091,Soman LLC,Packaging Material,Solapur,Maharashtra,India,3.72,12,06615651994,supplier91@gmail.com,Active
+92,SUP0092,Reddy Ltd,Fabric,Panipat,Haryana,India,4.97,22,+911937428679,supplier92@gmail.com,Inactive
+93,SUP0093,"Walia, Jayaraman and Goda",Elastic,Panipat,Haryana,India,4.58,11,+914308673872,supplier93@gmail.com,Active
+94,SUP0094,Parsa-Gola,Chemicals,Jaipur,Rajasthan,India,4.07,28,5477542920,supplier94@gmail.com,Inactive
+95,SUP0095,"Arora, Halder and Bawa",Cotton Yarn,Jaipur,Rajasthan,India,3.68,17,+914524736678,supplier95@gmail.com,Active
+96,SUP0096,Vyas-Singhal,Polyester Yarn,Indore,Madhya Pradesh,India,3.72,6,5025132605,supplier96@gmail.com,Active
+97,SUP0097,Nanda LLC,Reactive Dyes,Solapur,Maharashtra,India,3.86,7,04516709783,supplier97@gmail.com,Inactive
+98,SUP0098,"Tata, Kant and Chhabra",Fabric,Panipat,Haryana,India,3.56,24,0092643703,supplier98@gmail.com,Active
+99,SUP0099,Bhargava-Minhas,Packaging Material,Coimbatore,Tamil Nadu,India,4.43,14,09299611403,supplier99@gmail.com,Inactive
+100,SUP0100,Ramaswamy-Wable,Threads,Indore,Madhya Pradesh,India,4.98,27,+912427330164,supplier100@gmail.com,Active
+101,SUP0101,Dugar Ltd,Chemicals,Ahmedabad,Gujarat,India,4.67,22,6064591182,supplier101@gmail.com,Inactive
+102,SUP0102,"Tailor, Lall and Bava",Cotton Yarn,Panipat,Haryana,India,3.71,16,3892837354,supplier102@gmail.com,Inactive
+103,SUP0103,"Parsa, Acharya and Jha",Elastic,Ludhiana,Punjab,India,4.95,11,04179101054,supplier103@gmail.com,Inactive
+104,SUP0104,Pall LLC,Threads,Panipat,Haryana,India,3.61,29,01301387775,supplier104@gmail.com,Inactive
+105,SUP0105,"Pathak, Minhas and Mangat",Labels,Erode,Tamil Nadu,India,3.69,3,+917034546202,supplier105@gmail.com,Inactive
+106,SUP0106,Nayak Inc,Polyester Yarn,Tiruppur,Tamil Nadu,India,3.68,24,+910151553509,supplier106@gmail.com,Inactive
+107,SUP0107,Kapadia-Agarwal,Fabric,Solapur,Maharashtra,India,3.53,8,03175374185,supplier107@gmail.com,Inactive
+108,SUP0108,Ram PLC,Reactive Dyes,Jaipur,Rajasthan,India,4.16,28,+911353670341,supplier108@gmail.com,Active
+109,SUP0109,"Sundaram, Shetty and Kohli",Fabric,Indore,Madhya Pradesh,India,4.43,28,4090566767,supplier109@gmail.com,Active
+110,SUP0110,"Kumer, Nigam and Pandit",Cartons,Panipat,Haryana,India,4.68,21,1236054879,supplier110@gmail.com,Active
+111,SUP0111,Kala Group,Fabric,Surat,Gujarat,India,4.97,2,+910569301448,supplier111@gmail.com,Inactive
+112,SUP0112,Gour-Borra,Packaging Material,Erode,Tamil Nadu,India,4.3,24,6839173203,supplier112@gmail.com,Active
+113,SUP0113,Sagar-Mutti,Chemicals,Indore,Madhya Pradesh,India,4.8,14,3789387645,supplier113@gmail.com,Active
+114,SUP0114,"Apte, Chakrabarti and Bandi",Labels,Solapur,Maharashtra,India,4.88,19,07449075435,supplier114@gmail.com,Inactive
+115,SUP0115,Mukherjee LLC,Reactive Dyes,Solapur,Maharashtra,India,4.4,14,2786444691,supplier115@gmail.com,Inactive
+116,SUP0116,Chahal-Verma,Cartons,Ludhiana,Punjab,India,4.91,15,9688672469,supplier116@gmail.com,Active
+117,SUP0117,Lal-Shenoy,Packaging Material,Panipat,Haryana,India,4.69,8,+913414589181,supplier117@gmail.com,Active
+118,SUP0118,Dara Ltd,Polyester Yarn,Indore,Madhya Pradesh,India,4.74,17,04935307470,supplier118@gmail.com,Active
+119,SUP0119,Karan-Kala,Labels,Surat,Gujarat,India,3.64,12,+919621223412,supplier119@gmail.com,Active
+120,SUP0120,Chandra LLC,Threads,Pune,Maharashtra,India,4.26,11,+912613100429,supplier120@gmail.com,Inactive
+121,SUP0121,"Goswami, Sekhon and Bhandari",Labels,Indore,Madhya Pradesh,India,3.68,17,09026283986,supplier121@gmail.com,Active
+122,SUP0122,Trivedi-Ben,Cartons,Ludhiana,Punjab,India,4.28,10,+910142883777,supplier122@gmail.com,Inactive
+123,SUP0123,Kumer-Ramesh,Cotton Yarn,Coimbatore,Tamil Nadu,India,4.58,20,02519538641,supplier123@gmail.com,Active
+124,SUP0124,Roy Inc,Chemicals,Ludhiana,Punjab,India,4.51,2,09399906629,supplier124@gmail.com,Active
+125,SUP0125,Babu LLC,Reactive Dyes,Ahmedabad,Gujarat,India,4.97,25,06270430255,supplier125@gmail.com,Inactive
+126,SUP0126,Mahajan-Cherian,Packaging Material,Erode,Tamil Nadu,India,3.65,16,+914273796967,supplier126@gmail.com,Inactive
+127,SUP0127,"Sarin, Narayanan and Mistry",Cotton Yarn,Tiruppur,Tamil Nadu,India,4.77,26,9131318723,supplier127@gmail.com,Active
+128,SUP0128,Bava-Doshi,Polyester Yarn,Nagpur,Maharashtra,India,4.88,11,06364255081,supplier128@gmail.com,Inactive
+129,SUP0129,Datta LLC,Cotton Yarn,Jaipur,Rajasthan,India,3.78,15,05504313353,supplier129@gmail.com,Inactive
+130,SUP0130,"Pall, Dave and Kari",Cartons,Nagpur,Maharashtra,India,4.56,6,9578041532,supplier130@gmail.com,Inactive
+131,SUP0131,"Kibe, Konda and Bhavsar",Labels,Coimbatore,Tamil Nadu,India,5.0,21,+912195755186,supplier131@gmail.com,Inactive
+132,SUP0132,"Gupta, Saraf and Bhagat",Packaging Material,Pune,Maharashtra,India,3.84,15,01073069588,supplier132@gmail.com,Active
+133,SUP0133,Mukhopadhyay LLC,Fabric,Pune,Maharashtra,India,4.68,8,7347478625,supplier133@gmail.com,Active
+134,SUP0134,"Dasgupta, Gopal and Malhotra",Fabric,Solapur,Maharashtra,India,4.71,4,09675346114,supplier134@gmail.com,Active
+135,SUP0135,"Naik, Nadig and Ahuja",Threads,Tiruppur,Tamil Nadu,India,3.94,8,5269415642,supplier135@gmail.com,Inactive
+136,SUP0136,Khalsa Group,Cotton Yarn,Tiruppur,Tamil Nadu,India,4.4,9,9839913100,supplier136@gmail.com,Inactive
+137,SUP0137,Gala Group,Chemicals,Ichalkaranji,Maharashtra,India,3.72,24,1386016514,supplier137@gmail.com,Inactive
+138,SUP0138,Chandran-Nayar,Elastic,Coimbatore,Tamil Nadu,India,4.39,23,07345796555,supplier138@gmail.com,Active
+139,SUP0139,Chadha-Gupta,Fabric,Pune,Maharashtra,India,4.32,16,06959824422,supplier139@gmail.com,Inactive
+140,SUP0140,"Gole, Uppal and Basak",Fabric,Erode,Tamil Nadu,India,4.97,2,0204056511,supplier140@gmail.com,Inactive
+141,SUP0141,Chanda-Rajagopal,Cotton Yarn,Hyderabad,Telangana,India,4.96,2,+918176491742,supplier141@gmail.com,Inactive
+142,SUP0142,Oommen-Trivedi,Elastic,Hyderabad,Telangana,India,4.79,17,+914104157890,supplier142@gmail.com,Active
+143,SUP0143,Sule Group,Cartons,Ludhiana,Punjab,India,3.92,7,+916804153455,supplier143@gmail.com,Active
+144,SUP0144,Kamdar-Chauhan,Elastic,Pune,Maharashtra,India,4.99,29,1164915051,supplier144@gmail.com,Inactive
+145,SUP0145,Kapur Ltd,Cotton Yarn,Surat,Gujarat,India,4.3,26,05542591986,supplier145@gmail.com,Inactive
+146,SUP0146,Deep-Goswami,Elastic,Tiruppur,Tamil Nadu,India,3.99,13,+914911661448,supplier146@gmail.com,Inactive
+147,SUP0147,Upadhyay LLC,Cartons,Ahmedabad,Gujarat,India,3.58,6,+912556001190,supplier147@gmail.com,Inactive
+148,SUP0148,"Oak, Randhawa and Savant",Elastic,Ichalkaranji,Maharashtra,India,4.91,11,03836018504,supplier148@gmail.com,Inactive
+149,SUP0149,"Pall, Tata and Mandal",Threads,Ludhiana,Punjab,India,4.69,3,07959583703,supplier149@gmail.com,Inactive
+150,SUP0150,Contractor-Khosla,Labels,Ichalkaranji,Maharashtra,India,3.99,5,+915092597477,supplier150@gmail.com,Inactive
+151,SUP0151,"Loke, Gandhi and Kata",Cartons,Ichalkaranji,Maharashtra,India,4.47,4,3800930933,supplier151@gmail.com,Inactive
+152,SUP0152,Narayan and Sons,Cotton Yarn,Ahmedabad,Gujarat,India,4.76,10,+910935673524,supplier152@gmail.com,Active
+153,SUP0153,Bansal PLC,Labels,Mumbai,Maharashtra,India,4.45,7,+917876538299,supplier153@gmail.com,Inactive
+154,SUP0154,Sharaf-Patil,Fabric,Erode,Tamil Nadu,India,4.84,15,05756836700,supplier154@gmail.com,Inactive
+155,SUP0155,Issac Inc,Elastic,Ludhiana,Punjab,India,4.97,4,+913082910544,supplier155@gmail.com,Inactive
+156,SUP0156,"Kaur, Nath and Kala",Fabric,Ludhiana,Punjab,India,3.63,8,05123415573,supplier156@gmail.com,Active
+157,SUP0157,"Bumb, Badami and Madan",Reactive Dyes,Pune,Maharashtra,India,4.98,17,07654342717,supplier157@gmail.com,Active
+158,SUP0158,Krishnamurthy Group,Polyester Yarn,Tiruppur,Tamil Nadu,India,4.16,18,+910619413562,supplier158@gmail.com,Active
+159,SUP0159,Prashad-Iyer,Reactive Dyes,Erode,Tamil Nadu,India,3.88,2,08370337327,supplier159@gmail.com,Inactive
+160,SUP0160,"Kala, Palla and Kuruvilla",Elastic,Hyderabad,Telangana,India,4.95,27,+910496267157,supplier160@gmail.com,Active
+161,SUP0161,Raju PLC,Chemicals,Panipat,Haryana,India,4.43,6,1841975916,supplier161@gmail.com,Active
+162,SUP0162,"Chakrabarti, Sarkar and Chanda",Polyester Yarn,Tiruppur,Tamil Nadu,India,4.08,8,+915018993216,supplier162@gmail.com,Inactive
+163,SUP0163,Chakraborty Inc,Labels,Solapur,Maharashtra,India,3.81,21,01359392716,supplier163@gmail.com,Inactive
+164,SUP0164,Lad-Khalsa,Elastic,Coimbatore,Tamil Nadu,India,3.93,15,4639834323,supplier164@gmail.com,Active
+165,SUP0165,"Bansal, Rattan and Korpal",Reactive Dyes,Ludhiana,Punjab,India,4.17,21,+915456898151,supplier165@gmail.com,Inactive
+166,SUP0166,"Mammen, Patla and Deshmukh",Labels,Coimbatore,Tamil Nadu,India,4.13,21,+919356167444,supplier166@gmail.com,Active
+167,SUP0167,Bansal and Sons,Labels,Hyderabad,Telangana,India,3.99,7,00961980674,supplier167@gmail.com,Inactive
+168,SUP0168,Desai Inc,Cartons,Ahmedabad,Gujarat,India,4.32,5,4792080925,supplier168@gmail.com,Active
+169,SUP0169,"Babu, Kota and Kohli",Fabric,Pune,Maharashtra,India,4.46,8,08149408997,supplier169@gmail.com,Active
+170,SUP0170,Loke-D’Alia,Threads,Mumbai,Maharashtra,India,3.5,11,+911021726015,supplier170@gmail.com,Inactive
+171,SUP0171,Mandal PLC,Fabric,Jaipur,Rajasthan,India,4.21,30,03721180555,supplier171@gmail.com,Active
+172,SUP0172,"Om, Deol and Soman",Labels,Mumbai,Maharashtra,India,3.88,18,+910756153749,supplier172@gmail.com,Active
+173,SUP0173,Palan-Kapoor,Fabric,Erode,Tamil Nadu,India,4.54,21,6532200247,supplier173@gmail.com,Inactive
+174,SUP0174,Balakrishnan LLC,Reactive Dyes,Panipat,Haryana,India,4.43,2,+915648524034,supplier174@gmail.com,Inactive
+175,SUP0175,"Kumar, Contractor and Andra",Threads,Solapur,Maharashtra,India,3.73,6,08847192305,supplier175@gmail.com,Active
+176,SUP0176,"Amble, Goswami and Koshy",Polyester Yarn,Panipat,Haryana,India,3.76,10,7719531455,supplier176@gmail.com,Inactive
+177,SUP0177,Savant-Badami,Polyester Yarn,Ahmedabad,Gujarat,India,4.64,28,04484474422,supplier177@gmail.com,Active
+178,SUP0178,Sethi-Parmar,Elastic,Jaipur,Rajasthan,India,4.25,15,5121720767,supplier178@gmail.com,Active
+179,SUP0179,Borra and Sons,Labels,Solapur,Maharashtra,India,3.82,6,+918067237803,supplier179@gmail.com,Active
+180,SUP0180,Butala Inc,Packaging Material,Pune,Maharashtra,India,3.85,12,06152218333,supplier180@gmail.com,Active
+181,SUP0181,Guha LLC,Fabric,Coimbatore,Tamil Nadu,India,3.98,16,+910265709882,supplier181@gmail.com,Active
+182,SUP0182,"Sahota, Manne and Mannan",Labels,Ahmedabad,Gujarat,India,4.28,21,5117336354,supplier182@gmail.com,Active
+183,SUP0183,"Patla, Kumar and Pai",Reactive Dyes,Pune,Maharashtra,India,4.5,26,0661112049,supplier183@gmail.com,Active
+184,SUP0184,"Krishnamurthy, Mutti and Uppal",Chemicals,Ichalkaranji,Maharashtra,India,4.54,3,+916124965566,supplier184@gmail.com,Inactive
+185,SUP0185,Zachariah-Ganesh,Threads,Pune,Maharashtra,India,3.88,8,+918924666036,supplier185@gmail.com,Inactive
+186,SUP0186,"Bail, Kumer and Sathe",Reactive Dyes,Tiruppur,Tamil Nadu,India,4.67,16,4249505052,supplier186@gmail.com,Inactive
+187,SUP0187,Ramakrishnan-Mane,Cartons,Panipat,Haryana,India,4.72,29,5980947910,supplier187@gmail.com,Inactive
+188,SUP0188,Rout LLC,Packaging Material,Solapur,Maharashtra,India,4.25,3,3279094077,supplier188@gmail.com,Active
+189,SUP0189,"Raval, Shetty and Dhaliwal",Chemicals,Solapur,Maharashtra,India,3.57,9,+918210749563,supplier189@gmail.com,Inactive
+190,SUP0190,Karnik Inc,Cotton Yarn,Panipat,Haryana,India,4.94,5,03532881054,supplier190@gmail.com,Inactive
+191,SUP0191,Sama PLC,Fabric,Mumbai,Maharashtra,India,4.63,6,+916294465154,supplier191@gmail.com,Inactive
+192,SUP0192,"Buch, Chander and Singhal",Cotton Yarn,Ludhiana,Punjab,India,4.86,19,0287435104,supplier192@gmail.com,Active
+193,SUP0193,Kadakia-Bhatia,Cartons,Erode,Tamil Nadu,India,4.51,2,04296978561,supplier193@gmail.com,Active
+194,SUP0194,"Samra, Raval and Dave",Threads,Hyderabad,Telangana,India,3.89,27,06620194528,supplier194@gmail.com,Inactive
+195,SUP0195,"Contractor, Hans and Misra",Fabric,Surat,Gujarat,India,3.9,26,03512584912,supplier195@gmail.com,Inactive
+196,SUP0196,Mall-Sridhar,Threads,Indore,Madhya Pradesh,India,3.58,15,8601460976,supplier196@gmail.com,Inactive
+197,SUP0197,Deo-Thakkar,Packaging Material,Indore,Madhya Pradesh,India,4.47,8,04462900734,supplier197@gmail.com,Inactive
+198,SUP0198,Hans Ltd,Chemicals,Hyderabad,Telangana,India,3.59,23,2814793098,supplier198@gmail.com,Inactive
+199,SUP0199,Dhawan LLC,Packaging Material,Pune,Maharashtra,India,3.67,27,00133263641,supplier199@gmail.com,Active
+200,SUP0200,"Gara, Gole and Sarna",Chemicals,Ludhiana,Punjab,India,4.4,28,5291160896,supplier200@gmail.com,Inactive
+201,SUP0201,"Ahluwalia, More and Vala",Packaging Material,Jaipur,Rajasthan,India,4.09,21,+915772373854,supplier201@gmail.com,Active
+202,SUP0202,"Mangal, Kunda and Dyal",Cartons,Panipat,Haryana,India,3.55,26,1549142185,supplier202@gmail.com,Active
+203,SUP0203,Parekh-Nagarajan,Fabric,Ichalkaranji,Maharashtra,India,3.72,30,1967696164,supplier203@gmail.com,Active
+204,SUP0204,Varma-Vaidya,Cotton Yarn,Panipat,Haryana,India,4.83,30,05643942181,supplier204@gmail.com,Active
+205,SUP0205,"Bora, Koshy and Hayer",Polyester Yarn,Panipat,Haryana,India,4.06,26,0707797181,supplier205@gmail.com,Inactive
+206,SUP0206,Majumdar Group,Packaging Material,Ahmedabad,Gujarat,India,4.94,9,05049555342,supplier206@gmail.com,Inactive
+207,SUP0207,Jayaraman-Parmer,Reactive Dyes,Jaipur,Rajasthan,India,4.9,24,00119322047,supplier207@gmail.com,Inactive
+208,SUP0208,Boase and Sons,Cotton Yarn,Indore,Madhya Pradesh,India,3.98,30,+918779986769,supplier208@gmail.com,Active
+209,SUP0209,Sule and Sons,Polyester Yarn,Nagpur,Maharashtra,India,4.52,20,+919583120052,supplier209@gmail.com,Active
+210,SUP0210,"Datta, Bedi and Banik",Cartons,Erode,Tamil Nadu,India,4.9,3,+910203382450,supplier210@gmail.com,Active
+211,SUP0211,Dalal PLC,Elastic,Ichalkaranji,Maharashtra,India,3.53,4,07691653800,supplier211@gmail.com,Inactive
+212,SUP0212,Bassi Ltd,Packaging Material,Coimbatore,Tamil Nadu,India,4.12,25,03324634812,supplier212@gmail.com,Active
+213,SUP0213,"Ben, Rai and Ravi",Fabric,Ludhiana,Punjab,India,3.53,11,04774370223,supplier213@gmail.com,Active
+214,SUP0214,Balay LLC,Fabric,Coimbatore,Tamil Nadu,India,3.95,20,0292516141,supplier214@gmail.com,Inactive
+215,SUP0215,Pathak Inc,Packaging Material,Ahmedabad,Gujarat,India,4.78,17,1758570381,supplier215@gmail.com,Active
+216,SUP0216,"Vohra, Yadav and Raj",Cartons,Tiruppur,Tamil Nadu,India,4.78,5,+912116564323,supplier216@gmail.com,Active
+217,SUP0217,"Sachdev, Dora and Mammen",Polyester Yarn,Surat,Gujarat,India,3.85,24,+914860070591,supplier217@gmail.com,Inactive
+218,SUP0218,Yogi-Chawla,Polyester Yarn,Coimbatore,Tamil Nadu,India,4.73,2,02966918130,supplier218@gmail.com,Active
+219,SUP0219,"Garg, Sinha and Pandey",Labels,Indore,Madhya Pradesh,India,3.63,17,05792455054,supplier219@gmail.com,Inactive
+220,SUP0220,Balay-Mander,Threads,Surat,Gujarat,India,4.22,12,+917577208763,supplier220@gmail.com,Inactive
+221,SUP0221,Ramachandran-Dass,Packaging Material,Ludhiana,Punjab,India,4.45,3,03768576809,supplier221@gmail.com,Inactive
+222,SUP0222,"Bains, Pingle and Modi",Labels,Coimbatore,Tamil Nadu,India,4.47,30,+917845190967,supplier222@gmail.com,Inactive
+223,SUP0223,Rai LLC,Elastic,Nagpur,Maharashtra,India,4.72,16,08572333820,supplier223@gmail.com,Active
+224,SUP0224,"Dyal, Hayre and Palan",Labels,Ahmedabad,Gujarat,India,4.78,26,+912560542030,supplier224@gmail.com,Active
+225,SUP0225,Chadha-Sankaran,Threads,Tiruppur,Tamil Nadu,India,4.21,25,06814914710,supplier225@gmail.com,Inactive
+226,SUP0226,"Mahal, Chaudhari and Badal",Chemicals,Pune,Maharashtra,India,3.56,29,6641343354,supplier226@gmail.com,Inactive
+227,SUP0227,"Arya, Ray and Ramanathan",Fabric,Erode,Tamil Nadu,India,4.48,5,+919079313020,supplier227@gmail.com,Inactive
+228,SUP0228,Grewal Inc,Reactive Dyes,Tiruppur,Tamil Nadu,India,3.88,2,+910661998061,supplier228@gmail.com,Inactive
+229,SUP0229,"Thakur, Roy and Malhotra",Threads,Hyderabad,Telangana,India,4.56,7,+910358273073,supplier229@gmail.com,Inactive
+230,SUP0230,"Keer, Rana and D’Alia",Threads,Hyderabad,Telangana,India,4.17,27,6039027598,supplier230@gmail.com,Inactive
+231,SUP0231,Char-Karan,Reactive Dyes,Tiruppur,Tamil Nadu,India,4.77,8,00127219739,supplier231@gmail.com,Active
+232,SUP0232,Karpe Group,Cartons,Panipat,Haryana,India,3.53,14,7099203970,supplier232@gmail.com,Active
+233,SUP0233,"Choudhury, Natt and Date",Packaging Material,Pune,Maharashtra,India,4.77,13,0765022220,supplier233@gmail.com,Inactive
+234,SUP0234,Ben-Mutti,Labels,Tiruppur,Tamil Nadu,India,4.02,16,+914272125912,supplier234@gmail.com,Active
+235,SUP0235,Dar PLC,Cotton Yarn,Surat,Gujarat,India,4.32,25,1649567012,supplier235@gmail.com,Inactive
+236,SUP0236,Dass Group,Threads,Hyderabad,Telangana,India,4.21,2,6745466238,supplier236@gmail.com,Inactive
+237,SUP0237,Malhotra and Sons,Packaging Material,Ahmedabad,Gujarat,India,4.51,21,08944210863,supplier237@gmail.com,Inactive
+238,SUP0238,Saraf-Konda,Polyester Yarn,Erode,Tamil Nadu,India,3.78,2,05861698996,supplier238@gmail.com,Active
+239,SUP0239,"Ganguly, Chacko and Kaul",Cartons,Panipat,Haryana,India,4.18,23,1482265143,supplier239@gmail.com,Inactive
+240,SUP0240,Lanka-Jaggi,Cartons,Panipat,Haryana,India,3.61,20,9802332545,supplier240@gmail.com,Inactive
+241,SUP0241,"Chatterjee, Tiwari and Sunder",Reactive Dyes,Erode,Tamil Nadu,India,4.92,13,09488961928,supplier241@gmail.com,Inactive
+242,SUP0242,"Saxena, Shetty and Murthy",Polyester Yarn,Coimbatore,Tamil Nadu,India,4.73,19,4285337460,supplier242@gmail.com,Active
+243,SUP0243,Jhaveri LLC,Packaging Material,Hyderabad,Telangana,India,4.11,14,06665344548,supplier243@gmail.com,Inactive
+244,SUP0244,"Agrawal, Dey and Khalsa",Packaging Material,Surat,Gujarat,India,4.03,19,7728089708,supplier244@gmail.com,Active
+245,SUP0245,"Bedi, Sathe and Vaidya",Packaging Material,Mumbai,Maharashtra,India,4.06,20,07050191146,supplier245@gmail.com,Inactive
+246,SUP0246,Nayak-Deshmukh,Chemicals,Ahmedabad,Gujarat,India,4.54,29,4440054966,supplier246@gmail.com,Active
+247,SUP0247,"Prasad, Dar and Nanda",Threads,Mumbai,Maharashtra,India,4.12,5,03329352747,supplier247@gmail.com,Active
+248,SUP0248,Srinivasan-Mohanty,Threads,Indore,Madhya Pradesh,India,3.54,8,08277046992,supplier248@gmail.com,Inactive
+249,SUP0249,Shanker Ltd,Threads,Nagpur,Maharashtra,India,4.33,13,8590991539,supplier249@gmail.com,Inactive
+250,SUP0250,Bhagat-Thakkar,Elastic,Ichalkaranji,Maharashtra,India,4.88,8,02451237807,supplier250@gmail.com,Active

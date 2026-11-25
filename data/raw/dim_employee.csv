@@ -1,0 +1,601 @@
+employee_id,employee_code,first_name,last_name,gender,date_of_birth,joining_date,department,designation,shift,plant,manager_name,salary,phone,email,employee_status
+1,EMP0001,Zayyan,Kohli,Male,1997-01-08,2025-06-09,Warehouse,Warehouse Executive,Evening,SoluTex Manufacturing Plant,Sneha Sanghvi,384102,04349055299,jyoti52@bail-shukla.info,Resigned
+2,EMP0002,Umang,Chakraborty,Male,1999-03-08,2017-10-31,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Sudiksha Goswami,950999,3141155566,manthandhaliwal@deol.org,Active
+3,EMP0003,Janaki,Narasimhan,Female,1986-08-10,2020-02-26,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Urvi Pandya,562639,06996520262,ojasbobal@chawla-vaidya.com,Resigned
+4,EMP0004,Leela,Cherian,Male,1973-11-27,2023-03-06,Production,Operator,Morning,SoluTex Manufacturing Plant,Tristan Mani,694603,1130837912,gautamdube@bava.biz,Inactive
+5,EMP0005,Zayan,Balay,Female,1985-04-23,2021-02-12,Sales,Sales Executive,Night,SoluTex Manufacturing Plant,Sathvik Goyal,810580,5276313961,pallavimaharaj@oak-subramanian.com,Active
+6,EMP0006,Nandini,Savant,Female,1987-11-25,2024-01-03,Warehouse,Warehouse Executive,Evening,SoluTex Manufacturing Plant,Mitali Raghavan,599743,8856251115,seshadriprisha@karnik.com,Inactive
+7,EMP0007,Veda,Saini,Female,1974-02-25,2023-11-29,Maintenance,Maintenance Engineer,Night,SoluTex Manufacturing Plant,Yutika Baral,1026107,+912519876849,wridesh82@kota.com,Inactive
+8,EMP0008,Yagnesh,Seshadri,Female,1974-05-13,2025-05-30,Sales,Sales Officer,Night,SoluTex Manufacturing Plant,Ayushman Deshpande,364625,05243816113,geetikakota@toor-reddy.com,Active
+9,EMP0009,Simon,Madan,Male,2004-01-11,2022-12-07,HR,HR Manager,Night,SoluTex Manufacturing Plant,Umang Cheema,723970,0595785321,bhatnagaranjali@loyal.com,Inactive
+10,EMP0010,Riya,Andra,Male,1997-02-13,2017-07-26,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Radha Chanda,679055,01067518728,fredericktrivedi@kapoor-ramesh.com,Resigned
+11,EMP0011,Balvan,Kanda,Male,1981-03-07,2022-12-20,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Oni Khosla,992610,08954814715,vermavamakshi@chawla-thakur.com,Inactive
+12,EMP0012,Gabriel,Banik,Female,1970-11-05,2021-04-30,Quality,QA Engineer,Night,SoluTex Manufacturing Plant,Maanav Munshi,710059,+915899861094,varsha75@dugar.com,Resigned
+13,EMP0013,Bachittar,Dani,Female,2000-10-03,2020-02-02,HR,HR Executive,Night,SoluTex Manufacturing Plant,Advaith Lall,459546,+916128210162,choprasiya@kalita-pandey.com,Inactive
+14,EMP0014,Tanveer,Dhar,Male,2004-12-25,2024-09-21,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Alka Brar,842176,5351009345,sanaya46@parsa.com,Inactive
+15,EMP0015,Yashawini,Dugal,Female,1975-08-29,2022-09-01,Production,Operator,Evening,SoluTex Manufacturing Plant,Nidra Sibal,1003815,+910177472774,imallick@modi.com,Active
+16,EMP0016,Kamala,Narasimhan,Male,1989-05-14,2020-06-07,Sales,Sales Manager,Morning,SoluTex Manufacturing Plant,Yashoda Acharya,996446,1349338795,abhiram69@issac.biz,Inactive
+17,EMP0017,Ridhi,Dugar,Female,1974-01-18,2025-05-30,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Sathvik Ghose,226122,+911198386595,rauekaraj@goyal.com,Active
+18,EMP0018,Mitesh,Raj,Male,2005-05-19,2024-06-06,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Harsh Kamdar,725568,3537361265,seshadrikashish@sabharwal.com,Active
+19,EMP0019,Aayush,Khalsa,Male,1993-08-25,2017-01-27,HR,HR Manager,Morning,SoluTex Manufacturing Plant,Falak Sur,423106,8432755091,advay27@chandra.com,Inactive
+20,EMP0020,Lekha,Babu,Male,1987-08-29,2021-08-18,Warehouse,Warehouse Executive,Morning,SoluTex Manufacturing Plant,Qarin Kara,991584,+911541923963,urvashi99@comar-sahota.com,Resigned
+21,EMP0021,Urishilla,Iyengar,Female,1968-11-03,2020-05-18,HR,HR Executive,Night,SoluTex Manufacturing Plant,Advika Gour,924842,+917414967685,hamsinimani@ranganathan.com,Inactive
+22,EMP0022,Abdul,Kurian,Male,1974-12-22,2017-12-25,Production,Operator,Evening,SoluTex Manufacturing Plant,Harrison Batra,1104190,+912474170508,kundayatin@doshi-sarraf.com,Inactive
+23,EMP0023,Madhavi,Ahuja,Female,1983-11-18,2019-11-13,Sales,Sales Manager,Morning,SoluTex Manufacturing Plant,Urvashi Sarraf,467928,+918624071633,ishade@borra.net,Active
+24,EMP0024,Megha,Tak,Male,1973-05-22,2016-10-05,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Garima Bal,358823,+914997260146,joshua76@srinivas.com,Resigned
+25,EMP0025,Yashica,Grover,Male,1975-05-29,2018-11-22,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Anita Bali,482623,2049720463,anjalichoudhury@mishra-chander.org,Inactive
+26,EMP0026,Nidra,Sampath,Male,1976-03-23,2021-03-31,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Aradhana Krishna,195313,2891762512,dev78@hayre-thakur.biz,Resigned
+27,EMP0027,Oliver,Pall,Male,1988-05-15,2024-07-20,Sales,Sales Manager,Night,SoluTex Manufacturing Plant,Hemangini Raghavan,998327,01412514961,aryaanita@mistry.org,Resigned
+28,EMP0028,Ijaya,Ramanathan,Male,1982-06-17,2016-11-21,Quality,Quality Inspector,Evening,SoluTex Manufacturing Plant,Gagan Lalla,494381,09597598676,prabhakarhredhaan@mitter.com,Resigned
+29,EMP0029,Siddharth,Choudhry,Male,2000-08-30,2018-07-17,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Indira Khosla,1180227,+917440879149,amblejeet@kaur.com,Active
+30,EMP0030,Netra,Batra,Male,1975-09-22,2024-07-26,Quality,Quality Inspector,Evening,SoluTex Manufacturing Plant,Sai Ramanathan,1125700,+912140342370,vbose@merchant.com,Inactive
+31,EMP0031,Shivansh,Dutta,Female,1972-07-16,2022-07-14,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Baljiwan Gulati,913543,4759907617,kakarchaitanya@viswanathan-nori.com,Resigned
+32,EMP0032,Yadavi,Dhar,Male,1967-11-14,2023-04-02,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Advay Barman,323869,+912087969050,shauryaiyer@venkatesh.com,Inactive
+33,EMP0033,Harrison,Bahl,Female,1982-06-21,2018-12-25,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Amol De,772804,08557484648,abedi@dixit.com,Inactive
+34,EMP0034,Girindra,Sandhu,Female,1984-05-29,2022-02-09,Warehouse,Warehouse Executive,Night,SoluTex Manufacturing Plant,Abeer Parmar,370167,01859748099,pahuja@sidhu-kalla.com,Resigned
+35,EMP0035,Xiti,Barman,Female,2003-07-08,2023-06-12,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Baghyawati Gulati,681277,+912084241249,settyadvika@atwal.biz,Active
+36,EMP0036,Ganga,Kumar,Female,2005-06-05,2019-08-20,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Vihaan Dave,1053822,05850065035,waida95@choudhury.com,Resigned
+37,EMP0037,Mohini,Wadhwa,Female,2004-09-09,2020-05-14,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Ekavir Anne,414145,5968779801,sarananita@apte.com,Active
+38,EMP0038,Unni,Solanki,Female,1982-11-28,2016-08-25,Production,Operator,Evening,SoluTex Manufacturing Plant,Finn Rege,1087832,0440697789,chanakyabala@brar.com,Inactive
+39,EMP0039,Ayush,Sane,Male,1973-11-14,2018-10-17,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Atharv Handa,1040077,5273642694,parekheta@kadakia.info,Inactive
+40,EMP0040,Ishwar,Gaba,Female,2000-05-29,2024-09-04,Management,Plant Manager,Morning,SoluTex Manufacturing Plant,Darika Dugar,1076880,0499303147,radha49@karnik-gala.org,Resigned
+41,EMP0041,Falguni,Mangal,Female,1980-10-09,2024-12-07,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Chavvi Varghese,679819,+918101306600,cbhatnagar@atwal-soman.info,Active
+42,EMP0042,Aradhana,Sem,Female,1975-07-06,2022-12-07,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Ayush Ganguly,1149522,+917134879789,bnaidu@vig.net,Inactive
+43,EMP0043,Wriddhish,Master,Male,1974-01-26,2017-10-18,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Shaurya Muni,254608,6592138188,dmisra@banik.info,Inactive
+44,EMP0044,Chaitaly,Kannan,Male,1986-04-09,2026-03-31,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Darpan Dave,244510,7707266927,manthanmadan@baria-jani.info,Active
+45,EMP0045,Dalaja,Narayan,Female,1991-04-13,2025-07-13,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Yahvi Mistry,794178,+917190036594,harsh39@devi-verma.info,Resigned
+46,EMP0046,Sanaya,Sankar,Male,1977-06-01,2020-02-20,HR,HR Manager,Morning,SoluTex Manufacturing Plant,Kamala Iyer,200977,+916937767820,mahajanmatthew@din-viswanathan.com,Resigned
+47,EMP0047,Gauri,Sur,Male,1993-09-17,2018-05-26,Production,Operator,Evening,SoluTex Manufacturing Plant,Shaurya Chhabra,861706,08119089802,jeet95@thaker-johal.com,Resigned
+48,EMP0048,Nidra,Mistry,Female,1981-01-18,2020-10-21,Maintenance,Technician,Evening,SoluTex Manufacturing Plant,Qushi Shanker,892355,04613976410,kurianbrijesh@soman-kadakia.net,Inactive
+49,EMP0049,Irya,Memon,Female,1984-02-28,2023-01-04,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Diya Walia,1106861,+914816319292,lukeaurora@shah.com,Resigned
+50,EMP0050,Netra,Goel,Female,1995-10-06,2020-04-01,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Aarush Yohannan,1090980,+915961655313,draj@dhillon-ramesh.info,Active
+51,EMP0051,Vasatika,Chandran,Male,1974-03-16,2017-05-20,Maintenance,Maintenance Engineer,Morning,SoluTex Manufacturing Plant,Oeshi Viswanathan,1007504,08553233620,sagardalbir@rao.com,Inactive
+52,EMP0052,Ayush,Nigam,Female,1976-10-09,2020-09-08,Production,Operator,Night,SoluTex Manufacturing Plant,Falan Khalsa,777687,+910481043388,ekani63@memon.org,Inactive
+53,EMP0053,Naveen,Bhagat,Male,1982-02-25,2022-08-24,Maintenance,Maintenance Engineer,Evening,SoluTex Manufacturing Plant,Ishanvi Patla,1061223,04510400145,panini45@konda.com,Active
+54,EMP0054,Inaya,Sunder,Male,1977-11-27,2024-06-25,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Onveer Dhingra,332194,00441567277,chadadvik@chadha.biz,Active
+55,EMP0055,Gautami,Bhat,Male,1981-04-01,2026-02-08,Sales,Sales Manager,Morning,SoluTex Manufacturing Plant,Lakshmi Datta,910539,+913553431942,snaik@purohit.com,Active
+56,EMP0056,Ekta,Loke,Female,2000-07-16,2018-04-01,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Ishanvi Atwal,713460,+912297033916,zansigill@vohra.com,Active
+57,EMP0057,Chaaya,Kari,Male,1984-03-24,2025-08-19,Maintenance,Maintenance Engineer,Evening,SoluTex Manufacturing Plant,Charles Rattan,1049500,02411244935,badalvictor@kamdar.com,Active
+58,EMP0058,Baghyawati,Bedi,Female,1991-10-19,2021-09-13,Production,Operator,Morning,SoluTex Manufacturing Plant,Ranbir Ganesan,339027,3350174023,lray@som.com,Resigned
+59,EMP0059,Chandran,Chadha,Male,1967-09-08,2023-07-08,Maintenance,Maintenance Engineer,Morning,SoluTex Manufacturing Plant,Sarthak Anand,503256,+918326908534,ckumar@anne.com,Resigned
+60,EMP0060,Ekansh,Apte,Male,1994-01-18,2022-04-25,Warehouse,Store Keeper,Morning,SoluTex Manufacturing Plant,Alexander Sarna,789030,+914538824038,ria11@shankar-jayaraman.info,Inactive
+61,EMP0061,Urmi,Solanki,Female,1995-10-17,2023-01-21,Warehouse,Warehouse Executive,Night,SoluTex Manufacturing Plant,Gaurav Goel,313264,08851466012,ishaan43@more-kapur.com,Resigned
+62,EMP0062,Gunbir,Kala,Female,1982-11-04,2022-05-12,Quality,Quality Inspector,Evening,SoluTex Manufacturing Plant,Faqid Sampath,962523,+916191553984,savantmeera@thakur.com,Inactive
+63,EMP0063,Vinaya,Gade,Male,1968-09-30,2024-12-28,Production,Operator,Evening,SoluTex Manufacturing Plant,Ansh Barad,915306,+910732616850,xcherian@deshmukh.biz,Resigned
+64,EMP0064,Sudiksha,Joshi,Female,1991-11-16,2026-04-15,Warehouse,Store Keeper,Morning,SoluTex Manufacturing Plant,Jason Sanghvi,1044966,7391190901,vihaan20@malhotra-loke.com,Resigned
+65,EMP0065,Edhitha,Saha,Female,1968-10-11,2023-08-18,Maintenance,Technician,Morning,SoluTex Manufacturing Plant,Nachiket Sachdeva,769190,3227407662,naikchasmum@bora.biz,Resigned
+66,EMP0066,Inaya,Borde,Female,1983-04-16,2019-11-06,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Andrew Desai,289220,8571125881,pprabhu@radhakrishnan.org,Resigned
+67,EMP0067,Triya,Borah,Male,1968-08-01,2021-08-05,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Yash Mand,183930,+915608995487,yashoda29@saha.com,Resigned
+68,EMP0068,Rohan,Krishnan,Female,1979-08-11,2017-05-06,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Varenya Subramaniam,1111165,05156225562,battavihaan@aurora.org,Active
+69,EMP0069,Ekapad,Ramachandran,Female,2001-12-16,2016-12-31,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Hiral Deshmukh,210406,8904139005,teerthprakash@saini-joshi.com,Active
+70,EMP0070,Atharv,Borah,Male,1967-09-25,2026-05-03,Sales,Sales Manager,Evening,SoluTex Manufacturing Plant,Lajita Kala,476327,+919293501143,tlall@kala-karpe.com,Inactive
+71,EMP0071,Mahika,Prashad,Male,1976-03-15,2020-07-15,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Laksh Doctor,993308,+912212429220,sahaamol@iyengar.com,Active
+72,EMP0072,Jagdish,Khanna,Female,1973-02-20,2020-11-20,Management,Plant Manager,Morning,SoluTex Manufacturing Plant,Reva Roy,822735,01082195643,gabaqasim@banerjee.com,Active
+73,EMP0073,Kamala,Sundaram,Female,1992-07-17,2022-06-09,Quality,QA Engineer,Night,SoluTex Manufacturing Plant,Akshay Kothari,666216,+910939595094,padmanabhanbalveer@biswas.com,Resigned
+74,EMP0074,Urvashi,Raj,Male,2001-05-27,2020-05-02,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Chanchal Kari,1149769,09454393109,bhavini78@sridhar-jayaraman.com,Active
+75,EMP0075,Udarsh,Dani,Female,1985-02-08,2021-04-04,Sales,Sales Manager,Night,SoluTex Manufacturing Plant,Ayaan Wadhwa,985586,03474302286,ysibal@rattan-naidu.com,Active
+76,EMP0076,Krishna,Shankar,Male,1971-10-04,2017-05-26,Maintenance,Maintenance Engineer,Evening,SoluTex Manufacturing Plant,Lakshit Saraf,689063,+919416061085,lallatanish@chowdhury.org,Resigned
+77,EMP0077,Nihal,Ghose,Female,1996-02-10,2017-09-16,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Vritti Merchant,600436,00405165985,qushinadig@din-ramaswamy.org,Active
+78,EMP0078,Bhavya,Tandon,Male,1995-07-03,2016-12-23,Production,Operator,Evening,SoluTex Manufacturing Plant,Nidra Brahmbhatt,798882,5704415092,ghoseyug@mohanty.com,Resigned
+79,EMP0079,Nidhi,Agate,Male,1993-06-30,2024-10-03,Production,Operator,Night,SoluTex Manufacturing Plant,Nimrat Mital,469969,04087878197,subramaniamoeshi@minhas-patil.com,Active
+80,EMP0080,Mitali,Bhavsar,Female,1990-10-16,2020-03-20,HR,HR Manager,Evening,SoluTex Manufacturing Plant,Rehaan Chandra,884365,+915063528702,zayyan26@samra-chaudhry.biz,Active
+81,EMP0081,Laban,Mannan,Male,1973-08-02,2023-08-23,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Krish Lata,585358,06688292873,pandyamax@sha.info,Active
+82,EMP0082,Elijah,Modi,Female,1997-01-13,2017-09-13,Sales,Sales Manager,Morning,SoluTex Manufacturing Plant,Nachiket Vala,1177452,00586266206,ayaan64@bandi.org,Resigned
+83,EMP0083,Eshana,Gandhi,Female,1975-02-06,2022-07-05,HR,HR Executive,Night,SoluTex Manufacturing Plant,Divya Peri,984989,+916048294215,bhanumatiray@rai.info,Inactive
+84,EMP0084,Jatin,Bath,Female,1999-12-28,2025-03-18,Quality,Quality Inspector,Evening,SoluTex Manufacturing Plant,Jack Mandal,1143067,+917562852019,echokshi@gour-lanka.net,Active
+85,EMP0085,Baljiwan,Chatterjee,Male,1987-10-17,2024-03-23,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Bahadurjit Dash,892461,07591303430,krishnachandra@keer-morar.com,Active
+86,EMP0086,Hema,Venkataraman,Male,1988-02-25,2022-12-10,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Champak Murty,854721,2159025640,vaidyaubika@sandal.org,Resigned
+87,EMP0087,Eshana,Vig,Female,1976-06-02,2022-09-18,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Anika Doshi,617058,2003871420,girish23@banik.org,Resigned
+88,EMP0088,Amol,Bahri,Male,2002-02-13,2024-11-05,Production,Operator,Evening,SoluTex Manufacturing Plant,Farhan Murty,390113,6655022680,pvirk@sibal-chaudhry.com,Active
+89,EMP0089,Bachittar,Edwin,Female,2005-05-10,2018-12-22,Sales,Sales Officer,Morning,SoluTex Manufacturing Plant,Rachit Oak,769003,5692540577,falanbhargava@lata.com,Active
+90,EMP0090,Viraj,Prabhakar,Male,2003-12-19,2021-06-15,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Omisha Wable,413580,5786294572,nandinibajwa@kapadia-iyengar.com,Inactive
+91,EMP0091,Tejas,Kala,Female,1999-01-06,2022-02-12,Production,Operator,Night,SoluTex Manufacturing Plant,Veda Raju,602481,01765274346,palvincent@konda.com,Resigned
+92,EMP0092,Unnati,Jani,Male,2002-01-22,2023-11-12,HR,HR Manager,Evening,SoluTex Manufacturing Plant,Pushti Chaudhuri,673853,5469827682,krish29@kurian.com,Inactive
+93,EMP0093,Rachana,Sanghvi,Female,1989-11-04,2018-05-04,Sales,Sales Officer,Night,SoluTex Manufacturing Plant,Vaishnavi Pandit,362512,+915591761437,fdani@kaur.com,Resigned
+94,EMP0094,Krish,Vasa,Female,1997-05-07,2022-02-21,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Ati Dey,204267,+918462680516,singhaljack@tak.com,Active
+95,EMP0095,Aarav,Chahal,Female,2000-08-21,2019-10-02,Quality,Quality Inspector,Evening,SoluTex Manufacturing Plant,Ekalinga Rattan,1061984,+912461035044,krish66@prakash.com,Inactive
+96,EMP0096,Krishna,Ramakrishnan,Male,1991-04-12,2019-11-28,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Lakshmi Mammen,1013588,+910022177092,utkarshkuruvilla@dyal.com,Active
+97,EMP0097,Nirja,Iyengar,Male,1988-02-27,2023-05-20,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Rehaan Ratti,522095,+919765643512,singhalowen@nayar.com,Resigned
+98,EMP0098,Kamala,Roy,Male,1988-11-10,2025-05-03,Maintenance,Maintenance Engineer,Morning,SoluTex Manufacturing Plant,Chatresh Mitter,633774,+910769254194,farhan64@mani.com,Inactive
+99,EMP0099,Gayathri,Master,Female,1978-10-20,2016-09-29,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Pratyush Srinivas,922079,+914039041832,lbedi@memon.org,Active
+100,EMP0100,Devansh,Goel,Male,1980-08-27,2020-03-04,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Mohammed Muni,790455,6269885484,janaki68@behl.net,Inactive
+101,EMP0101,Balendra,Bhasin,Male,1989-07-15,2021-09-30,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Chaman Modi,800517,01085409302,faris05@yogi.com,Inactive
+102,EMP0102,Onveer,Gulati,Female,2002-05-12,2018-03-05,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Utkarsh Khare,435219,8654342750,simongara@deshpande-trivedi.net,Active
+103,EMP0103,Mohini,Rana,Male,1996-07-30,2017-02-28,Production,Operator,Morning,SoluTex Manufacturing Plant,Mason Mangal,240409,+910822485854,leelavenkatesh@bains.com,Inactive
+104,EMP0104,Barkha,Dass,Female,1989-12-11,2021-11-13,Maintenance,Maintenance Engineer,Night,SoluTex Manufacturing Plant,Lekha Sahni,324331,+913409472169,asrinivas@khurana-trivedi.biz,Resigned
+105,EMP0105,Advay,Ben,Female,1982-07-28,2020-06-10,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Vanya Kohli,387543,07661185285,krishna46@ganguly-yogi.com,Resigned
+106,EMP0106,Charita,Sani,Female,1998-12-06,2023-08-25,Finance,Accountant,Morning,SoluTex Manufacturing Plant,Noah Kaul,964201,4569224004,nilima75@sani.com,Resigned
+107,EMP0107,Faris,Golla,Female,2000-08-14,2025-01-02,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Vrishti Talwar,652534,6783094004,maanassanghvi@karan-sinha.info,Resigned
+108,EMP0108,Vyanjana,Bhatt,Female,1984-11-19,2026-01-13,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Tripti Narasimhan,1042298,+912035260516,charvichanda@menon.com,Inactive
+109,EMP0109,Hardik,Shenoy,Female,1977-09-26,2018-10-09,Production,Operator,Night,SoluTex Manufacturing Plant,Tristan Chopra,1172438,5979916131,noriharrison@chopra.com,Inactive
+110,EMP0110,Girindra,Butala,Male,1986-03-25,2023-02-27,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Balvan Dara,871356,+914237943552,tanveer43@jhaveri.com,Resigned
+111,EMP0111,Qushi,Shenoy,Male,1975-04-23,2017-02-19,Sales,Sales Manager,Evening,SoluTex Manufacturing Plant,Om Gulati,254556,05904250534,svala@devi.com,Active
+112,EMP0112,Quincy,Bansal,Female,1987-09-14,2020-03-17,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Meghana Baral,493986,1743871999,ekansh48@rege.biz,Resigned
+113,EMP0113,Falguni,Boase,Female,1998-03-09,2017-03-06,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Eta Virk,991202,+916775859672,rakshasaxena@lad.biz,Active
+114,EMP0114,Bhavani,Gola,Male,1983-03-28,2023-08-22,Sales,Sales Officer,Morning,SoluTex Manufacturing Plant,Shivani Sangha,328162,02371730646,yachanabora@dua.com,Inactive
+115,EMP0115,Urvashi,Dave,Male,1968-04-01,2020-09-26,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Tanish Talwar,561022,+919002948248,ucchalwable@golla.biz,Resigned
+116,EMP0116,Robert,Venkataraman,Male,1974-01-30,2024-02-24,Production,Operator,Evening,SoluTex Manufacturing Plant,Hitesh Chakrabarti,344938,7194765410,hemang22@garde.com,Resigned
+117,EMP0117,Jason,Rama,Male,1990-11-05,2017-02-03,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Sanya Basu,935391,4240649566,palludyati@dhillon.com,Active
+118,EMP0118,Anita,Seshadri,Male,1984-10-06,2017-11-04,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Zashil Bumb,1001586,7236805570,buchgavin@balasubramanian.com,Resigned
+119,EMP0119,Finn,Shankar,Female,1994-04-13,2022-05-03,Production,Operator,Evening,SoluTex Manufacturing Plant,Dev Sem,424837,8299861439,omaggarwal@tata-wable.com,Active
+120,EMP0120,Ati,Narain,Male,1983-07-08,2020-11-27,Sales,Sales Executive,Night,SoluTex Manufacturing Plant,Anika Chad,1115455,4686806388,patwal@kant.org,Inactive
+121,EMP0121,Liam,Merchant,Female,1999-12-02,2025-06-28,Quality,Quality Inspector,Evening,SoluTex Manufacturing Plant,Radhika Pau,672945,08720886827,panini03@wable.net,Inactive
+122,EMP0122,Madhavi,Issac,Female,2000-05-20,2021-09-23,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Zaid Rajagopal,772633,5028297594,garayashica@basu.org,Active
+123,EMP0123,Gabriel,Divan,Female,1978-02-15,2025-08-21,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Amruta Parikh,481977,+919949648042,boselipika@anand.info,Active
+124,EMP0124,Zashil,Mohan,Female,1987-05-09,2025-07-30,Warehouse,Store Keeper,Morning,SoluTex Manufacturing Plant,Aditya Balan,977168,+913124735440,uom@golla-goda.org,Active
+125,EMP0125,Vinaya,Saxena,Male,1989-03-07,2019-08-21,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Chandani Mohan,436859,02351420091,sarthakmajumdar@pingle.net,Active
+126,EMP0126,Rishi,Sandal,Female,2004-12-05,2020-11-30,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Oviya Bala,1079116,7590260549,widisha24@pandey.com,Active
+127,EMP0127,Lopa,Sant,Male,2005-03-11,2025-05-10,Maintenance,Maintenance Engineer,Evening,SoluTex Manufacturing Plant,Vamakshi Singhal,400924,0615384205,avisandal@gandhi.info,Inactive
+128,EMP0128,Ucchal,Nayak,Male,1991-06-01,2023-03-20,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Fiyaz Iyer,452266,2847481565,delopa@bassi.com,Active
+129,EMP0129,Wriddhish,Malhotra,Male,1990-02-03,2024-05-18,Production,Operator,Evening,SoluTex Manufacturing Plant,Isha Parmer,954045,7713998440,kavyajain@bose-goel.info,Inactive
+130,EMP0130,Nidra,Bhandari,Male,2002-08-23,2021-01-16,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Lakshmi Iyengar,1006045,7778752655,pratyush93@bose-gole.biz,Resigned
+131,EMP0131,Udarsh,Sen,Female,2000-06-13,2022-06-10,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Dominic Natt,1136664,09400070587,pranitmadan@rao.info,Inactive
+132,EMP0132,Ekanta,Bhatt,Male,1973-01-11,2021-05-02,Production,Operator,Morning,SoluTex Manufacturing Plant,Manthan Krishna,1051067,00334321160,avnikant@arora-salvi.com,Active
+133,EMP0133,Darsh,Deo,Male,1978-12-02,2022-03-22,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Bina Deo,1176233,03341928675,omisha75@dey-sethi.org,Resigned
+134,EMP0134,Jagvi,Sane,Female,1979-09-16,2022-12-05,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Ryan Sankar,1031022,07291025439,yashasvi06@mann.biz,Active
+135,EMP0135,Yoshita,Chaudhuri,Male,2004-04-26,2026-07-07,Sales,Sales Manager,Morning,SoluTex Manufacturing Plant,Praneel Chaudhry,1010104,+917935520601,indrajit58@kale.net,Inactive
+136,EMP0136,Chakradev,De,Male,1972-11-15,2022-05-05,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Pushti Tata,1020008,+910157771604,vasamegha@murthy.com,Inactive
+137,EMP0137,Zayan,Chahal,Male,1984-07-28,2017-08-15,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Aryan Kothari,943538,6849792135,yashodhara41@dalia-batta.org,Inactive
+138,EMP0138,Adya,Ahluwalia,Male,1978-12-07,2022-04-21,Maintenance,Maintenance Engineer,Morning,SoluTex Manufacturing Plant,Lopa Narasimhan,779984,4999300168,behlharish@deshpande.com,Active
+139,EMP0139,Dayita,Loyal,Male,1990-02-06,2018-12-02,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Aarav Chandran,669694,+911704080256,krisha66@pingle.com,Inactive
+140,EMP0140,Baljiwan,Reddy,Male,1980-02-01,2025-12-01,Maintenance,Technician,Morning,SoluTex Manufacturing Plant,Arunima Mitra,539263,+918552128828,yachana31@shetty-gour.com,Resigned
+141,EMP0141,Ekaraj,Bhargava,Female,2004-03-27,2024-06-04,Warehouse,Warehouse Executive,Night,SoluTex Manufacturing Plant,Oviya Memon,1099383,8907812630,sakshamrajagopalan@randhawa-walla.com,Inactive
+142,EMP0142,Sanya,Suri,Female,2004-04-08,2021-03-24,Finance,Finance Executive,Morning,SoluTex Manufacturing Plant,Neel Srinivas,1190944,03812673751,qkrish@chhabra.com,Resigned
+143,EMP0143,Dhruv,Varghese,Female,1983-11-20,2022-07-26,Production,Operator,Morning,SoluTex Manufacturing Plant,Ojasvi Bhasin,803583,06920623441,chaitaly38@shukla.info,Active
+144,EMP0144,Rohan,Khalsa,Male,1969-02-25,2022-02-01,Warehouse,Store Keeper,Night,SoluTex Manufacturing Plant,Jeremiah Raju,993281,+911883935513,ijayadube@sankar.org,Resigned
+145,EMP0145,Rudra,Chander,Male,1992-12-20,2025-02-26,Sales,Sales Manager,Morning,SoluTex Manufacturing Plant,Pooja Ratta,876729,+913323809598,mitrazansi@maharaj.net,Active
+146,EMP0146,Aachal,Rau,Male,1981-11-30,2020-05-31,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Sanya Thaker,928768,+919329267186,kalatanvi@gala-karpe.com,Inactive
+147,EMP0147,Bhanumati,Thaker,Male,1991-03-06,2025-09-04,Production,Operator,Night,SoluTex Manufacturing Plant,Gopal Khare,741859,06872034445,hshankar@krish-kari.com,Resigned
+148,EMP0148,Victor,Kaul,Female,1998-03-31,2021-05-03,Warehouse,Store Keeper,Night,SoluTex Manufacturing Plant,Ati Kakar,1179232,9977819467,jkamdar@singh.com,Active
+149,EMP0149,Bhavani,Kala,Male,1984-09-16,2024-02-25,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Omkaar Brar,1047231,02695915315,abeernigam@mangal-sengupta.com,Inactive
+150,EMP0150,Caleb,Arora,Male,1989-12-26,2019-08-20,Sales,Sales Manager,Night,SoluTex Manufacturing Plant,Vyanjana Dave,846969,2235077405,isarraf@nagar.com,Inactive
+151,EMP0151,Warinder,Chowdhury,Male,1990-06-25,2021-06-25,Production,Operator,Morning,SoluTex Manufacturing Plant,Upadhriti Sahni,1160179,06280449155,chaitaly07@aurora.net,Resigned
+152,EMP0152,Gautami,Murthy,Female,1974-07-12,2019-07-20,Production,Operator,Evening,SoluTex Manufacturing Plant,Forum Pai,590930,+919451530228,ektawason@dubey.com,Inactive
+153,EMP0153,Zaid,Banik,Male,1974-04-17,2023-12-11,Production,Operator,Night,SoluTex Manufacturing Plant,Hemangini Parmar,264920,+916100549252,qasimmalhotra@boase.net,Active
+154,EMP0154,Zayyan,Pathak,Female,1998-02-19,2021-08-21,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Harrison Shanker,260429,3598327771,lokesara@rattan.com,Active
+155,EMP0155,Ekavir,Dube,Male,2002-06-16,2019-07-02,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Aashi Muni,1114583,+917705734742,udant90@raval.com,Inactive
+156,EMP0156,Ucchal,Jain,Male,1984-05-28,2024-06-10,Warehouse,Warehouse Executive,Morning,SoluTex Manufacturing Plant,Vasudha Toor,816052,+914699817694,osandhu@kurian.com,Resigned
+157,EMP0157,Dakshesh,Kamdar,Female,2004-12-10,2025-09-11,Sales,Sales Manager,Morning,SoluTex Manufacturing Plant,Joshua Ghosh,239166,2401370736,palmason@mitter-dada.com,Resigned
+158,EMP0158,Harish,Nadig,Female,2003-02-04,2022-10-25,Production,Operator,Night,SoluTex Manufacturing Plant,Panini Rama,345057,02100629831,rsawhney@bhatti.com,Resigned
+159,EMP0159,Luke,Shah,Female,2004-04-20,2021-05-24,Sales,Sales Executive,Night,SoluTex Manufacturing Plant,Nilima Toor,230990,6731911224,bbiswas@chaudhary.com,Inactive
+160,EMP0160,Hemangini,Dhawan,Female,1967-12-08,2022-11-06,Production,Operator,Morning,SoluTex Manufacturing Plant,Rachita Kanda,560612,+916213565221,mukherjeeadvika@zachariah.com,Resigned
+161,EMP0161,Sathvik,Gala,Male,1988-10-11,2025-01-30,Warehouse,Store Keeper,Morning,SoluTex Manufacturing Plant,Falak Deol,705907,06714531520,rishi02@kamdar.com,Inactive
+162,EMP0162,Harshil,Dua,Female,1979-01-04,2019-09-11,Maintenance,Technician,Evening,SoluTex Manufacturing Plant,Samesh Garde,534267,0918992871,eiravati89@sen.com,Active
+163,EMP0163,Vedant,Menon,Female,1981-02-19,2024-05-20,Production,Operator,Evening,SoluTex Manufacturing Plant,Bahadurjit Dyal,410172,+910591159287,priyamitra@walia.org,Inactive
+164,EMP0164,Shivansh,Majumdar,Male,2003-05-05,2019-06-22,Management,General Manager,Night,SoluTex Manufacturing Plant,Warda Gade,1174203,0278247718,aayushmukherjee@dora-guha.biz,Resigned
+165,EMP0165,Garima,Taneja,Male,1973-05-01,2024-09-13,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Teerth Gokhale,987390,2115204047,abdul64@nagarajan.info,Resigned
+166,EMP0166,Vamakshi,Nair,Female,1999-01-11,2024-04-20,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Ryan Maharaj,696250,02489965120,emander@kalita-rajan.biz,Inactive
+167,EMP0167,Hitesh,Lad,Female,1984-07-10,2020-08-29,Warehouse,Store Keeper,Night,SoluTex Manufacturing Plant,Warjas Choudhury,1047639,0692240472,gpandya@pandit.com,Active
+168,EMP0168,Vedant,Narula,Female,1980-03-16,2018-10-18,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Thomas Deshmukh,753213,+912245222209,sidhuorinder@baria.com,Inactive
+169,EMP0169,Dalaja,Sathe,Female,1974-07-27,2019-06-16,Production,Operator,Night,SoluTex Manufacturing Plant,Yatan Dada,997706,7643098794,chanchal78@dugal-hegde.com,Active
+170,EMP0170,Sanaya,Munshi,Female,1972-08-17,2021-04-17,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Yauvani Wali,955861,7398850894,harita08@pau-ray.info,Resigned
+171,EMP0171,Jackson,Parsa,Female,2000-03-07,2016-10-03,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Urishilla Pillay,262834,00707667166,ekantahanda@dyal.com,Resigned
+172,EMP0172,Darika,Virk,Female,1973-01-10,2023-01-30,Sales,Sales Manager,Morning,SoluTex Manufacturing Plant,Nathaniel Parikh,801583,3890675874,sagarwal@sur.org,Active
+173,EMP0173,Oviya,Yadav,Male,2003-12-15,2021-03-29,Production,Operator,Evening,SoluTex Manufacturing Plant,Wazir Grewal,983652,3153650863,pillaiurmi@kata-sarna.com,Active
+174,EMP0174,Upma,Kaul,Female,1977-08-04,2022-04-27,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Bachittar Aggarwal,888559,+917098467598,priya09@ganesh-raval.com,Resigned
+175,EMP0175,Kevin,Bahl,Male,1976-08-22,2025-02-09,Warehouse,Store Keeper,Evening,SoluTex Manufacturing Plant,Jackson Mistry,850059,09532768994,rayaanchauhan@kibe.com,Active
+176,EMP0176,Gaurav,Kohli,Male,1981-05-05,2020-07-07,Management,Plant Manager,Evening,SoluTex Manufacturing Plant,Lucky Naidu,1140456,09649519439,tarak15@wali.com,Inactive
+177,EMP0177,Girik,Dora,Male,1988-09-27,2020-03-17,Warehouse,Store Keeper,Night,SoluTex Manufacturing Plant,Sachi Venkatesh,566041,00052265759,raoanmol@shankar-arora.com,Active
+178,EMP0178,Quincy,Deol,Male,1985-05-28,2023-06-20,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Raghav Vohra,760878,7814102011,ekbaldar@nadig.com,Inactive
+179,EMP0179,Panini,Wali,Male,1997-01-26,2020-01-21,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Nikita Lata,419940,+919993249108,lajitacomar@mitra-mann.net,Active
+180,EMP0180,Avi,Vyas,Male,1990-06-09,2017-03-10,Production,Operator,Morning,SoluTex Manufacturing Plant,Zansi Bassi,1058646,+912858783309,vasatanmayi@grewal.com,Resigned
+181,EMP0181,Keya,Dass,Male,1986-01-26,2016-10-22,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Samuel Batra,604720,4685363289,urishillarau@bose-singh.biz,Active
+182,EMP0182,Ekavir,Chakraborty,Male,1979-06-15,2025-06-06,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Balveer Sawhney,750427,06096737105,chanchalgour@kant-bassi.biz,Inactive
+183,EMP0183,Kevin,Patla,Female,1988-04-10,2018-10-20,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Faqid Bhatnagar,404807,+914473173575,jaggivrinda@barad-dani.info,Active
+184,EMP0184,Ranbir,Soman,Female,2002-02-14,2023-11-26,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Chaaya Walla,526487,3331876012,onkarlad@bhavsar-sampath.org,Active
+185,EMP0185,Anya,Ravel,Female,1979-10-03,2020-12-08,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Liam Balasubramanian,908306,+913870881570,iyadav@raja.com,Inactive
+186,EMP0186,Nathaniel,Patil,Female,1974-03-23,2023-01-20,Production,Operator,Morning,SoluTex Manufacturing Plant,Chakrika Ranganathan,345534,8037142051,kramaswamy@kalla.com,Active
+187,EMP0187,Chatresh,Devan,Male,1991-07-26,2018-09-06,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Nidra Acharya,1191133,+916936137137,kdatta@agrawal.com,Active
+188,EMP0188,Quincy,Murthy,Female,1972-03-25,2021-05-17,Management,Plant Manager,Morning,SoluTex Manufacturing Plant,Kabir Gala,918702,09243527559,sonivasana@majumdar-gade.biz,Inactive
+189,EMP0189,Anirudh,Sabharwal,Female,1986-04-03,2017-09-26,Finance,Finance Executive,Morning,SoluTex Manufacturing Plant,Krishna Sahni,968668,9843936712,grovergautam@kashyap.com,Active
+190,EMP0190,Bahadurjit,Pingle,Male,1999-08-29,2025-08-24,Warehouse,Store Keeper,Morning,SoluTex Manufacturing Plant,Warhi Patla,967717,+910968677372,mitterquincy@kothari.net,Inactive
+191,EMP0191,Charita,Karan,Male,2002-03-21,2022-10-20,Warehouse,Store Keeper,Night,SoluTex Manufacturing Plant,Raksha Dhingra,298453,02648193089,arya73@bal.net,Active
+192,EMP0192,Rushil,Kumar,Male,1981-05-11,2025-04-23,Production,Operator,Morning,SoluTex Manufacturing Plant,Dakshesh Bhasin,288713,+913463153337,hshenoy@mittal.com,Inactive
+193,EMP0193,Siddharth,Kala,Male,1992-04-14,2026-03-30,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Triya Gara,496315,4218885803,gbalay@hans.com,Resigned
+194,EMP0194,Jhalak,Walia,Female,2001-03-27,2018-08-04,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Jai Parekh,537309,6115710179,sarkarfalan@jayaraman.biz,Active
+195,EMP0195,Krish,Saran,Male,1987-04-12,2020-05-26,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Rushil Andra,563524,+916011379856,hemanginijain@dhar-dhawan.com,Resigned
+196,EMP0196,Ishanvi,Prabhu,Male,1977-01-25,2021-01-24,Warehouse,Store Keeper,Morning,SoluTex Manufacturing Plant,Maanav Desai,827079,09087704954,hayeraryan@krish-kothari.com,Active
+197,EMP0197,Panini,Chada,Male,1997-10-19,2024-04-10,Sales,Sales Manager,Evening,SoluTex Manufacturing Plant,Vedhika Ray,221260,01291740207,ahluwaliafrado@dhingra.info,Inactive
+198,EMP0198,Manthan,Sur,Male,1992-06-22,2020-01-04,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Kashvi Din,839830,9742533750,sara08@chaudhary-peri.biz,Inactive
+199,EMP0199,Triya,Gara,Male,2001-09-22,2026-03-23,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Lopa Yogi,705428,6137260167,fitan48@palla.com,Resigned
+200,EMP0200,Hemal,Solanki,Male,1982-01-19,2017-10-18,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Samarth Nori,941847,2422134164,jasondeep@rau.com,Inactive
+201,EMP0201,Raghav,Patla,Male,1993-01-21,2026-02-19,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Widisha Amble,198780,+918656215640,msandhu@pillay.com,Resigned
+202,EMP0202,Jyoti,Narayan,Female,1993-10-06,2016-09-13,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Dakshesh Subramaniam,1003181,08926678078,harrison96@ganesh.com,Active
+203,EMP0203,Ekiya,Kadakia,Male,1976-09-07,2019-05-27,Maintenance,Maintenance Engineer,Morning,SoluTex Manufacturing Plant,Qabil Karan,963308,+912247481406,chaitalynigam@din.biz,Resigned
+204,EMP0204,Daksha,Morar,Male,1991-09-15,2022-03-19,Warehouse,Warehouse Executive,Evening,SoluTex Manufacturing Plant,Wakeeta Ram,876050,+918022339001,manya31@chanda-palan.info,Active
+205,EMP0205,Sanaya,Pingle,Male,1989-07-22,2026-05-19,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Bhavika Banik,815794,09076027658,bahadurjit41@sarraf-bumb.net,Active
+206,EMP0206,Bachittar,Korpal,Male,1992-03-11,2019-03-03,Production,Operator,Evening,SoluTex Manufacturing Plant,Upadhriti Gade,322600,08043173861,jlall@agarwal-bhandari.com,Active
+207,EMP0207,Amaira,Bhat,Male,2001-10-17,2020-03-16,Maintenance,Maintenance Engineer,Evening,SoluTex Manufacturing Plant,Elijah Mistry,999715,8154102446,aarnav91@tripathi.com,Inactive
+208,EMP0208,Zaid,Dhaliwal,Male,1984-03-11,2018-03-19,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Chaitaly Kaur,384261,8535609475,rachana21@sant-agate.com,Inactive
+209,EMP0209,Yatan,Chowdhury,Female,2003-12-21,2022-12-14,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Ronith Bajwa,995841,08482207005,sneha54@kapoor.org,Inactive
+210,EMP0210,Kamya,Narula,Female,1970-04-28,2023-03-19,Production,Operator,Evening,SoluTex Manufacturing Plant,Widisha Choudhury,1034617,0244278214,kavya82@mann-tiwari.net,Resigned
+211,EMP0211,Joshua,Gola,Female,2002-05-20,2026-03-01,Quality,QA Engineer,Night,SoluTex Manufacturing Plant,Charvi Keer,271785,02613226768,ssem@lad.biz,Inactive
+212,EMP0212,Zayan,Nair,Female,1995-12-11,2021-02-23,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Viraj Loyal,703650,2925299233,ijayababu@bhagat.biz,Resigned
+213,EMP0213,Orinder,Virk,Female,2004-04-14,2022-11-12,Maintenance,Technician,Evening,SoluTex Manufacturing Plant,Quincy Nayak,411947,09594771213,gautamichoudhry@manda.biz,Resigned
+214,EMP0214,Yauvani,Mallick,Male,2003-03-28,2023-02-13,Production,Operator,Evening,SoluTex Manufacturing Plant,Isaac Dhillon,838848,1358424842,isha34@sinha.com,Inactive
+215,EMP0215,Jatin,Kadakia,Male,1981-09-23,2021-11-11,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Jacob Talwar,228335,1025206314,nachiketmani@baria.com,Inactive
+216,EMP0216,Kashish,Mall,Male,2005-05-04,2020-06-26,Finance,Accountant,Night,SoluTex Manufacturing Plant,Vedant Naik,636850,+918570927396,tsingh@dayal.com,Active
+217,EMP0217,Jeremiah,Edwin,Female,1975-04-01,2019-11-12,Production,Operator,Morning,SoluTex Manufacturing Plant,Jonathan Prashad,221630,+915390150254,omishagoswami@trivedi.com,Resigned
+218,EMP0218,Anvi,Mani,Female,1994-07-10,2021-06-04,Maintenance,Technician,Morning,SoluTex Manufacturing Plant,Divya Kashyap,1017521,03385538095,chaturagoel@karnik.com,Resigned
+219,EMP0219,Henry,Pandya,Male,1995-06-08,2019-06-09,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Triveni Chaudhuri,348050,+912330579588,wishi77@kota.com,Active
+220,EMP0220,Bachittar,Vohra,Female,1992-09-30,2023-05-29,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Hemani Sehgal,188773,+916857226425,santjeet@more.com,Resigned
+221,EMP0221,Waida,Chakrabarti,Male,1973-01-29,2024-03-28,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Umang Gulati,345819,07004968441,isavant@barman.info,Active
+222,EMP0222,Alka,Kade,Female,1994-01-11,2024-04-16,Sales,Sales Officer,Night,SoluTex Manufacturing Plant,Gagan Madan,206038,00681685931,qnadkarni@buch-bobal.org,Inactive
+223,EMP0223,Jagrati,Sen,Female,1995-01-25,2026-04-23,Warehouse,Warehouse Executive,Morning,SoluTex Manufacturing Plant,Geetika Bala,665320,6150315333,kavya59@luthra.com,Active
+224,EMP0224,Lopa,Toor,Female,1976-08-17,2020-03-02,Production,Operator,Evening,SoluTex Manufacturing Plant,Ladli Balay,1129448,+918986271588,bandialka@date.org,Active
+225,EMP0225,Laban,Krishnamurthy,Male,1996-09-28,2017-04-09,Maintenance,Maintenance Engineer,Morning,SoluTex Manufacturing Plant,Rehaan Chaudhuri,569482,1808229544,anamika90@soni.com,Active
+226,EMP0226,Upma,Puri,Male,1982-05-10,2016-10-17,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Chaitanya More,1102605,+916979084375,udyativarghese@dhar.com,Resigned
+227,EMP0227,Harinakshi,Sidhu,Male,1967-10-09,2022-10-12,Management,Plant Manager,Morning,SoluTex Manufacturing Plant,Shivani Raman,1068168,+910465456369,ubikajaggi@shere.com,Resigned
+228,EMP0228,Megha,Majumdar,Female,1997-02-20,2025-09-06,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Forum Ghose,239413,06326845544,uoak@narang.com,Active
+229,EMP0229,Udarsh,Dora,Male,1993-05-14,2018-01-23,Maintenance,Technician,Morning,SoluTex Manufacturing Plant,Benjamin Cherian,1094492,8413062897,raovarsha@chaudhary.net,Resigned
+230,EMP0230,Urvi,Sagar,Male,1989-07-15,2018-12-22,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Varsha Shan,757220,00046409247,ethansridhar@sheth-raju.com,Active
+231,EMP0231,Tanvi,Shanker,Male,1974-01-21,2017-09-13,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Mohini Bail,436014,05212122989,aadhyachoudhary@natt.com,Resigned
+232,EMP0232,Hardik,Srivastava,Male,2004-05-31,2025-12-19,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Azad Swaminathan,665412,+912227638201,aishanisanghvi@banerjee-sandhu.com,Resigned
+233,EMP0233,Mason,Saraf,Male,1986-01-02,2024-08-24,Warehouse,Store Keeper,Morning,SoluTex Manufacturing Plant,Aryan Varma,329510,+910943815814,odalal@bawa-kala.org,Inactive
+234,EMP0234,Hritik,Agate,Female,1985-03-23,2025-06-02,Quality,QA Engineer,Night,SoluTex Manufacturing Plant,Hemang Garde,604598,07555064644,imunshi@vala.org,Active
+235,EMP0235,Manya,Loyal,Female,1975-09-13,2025-04-03,Production,Operator,Morning,SoluTex Manufacturing Plant,Bakhshi Tella,318826,8314734379,nayakraagini@wadhwa-choudhury.org,Inactive
+236,EMP0236,Karan,Pathak,Male,1998-01-17,2024-03-26,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Veer Prabhakar,274085,05917043551,tahuja@jayaraman.org,Active
+237,EMP0237,Anirudh,Bains,Female,1998-09-22,2025-08-04,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Suhani Bassi,900323,6247815767,qmanne@tandon.com,Active
+238,EMP0238,Lakshit,Jayaraman,Female,1978-04-17,2018-04-26,Production,Operator,Morning,SoluTex Manufacturing Plant,Abdul Chaudhary,1127743,3117621768,garimasinha@oza.org,Resigned
+239,EMP0239,Arin,Babu,Female,1971-11-19,2019-02-20,Production,Operator,Night,SoluTex Manufacturing Plant,Chanchal Gaba,775783,09059849129,rkhalsa@yogi-bhasin.com,Inactive
+240,EMP0240,Dhruv,Rau,Female,1978-05-06,2026-04-14,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Robert Ahuja,436403,00758893051,anthonyvarkey@kurian.info,Active
+241,EMP0241,Hemang,Cherian,Male,1994-07-14,2024-03-14,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Qasim Pradhan,242653,6386416500,ojas14@sood.org,Resigned
+242,EMP0242,Krishna,Chahal,Female,1994-06-24,2018-07-28,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Chatura Narasimhan,1057748,+910664252643,indrajitseth@patla-bawa.biz,Active
+243,EMP0243,Anvi,Iyer,Male,1968-01-01,2018-09-10,Warehouse,Store Keeper,Night,SoluTex Manufacturing Plant,Matthew Malhotra,358326,0223742546,epalla@hayer.com,Active
+244,EMP0244,Wishi,Dhawan,Male,1986-11-17,2021-12-06,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Mekhala Parekh,548569,+917230449110,lprabhu@dara-bawa.com,Inactive
+245,EMP0245,Advik,Kade,Male,1982-07-07,2016-08-30,Production,Operator,Night,SoluTex Manufacturing Plant,Indrajit Madan,843475,9858638760,sarafjanuja@chad.com,Active
+246,EMP0246,Yauvani,Naidu,Male,1988-10-13,2025-01-08,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Raksha Narain,727527,2567149488,chavvi72@date.org,Active
+247,EMP0247,Gaurang,Seshadri,Female,1980-07-29,2025-10-06,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Maanav Kulkarni,712746,+916185550465,randhawalaksh@pai-tata.com,Active
+248,EMP0248,Rajata,Dutt,Male,1996-02-19,2019-11-30,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Advay Parsa,1017631,02474258991,vedwin@randhawa.com,Inactive
+249,EMP0249,Ryan,Solanki,Male,2001-04-04,2025-08-28,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Om Majumdar,1092326,01135144233,akshay92@bala.biz,Inactive
+250,EMP0250,Mohini,Muni,Female,1971-07-23,2025-03-25,Production,Operator,Evening,SoluTex Manufacturing Plant,Chameli Ranganathan,888186,+918534567911,msahota@contractor.biz,Active
+251,EMP0251,Nandini,Saini,Female,1972-01-19,2020-08-07,Warehouse,Warehouse Executive,Evening,SoluTex Manufacturing Plant,Gaurangi Tata,606129,+919488365258,arunima22@chaudhari.com,Inactive
+252,EMP0252,Chaaya,Chander,Female,1997-05-06,2020-07-02,Sales,Sales Manager,Morning,SoluTex Manufacturing Plant,Manya Nayar,457595,07737761665,qde@pandit.com,Active
+253,EMP0253,Naksh,Lala,Male,1997-11-13,2019-03-04,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Adweta Edwin,423398,08066603062,ojasvi54@natarajan.com,Inactive
+254,EMP0254,Rehaan,Saha,Female,2002-02-10,2025-04-12,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Mugdha Chanda,709215,02306547378,tamanna23@dani.net,Active
+255,EMP0255,Anay,Dara,Female,1973-11-05,2024-09-01,Production,Operator,Morning,SoluTex Manufacturing Plant,Zaitra Ahuja,738258,+917909647702,caleb83@mane.com,Resigned
+256,EMP0256,Zehaan,Dave,Female,1989-11-19,2022-03-17,Finance,Finance Executive,Evening,SoluTex Manufacturing Plant,Anjali Mody,463192,2119671461,settyirya@raja.net,Active
+257,EMP0257,Riya,Sama,Male,1980-02-05,2022-02-10,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Geetika Baria,1028464,7463725930,vaishnavigera@guha.com,Inactive
+258,EMP0258,Darika,Wali,Male,2005-07-08,2021-11-27,Maintenance,Maintenance Engineer,Morning,SoluTex Manufacturing Plant,Sachi Sahota,407313,06649030613,urmi30@sethi.biz,Active
+259,EMP0259,Pavani,Choudhary,Male,2005-03-31,2020-11-23,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Fiyaz Chaudhuri,527099,6230789068,bkulkarni@bajwa.com,Resigned
+260,EMP0260,Girish,Krishnan,Male,1997-03-17,2016-11-06,Maintenance,Maintenance Engineer,Morning,SoluTex Manufacturing Plant,Aarna Varkey,313617,+916716774320,atipal@mander-ghosh.org,Resigned
+261,EMP0261,Balveer,Mishra,Female,1998-07-10,2024-10-06,Warehouse,Store Keeper,Night,SoluTex Manufacturing Plant,Quincy Mahajan,356035,9137288350,xverma@mani.biz,Inactive
+262,EMP0262,Harsh,Mander,Male,1972-08-21,2019-12-27,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Onveer Sem,725653,05131202912,raoqushi@hayre.info,Inactive
+263,EMP0263,Atharv,Wadhwa,Female,1998-12-12,2018-02-06,Sales,Sales Manager,Night,SoluTex Manufacturing Plant,Yutika Baral,453682,05423413393,nicholasbhattacharyya@srivastava.net,Resigned
+264,EMP0264,Hiral,Chhabra,Female,2003-06-01,2018-01-11,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Anvi Mangal,1146231,+911259767575,cben@batta.net,Resigned
+265,EMP0265,Jai,Badal,Female,1997-09-02,2020-02-20,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Ayush Bhatti,1147300,00672445714,yashica21@guha-gade.net,Active
+266,EMP0266,Liam,Walla,Female,1979-04-07,2021-03-26,Maintenance,Technician,Morning,SoluTex Manufacturing Plant,Krish Mutti,1106121,+913572563828,theodore03@kala-borde.com,Resigned
+267,EMP0267,Veer,Rai,Male,2005-02-21,2023-08-18,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Azad Dugar,1094094,+913611785844,wsaini@agrawal.info,Inactive
+268,EMP0268,Idika,Dixit,Male,1976-05-02,2017-04-06,Finance,Accountant,Night,SoluTex Manufacturing Plant,Siya Barad,818069,8739823246,kamala59@hayre.biz,Active
+269,EMP0269,Daniel,Rastogi,Male,1976-06-17,2021-02-24,HR,HR Manager,Evening,SoluTex Manufacturing Plant,Hitesh More,650470,+917901241161,sandhusarthak@mani.biz,Active
+270,EMP0270,Baghyawati,Krishnamurthy,Male,1967-08-25,2016-12-21,Finance,Finance Executive,Morning,SoluTex Manufacturing Plant,Bakhshi Dara,1092857,01758387771,elijahmammen@swamy-morar.com,Resigned
+271,EMP0271,Nathaniel,Sha,Female,1989-10-30,2023-04-04,Maintenance,Technician,Morning,SoluTex Manufacturing Plant,Varsha Sastry,1016639,+910895809640,sidhuaryan@talwar.info,Resigned
+272,EMP0272,Vidhi,Ganesh,Male,1974-05-17,2021-08-23,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Ekantika Bansal,448187,+917000226734,rachita83@gole-kashyap.com,Active
+273,EMP0273,Chanakya,Khatri,Male,1993-10-09,2023-02-20,Production,Operator,Evening,SoluTex Manufacturing Plant,Rayaan Pathak,722958,+916262589235,samuel27@ravi-merchant.com,Resigned
+274,EMP0274,Jagat,Mannan,Female,1982-07-30,2022-07-16,Maintenance,Maintenance Engineer,Evening,SoluTex Manufacturing Plant,Manan Prabhakar,518519,+917857366271,fhalder@thakur.com,Inactive
+275,EMP0275,Abdul,Narain,Male,1994-04-02,2019-06-22,Warehouse,Warehouse Executive,Night,SoluTex Manufacturing Plant,Mohini Kapadia,841947,+915894806657,kulkarnizayan@saha.com,Active
+276,EMP0276,Isaiah,Sandhu,Male,2002-06-28,2025-09-07,Production,Operator,Morning,SoluTex Manufacturing Plant,Jacob Raghavan,424669,3428128263,prasadharshil@nagi-khurana.org,Inactive
+277,EMP0277,Girindra,Varty,Male,1999-06-25,2020-07-05,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Qarin Naik,462378,7921471451,vohrarishi@sharaf.com,Resigned
+278,EMP0278,Xavier,Agrawal,Female,1990-10-20,2024-08-17,Sales,Sales Officer,Night,SoluTex Manufacturing Plant,Omya Kibe,202945,+910714942093,soodsamesh@tara.com,Active
+279,EMP0279,Nachiket,Joshi,Female,2000-11-18,2024-02-27,Sales,Sales Officer,Morning,SoluTex Manufacturing Plant,Aradhana Divan,769737,+918154749290,vasanachakrabarti@vig-kohli.biz,Active
+280,EMP0280,Yug,Patla,Male,1988-04-24,2017-01-22,Sales,Sales Manager,Night,SoluTex Manufacturing Plant,Mitali Thaman,880107,+915747302319,gandhimadhav@iyengar.com,Inactive
+281,EMP0281,Yash,Bhakta,Female,1986-01-25,2024-10-04,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Ojas Bhatia,794628,03871730892,ghayre@agate-chauhan.biz,Inactive
+282,EMP0282,Zarna,Modi,Male,1995-10-01,2016-09-20,Quality,Quality Inspector,Evening,SoluTex Manufacturing Plant,Umang Om,518264,09374022650,sanghaumang@bassi.com,Resigned
+283,EMP0283,Priya,Shroff,Female,1968-03-21,2024-08-18,Sales,Sales Officer,Morning,SoluTex Manufacturing Plant,Ojas Viswanathan,310582,08844938562,kavya46@chadha-chandra.com,Inactive
+284,EMP0284,Harini,Murty,Male,2000-11-13,2017-05-27,Sales,Sales Manager,Evening,SoluTex Manufacturing Plant,Thomas Nanda,861779,05515183724,rwadhwa@devan.info,Active
+285,EMP0285,Krishna,Rana,Male,1990-05-11,2017-05-31,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Chakradhar Maharaj,405020,+915995861434,ahluwaliadaksh@parsa.com,Active
+286,EMP0286,Chatura,Nadig,Male,1976-04-05,2018-05-20,Warehouse,Warehouse Executive,Morning,SoluTex Manufacturing Plant,Urishilla Barad,202446,+912652265993,vedika54@buch.com,Inactive
+287,EMP0287,Jeevika,Khurana,Male,1991-12-16,2018-08-26,Maintenance,Technician,Evening,SoluTex Manufacturing Plant,Elijah Ramesh,871437,6237718376,omukherjee@dass-devan.org,Inactive
+288,EMP0288,Meera,Lalla,Male,1975-11-12,2020-08-30,Production,Operator,Night,SoluTex Manufacturing Plant,Onveer Kumar,1102763,8430294325,sbaria@menon.com,Inactive
+289,EMP0289,Siya,Batra,Female,1990-05-01,2016-10-16,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Chanakya Shankar,849143,2608048977,dkamdar@shah.com,Active
+290,EMP0290,Laban,Rastogi,Male,1970-11-11,2016-08-14,Sales,Sales Manager,Morning,SoluTex Manufacturing Plant,Janaki Bains,849900,07362212147,valaekansh@rama-choudhury.com,Resigned
+291,EMP0291,Ubika,Suresh,Female,1975-10-26,2019-06-19,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Avi Mahal,285701,+912953957124,ikara@dhillon.com,Active
+292,EMP0292,Ishaan,Solanki,Male,1975-06-18,2024-06-11,Production,Operator,Evening,SoluTex Manufacturing Plant,Krishna Pillay,276754,+918915053475,saumya16@sawhney.biz,Inactive
+293,EMP0293,Kala,Tella,Female,1980-02-03,2023-05-30,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Siya Suresh,770618,08439913348,ramanathanwilliam@jayaraman.com,Resigned
+294,EMP0294,Girish,Suri,Female,1991-10-21,2019-12-16,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Ishaan Pau,428093,4754349306,girindra02@varty-divan.net,Active
+295,EMP0295,Christopher,Varkey,Female,1986-03-13,2018-02-15,Warehouse,Warehouse Executive,Evening,SoluTex Manufacturing Plant,Janani Tandon,231278,+914460682037,lpillai@wadhwa.com,Active
+296,EMP0296,Diya,Barman,Female,1973-10-19,2024-02-27,HR,HR Executive,Morning,SoluTex Manufacturing Plant,Oliver Johal,631735,2176720505,wrideshrai@bumb.com,Active
+297,EMP0297,Gagan,Gade,Female,2003-10-20,2023-01-22,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Onveer Raghavan,1002688,09986280575,sdeol@goswami-bajwa.com,Active
+298,EMP0298,Wishi,Choudhry,Female,1990-08-21,2023-12-03,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Ijaya Dube,1176996,7631665426,wahabhayer@sathe-kala.org,Inactive
+299,EMP0299,Vivaan,Sant,Female,1998-11-14,2022-03-09,Warehouse,Store Keeper,Night,SoluTex Manufacturing Plant,Deepa Memon,642868,00126868138,lekha13@sur-sachdeva.info,Resigned
+300,EMP0300,Triveni,Sane,Male,1979-10-12,2023-07-14,Sales,Sales Officer,Night,SoluTex Manufacturing Plant,Harita Chana,658422,02827705245,pranitnarasimhan@sachdev.biz,Resigned
+301,EMP0301,Samuel,Kadakia,Female,1986-09-16,2024-03-23,Management,Plant Manager,Evening,SoluTex Manufacturing Plant,Shravya Radhakrishnan,1142264,4280279966,thakurekaraj@bains-garde.com,Inactive
+302,EMP0302,Tanmayi,Dasgupta,Female,1982-09-23,2022-05-11,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Triya Dayal,777594,04566989194,evarty@panchal-seshadri.com,Active
+303,EMP0303,Unnati,Hans,Female,1981-03-02,2024-12-24,Quality,Quality Inspector,Evening,SoluTex Manufacturing Plant,Triveni Tiwari,675802,+912392127194,dasmanya@raju.biz,Resigned
+304,EMP0304,Jeevika,Minhas,Male,1983-09-17,2022-09-26,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Gayathri Vasa,342714,+918007972581,mbhagat@nadig.biz,Inactive
+305,EMP0305,Sachi,Dalal,Female,1967-10-07,2018-01-09,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Devansh Mangal,329558,8971456342,ekiya60@tiwari-hegde.com,Active
+306,EMP0306,Indrajit,Anne,Female,1989-12-27,2017-09-18,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Veda Iyengar,354751,+915428560888,lom@lad.biz,Active
+307,EMP0307,Vivaan,Bal,Female,2004-11-11,2019-01-23,Production,Operator,Morning,SoluTex Manufacturing Plant,Pranav Chaudhuri,1048410,2894767678,lukebera@baral.biz,Inactive
+308,EMP0308,Qabil,Karan,Female,1976-08-16,2020-02-26,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Madhavi Rajan,1186172,9409668053,chanchalkale@mahal.net,Resigned
+309,EMP0309,Reva,Reddy,Male,1994-02-14,2020-06-01,Maintenance,Maintenance Engineer,Morning,SoluTex Manufacturing Plant,Vedika Chanda,655293,+916848802956,teerth56@zacharia-shetty.info,Inactive
+310,EMP0310,Xavier,Kata,Male,1996-09-21,2026-02-02,Production,Operator,Night,SoluTex Manufacturing Plant,Anay Trivedi,790887,+910584262818,ngala@dave.net,Inactive
+311,EMP0311,George,Banik,Male,1973-01-24,2018-06-21,Production,Operator,Morning,SoluTex Manufacturing Plant,Viraj Aurora,842387,+914636911491,saidutt@puri-parmer.com,Inactive
+312,EMP0312,Balhaar,Srinivasan,Female,1997-03-10,2022-06-22,Maintenance,Technician,Morning,SoluTex Manufacturing Plant,Balvan Cherian,1185184,+913819987128,hardiksant@doshi.com,Active
+313,EMP0313,Samuel,Kibe,Female,2001-08-30,2025-05-26,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Unnati Luthra,804646,+910330111464,vasatika68@mital.net,Active
+314,EMP0314,Maanav,Dhar,Male,1972-01-21,2022-06-10,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Chameli Bawa,368665,+917989823184,chandrankothari@dube.com,Resigned
+315,EMP0315,Lajita,Issac,Female,1981-04-28,2021-08-05,Sales,Sales Officer,Night,SoluTex Manufacturing Plant,Abhiram Kapadia,394399,6005461173,rkaul@boase-subramaniam.com,Inactive
+316,EMP0316,Yatin,Doshi,Female,1982-06-18,2021-04-17,Warehouse,Warehouse Executive,Night,SoluTex Manufacturing Plant,Victor Goda,378227,+917732241176,inaya25@dubey-batta.com,Resigned
+317,EMP0317,Bhavini,Pillay,Female,1980-02-24,2019-06-06,Sales,Sales Manager,Night,SoluTex Manufacturing Plant,Ridhi Chakrabarti,211491,+918418393578,kamala05@kota-majumdar.org,Inactive
+318,EMP0318,Hemani,Nayar,Male,2003-09-16,2023-07-16,Production,Operator,Night,SoluTex Manufacturing Plant,Bachittar Koshy,404774,1155961021,sjain@mahajan-parikh.com,Resigned
+319,EMP0319,Dalaja,Suresh,Male,1969-02-07,2026-05-17,Production,Operator,Evening,SoluTex Manufacturing Plant,Jeet Doshi,611779,06134312930,qdayal@shukla.com,Active
+320,EMP0320,Eiravati,Deol,Male,1998-11-23,2019-03-25,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Anika Shetty,793885,+912715531324,nsandhu@mohan.info,Resigned
+321,EMP0321,Diya,Venkataraman,Female,1987-01-31,2023-05-03,Production,Operator,Evening,SoluTex Manufacturing Plant,Ishani Dixit,1084299,03218723897,chadhaidika@mani.biz,Active
+322,EMP0322,Wazir,Chadha,Male,1983-04-25,2022-01-01,Warehouse,Store Keeper,Morning,SoluTex Manufacturing Plant,Girik Dave,1126794,+912767500847,jasmit13@naidu.com,Active
+323,EMP0323,Nidhi,Naidu,Female,1976-04-25,2023-02-15,Sales,Sales Officer,Morning,SoluTex Manufacturing Plant,Charita Datta,1152232,05795691033,parthbajwa@solanki.com,Inactive
+324,EMP0324,Upasna,Hayer,Female,1980-05-08,2025-02-11,Maintenance,Maintenance Engineer,Night,SoluTex Manufacturing Plant,Anusha Sodhi,695519,04660705577,jonathanmore@loke-kunda.info,Active
+325,EMP0325,Caleb,Dua,Female,1974-11-26,2022-07-18,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Urvi Wason,640442,09872964249,samuel17@kurian.biz,Active
+326,EMP0326,Ikbal,Anand,Female,1973-01-23,2019-11-30,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Radhika Balay,1163526,+915635716721,eta66@dhillon.com,Active
+327,EMP0327,Champak,Kari,Male,1999-11-22,2023-07-17,Sales,Sales Officer,Morning,SoluTex Manufacturing Plant,William Deshmukh,427599,+916143312233,maanas57@karan.com,Active
+328,EMP0328,Kiaan,Palla,Male,1984-05-30,2017-11-14,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Kalpit Balay,1134029,02759812004,ranveer78@kumer-nagarajan.org,Active
+329,EMP0329,Priya,Sabharwal,Male,1985-11-14,2025-06-16,Quality,QA Engineer,Night,SoluTex Manufacturing Plant,Faqid Biswas,1121634,00557283183,janani09@nagar.com,Resigned
+330,EMP0330,Nisha,Grover,Female,1993-06-06,2018-03-04,Sales,Sales Executive,Night,SoluTex Manufacturing Plant,Nitesh Swamy,424317,+911495632862,bhavnakulkarni@reddy.biz,Inactive
+331,EMP0331,Chanchal,Iyer,Female,1982-02-14,2019-02-19,Finance,Accountant,Morning,SoluTex Manufacturing Plant,Vasana Mittal,334328,07918740128,magate@rege.com,Inactive
+332,EMP0332,Patrick,Lalla,Female,1971-03-19,2024-07-14,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Abhimanyu Dada,1098366,06123690300,mitesh44@chhabra.com,Active
+333,EMP0333,Abha,Mahajan,Female,1992-04-16,2017-06-14,Finance,Finance Executive,Night,SoluTex Manufacturing Plant,Vasatika Rao,251977,+917965487062,rajeshri11@brar-sodhi.com,Resigned
+334,EMP0334,Dominic,Bhasin,Female,1969-04-21,2018-02-20,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Ekbal Cheema,511977,+917465081677,meghanapalla@zacharia.info,Resigned
+335,EMP0335,Nikita,Raja,Female,1999-11-23,2018-06-01,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Janaki Ahluwalia,423422,01929344363,rverma@suri-gupta.com,Active
+336,EMP0336,Lajita,Chandran,Female,1984-12-21,2019-08-17,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Kala Bhatti,461246,6069785944,ria76@karnik-tailor.biz,Inactive
+337,EMP0337,Sanaya,Chanda,Male,1976-02-18,2021-07-15,Production,Operator,Evening,SoluTex Manufacturing Plant,Anvi Sahni,418445,02767183812,yachanamittal@trivedi.org,Active
+338,EMP0338,Mohini,Kala,Male,1978-05-19,2019-06-09,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Bakhshi Doctor,765021,+912272916917,brijeshmane@chada.com,Resigned
+339,EMP0339,Naksh,Sarna,Male,1998-12-11,2019-11-14,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Manbir Johal,1192679,1780489037,nihal63@sarin.info,Active
+340,EMP0340,Sanya,Kota,Male,1987-03-02,2023-08-03,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Edhitha Taneja,274905,+911449415733,rishilal@keer-dar.net,Inactive
+341,EMP0341,Bakhshi,Batra,Male,1996-02-28,2017-05-01,Sales,Sales Officer,Night,SoluTex Manufacturing Plant,Gayathri Korpal,1056165,+916819773616,amruta70@handa-sachdeva.com,Inactive
+342,EMP0342,Nirja,Bassi,Male,1988-12-08,2020-03-28,Production,Operator,Evening,SoluTex Manufacturing Plant,Eesha Bava,1019477,08793076208,yashasvi62@lal.com,Active
+343,EMP0343,Brijesh,Srivastava,Female,1985-11-25,2017-10-11,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Baljiwan Memon,819778,0455374356,mmutti@kala-soman.org,Inactive
+344,EMP0344,Bimala,Bail,Male,1996-07-03,2023-05-25,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Karan Shankar,753182,+912805636608,bajajmax@rai-pradhan.info,Resigned
+345,EMP0345,Ladli,Brar,Female,1973-05-10,2020-01-09,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Aarush Raman,223283,00861133251,pahalchoudhury@prashad.com,Inactive
+346,EMP0346,Lekha,Mukherjee,Female,1977-12-27,2016-11-22,Finance,Finance Executive,Night,SoluTex Manufacturing Plant,Anirudh Dugar,718535,03728697291,noriekbal@pillai-sur.com,Active
+347,EMP0347,Urmi,Sankar,Male,1999-10-10,2020-08-30,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Widisha Handa,787876,8747404340,guharadha@kalla-grewal.com,Active
+348,EMP0348,Yagnesh,Borah,Male,2005-06-14,2017-02-12,Production,Operator,Morning,SoluTex Manufacturing Plant,Kashish Das,1031231,07280099871,qvaidya@kant.com,Active
+349,EMP0349,Abha,Rama,Male,1985-04-02,2019-12-17,Maintenance,Maintenance Engineer,Night,SoluTex Manufacturing Plant,Jasmit Patel,901537,07484617380,chaudhurichakradhar@shroff-ganesh.com,Resigned
+350,EMP0350,Zilmil,Deshpande,Female,1991-03-04,2018-02-16,HR,HR Manager,Night,SoluTex Manufacturing Plant,Ekaja Memon,993434,+914967702788,ubora@kale-nagi.net,Resigned
+351,EMP0351,Arjun,Krishnamurthy,Male,1980-09-02,2020-03-12,Quality,QA Engineer,Night,SoluTex Manufacturing Plant,Faraj Narayanan,688567,+914403269227,issacyashica@dave.org,Active
+352,EMP0352,Urmi,Prabhakar,Female,2005-07-12,2019-04-15,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Banjeet Shere,781718,1964638572,agateqasim@sengupta-tara.net,Inactive
+353,EMP0353,Jack,Bora,Male,1989-10-28,2019-10-11,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Charan Babu,834058,+911207414928,nagykamya@mody.com,Active
+354,EMP0354,Matthew,Sachar,Female,1985-07-25,2023-03-22,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Ishwar Ahuja,769744,02988673597,indalimandal@kant.biz,Resigned
+355,EMP0355,Dhruv,Yohannan,Female,1993-08-09,2022-09-12,Sales,Sales Manager,Evening,SoluTex Manufacturing Plant,Jagvi Sathe,901377,07364100492,bhavnagupta@ganesan.com,Inactive
+356,EMP0356,Ekani,Comar,Female,2001-12-22,2024-06-04,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Adya Keer,991465,08604050501,bhaktamaanas@luthra-bhasin.biz,Resigned
+357,EMP0357,Meghana,Nazareth,Male,1999-10-30,2017-06-09,Maintenance,Maintenance Engineer,Morning,SoluTex Manufacturing Plant,Yadavi Ahluwalia,1047041,+915802909831,issacxiti@parmar.com,Resigned
+358,EMP0358,Ranbir,Pingle,Female,1968-09-09,2021-05-07,Production,Operator,Evening,SoluTex Manufacturing Plant,Triya Kari,1031235,07274954431,merchanthemal@gulati.com,Resigned
+359,EMP0359,Timothy,Shanker,Male,2004-01-05,2020-11-01,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Zarna Shanker,1110577,+911520945625,warriorrachana@muni.com,Resigned
+360,EMP0360,Faraj,Tiwari,Female,1972-06-30,2019-11-26,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Janya Biswas,563919,+911407156162,edhitha69@bhandari-rege.net,Inactive
+361,EMP0361,Jeet,Bora,Male,1989-06-28,2021-05-22,Finance,Accountant,Morning,SoluTex Manufacturing Plant,Jairaj Kibe,937575,+912155514077,isuri@dar-banerjee.biz,Resigned
+362,EMP0362,Nathaniel,Dyal,Male,2001-03-14,2024-04-10,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Yashoda Banik,1124913,01963657434,zsastry@randhawa-ahluwalia.net,Active
+363,EMP0363,Kavya,Viswanathan,Male,1976-05-02,2017-06-30,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Dakshesh Bhavsar,667847,5316507587,onkarparikh@master.com,Resigned
+364,EMP0364,Shravya,Chatterjee,Female,1995-09-10,2020-10-13,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Lakshit Chakraborty,428653,02894274321,shanzansi@solanki.com,Resigned
+365,EMP0365,Frederick,Sarkar,Male,1970-11-18,2019-12-03,Sales,Sales Executive,Night,SoluTex Manufacturing Plant,Naveen Tailor,1018332,09339638543,pbhattacharyya@chaudhry-virk.biz,Active
+366,EMP0366,Vaishnavi,Nori,Male,1973-11-28,2023-06-18,Sales,Sales Manager,Morning,SoluTex Manufacturing Plant,Bhavini Mammen,804383,+914830116714,dkaran@bal.info,Resigned
+367,EMP0367,Maya,Barad,Male,1981-03-08,2026-06-16,Production,Operator,Night,SoluTex Manufacturing Plant,Samuel Lal,669090,+913836733700,viraj93@krish.biz,Resigned
+368,EMP0368,Devika,Sem,Female,1971-02-07,2017-12-18,Sales,Sales Manager,Evening,SoluTex Manufacturing Plant,Daksha Talwar,636913,02799680442,ebumb@pandya-mittal.info,Active
+369,EMP0369,Krishna,Parikh,Female,1967-11-22,2025-05-17,Production,Operator,Morning,SoluTex Manufacturing Plant,Xavier Kuruvilla,1117715,01354700335,lavanya47@mani.org,Resigned
+370,EMP0370,Faraj,Raman,Female,1990-01-15,2017-06-22,Sales,Sales Manager,Evening,SoluTex Manufacturing Plant,Charvi Sandhu,911082,0169549761,anjalidate@sarna.com,Resigned
+371,EMP0371,Eshana,Swaminathan,Female,2002-09-04,2019-06-17,Warehouse,Store Keeper,Morning,SoluTex Manufacturing Plant,Advika Chaudhary,638693,8550859542,revagrewal@singh.com,Resigned
+372,EMP0372,Shivansh,Mannan,Male,1989-05-12,2025-09-16,Sales,Sales Manager,Evening,SoluTex Manufacturing Plant,Gunbir Sagar,1150395,08110784569,waziryohannan@barad.com,Active
+373,EMP0373,Anay,Goswami,Female,1975-07-26,2025-03-27,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Patrick Aggarwal,744264,3037876163,fiyaz02@char-borah.com,Resigned
+374,EMP0374,Leela,Thakkar,Female,2003-03-15,2022-01-14,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Harita Dora,1091399,01512653262,gavinsampath@khalsa.com,Inactive
+375,EMP0375,Siya,Ahuja,Male,1999-04-12,2021-01-18,Quality,QA Engineer,Night,SoluTex Manufacturing Plant,Odika Sagar,999076,+918806615187,chaudhurimaanas@ganesan.com,Resigned
+376,EMP0376,Veer,Shetty,Male,1998-01-04,2016-09-05,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Champak Soni,687249,+916756975858,george18@dutta.net,Resigned
+377,EMP0377,Naveen,Som,Female,1969-10-29,2017-02-12,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Chaaya Sahota,896928,3256118186,bhandarinathaniel@bala.biz,Active
+378,EMP0378,Aarush,Dass,Male,2002-11-24,2017-10-30,Production,Operator,Evening,SoluTex Manufacturing Plant,Lohit Rajagopalan,265194,+915514028835,vkhalsa@chakrabarti.com,Resigned
+379,EMP0379,Arunima,Banerjee,Male,1972-08-07,2025-12-14,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Omkaar Mane,334383,4259253393,ddeol@sani-chada.com,Active
+380,EMP0380,Zayan,Kara,Female,2004-04-02,2020-12-24,Production,Operator,Night,SoluTex Manufacturing Plant,Aryan Hegde,786598,07921265468,jasmitraval@puri-korpal.com,Resigned
+381,EMP0381,Irya,Sridhar,Female,1999-03-31,2024-01-30,Finance,Accountant,Night,SoluTex Manufacturing Plant,Mitesh Som,998347,03922065010,maanav80@ahluwalia.com,Active
+382,EMP0382,Yagnesh,Srivastava,Male,1981-12-19,2025-08-22,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Robert Nadkarni,298723,05278565166,vedhika01@virk.com,Resigned
+383,EMP0383,Sanya,Basak,Female,1971-08-15,2020-10-07,Management,Plant Manager,Night,SoluTex Manufacturing Plant,Yoshita Ganguly,901179,4478100242,mitali65@kalita.com,Resigned
+384,EMP0384,Charvi,Jain,Female,1994-06-03,2025-08-24,Quality,QA Engineer,Night,SoluTex Manufacturing Plant,Varsha Sen,550841,5130917204,aayushkale@sinha.org,Resigned
+385,EMP0385,Ucchal,Agarwal,Female,1975-01-15,2022-06-19,Maintenance,Maintenance Engineer,Night,SoluTex Manufacturing Plant,Bachittar Raman,959347,+910759070367,gillayushman@chana-nagarajan.com,Resigned
+386,EMP0386,Janani,Bains,Female,1978-05-09,2026-01-07,Sales,Sales Manager,Evening,SoluTex Manufacturing Plant,Maya Varughese,846787,08817742962,alexanderlanka@badal.com,Resigned
+387,EMP0387,Zashil,Chokshi,Male,1980-03-02,2017-01-03,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Victor Karpe,540887,+918062293605,chakradhar44@varma.org,Inactive
+388,EMP0388,Samuel,Sampath,Male,1982-02-27,2018-12-07,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Arya Zacharia,935518,5677856441,sarafsarthak@dhar-datta.com,Inactive
+389,EMP0389,Dayita,Mahal,Female,1988-10-25,2024-02-16,Maintenance,Maintenance Engineer,Night,SoluTex Manufacturing Plant,Chandani Sani,629021,4703700963,sachideol@prasad.info,Resigned
+390,EMP0390,Ekavir,Bhargava,Male,1996-09-23,2025-10-01,Finance,Finance Executive,Evening,SoluTex Manufacturing Plant,Arya Arora,651351,+917775386696,urout@golla.net,Inactive
+391,EMP0391,Tanish,Lalla,Male,1998-06-12,2017-03-23,Maintenance,Maintenance Engineer,Morning,SoluTex Manufacturing Plant,Nathaniel Misra,559846,8316719769,ira66@prashad-lanka.org,Active
+392,EMP0392,Christopher,Wable,Female,1981-08-09,2018-03-23,Maintenance,Maintenance Engineer,Night,SoluTex Manufacturing Plant,Ranbir Doctor,640377,1056027414,udant27@bansal-grewal.net,Resigned
+393,EMP0393,Theodore,Dave,Female,1968-09-13,2019-12-14,Production,Operator,Evening,SoluTex Manufacturing Plant,Anay Kannan,823884,3760627889,cbose@bath.com,Active
+394,EMP0394,Ethan,Sama,Female,2000-02-12,2024-05-21,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Diya Andra,572432,+917094292095,tamanna42@kota.net,Active
+395,EMP0395,Gabriel,Cheema,Male,2004-02-07,2022-06-29,Warehouse,Warehouse Executive,Evening,SoluTex Manufacturing Plant,Amara Ratta,1154034,01482072291,oapte@seth.org,Resigned
+396,EMP0396,Michael,Ghose,Female,1998-12-31,2017-07-20,Maintenance,Technician,Evening,SoluTex Manufacturing Plant,Samuel Bhatia,784619,+919086688495,boracharvi@kadakia.org,Active
+397,EMP0397,Simon,Kuruvilla,Male,1974-07-15,2024-09-19,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Aarnav Barman,1038557,+914658239964,kcomar@sankar.org,Active
+398,EMP0398,Bakhshi,Pathak,Male,2005-05-23,2020-09-04,Maintenance,Maintenance Engineer,Night,SoluTex Manufacturing Plant,Nidra Sandal,1005721,08422987521,dhruv33@dhaliwal-krishna.com,Inactive
+399,EMP0399,Mohini,Narain,Female,1984-10-29,2023-12-21,Warehouse,Warehouse Executive,Morning,SoluTex Manufacturing Plant,Guneet Palan,502150,09449266272,bahadurjit43@zacharia-mahal.com,Resigned
+400,EMP0400,Lila,Deep,Female,2002-03-25,2020-12-08,HR,HR Manager,Evening,SoluTex Manufacturing Plant,Jeevika Borde,996984,+918519389880,vvora@mukherjee-sha.com,Resigned
+401,EMP0401,Tanvi,Bail,Male,2004-11-22,2019-02-09,Maintenance,Technician,Morning,SoluTex Manufacturing Plant,Kiaan Kale,368592,8815518666,barmanabha@banerjee-behl.info,Inactive
+402,EMP0402,Mugdha,Parikh,Male,1992-05-10,2021-10-09,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Benjamin Kamdar,565376,+916636503519,karnikmason@date.net,Resigned
+403,EMP0403,Harinakshi,Ray,Male,1972-12-16,2020-09-19,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Dalaja Chatterjee,252864,9951209727,tdoctor@varty-bajaj.com,Resigned
+404,EMP0404,Dayita,Edwin,Male,1988-10-25,2023-06-16,Production,Operator,Morning,SoluTex Manufacturing Plant,Balvan Biswas,905739,09613340022,kashish42@bedi.com,Active
+405,EMP0405,Chanchal,Dara,Male,2000-08-29,2019-12-04,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Leena Behl,678280,6115214832,bahribrijesh@trivedi.com,Inactive
+406,EMP0406,Zayyan,Jha,Male,1999-10-03,2026-06-06,Maintenance,Maintenance Engineer,Night,SoluTex Manufacturing Plant,Bahadurjit Bhavsar,526078,08791045258,ishita50@yogi-khanna.com,Inactive
+407,EMP0407,Elijah,Setty,Female,1975-10-25,2023-01-20,Finance,Finance Executive,Evening,SoluTex Manufacturing Plant,Faraj Kadakia,389738,06231532627,fparikh@srinivasan.com,Resigned
+408,EMP0408,Mitali,Kale,Male,1967-09-18,2020-10-23,Production,Operator,Night,SoluTex Manufacturing Plant,Tanish Dhawan,220685,+919356609210,fbedi@soman.com,Resigned
+409,EMP0409,Chasmum,Kara,Female,2004-07-15,2021-10-11,Maintenance,Maintenance Engineer,Night,SoluTex Manufacturing Plant,Sanaya Loyal,709974,00620145336,bediladli@ganguly.com,Inactive
+410,EMP0410,Sachi,Bhasin,Female,1999-10-05,2022-02-21,Production,Operator,Night,SoluTex Manufacturing Plant,Ikshita Agarwal,467330,+915015201690,anandjagvi@rajagopal.com,Active
+411,EMP0411,Geetika,Narasimhan,Female,1999-01-24,2021-03-11,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Balendra Hora,1157080,1842262883,yochanakhatri@mander.com,Resigned
+412,EMP0412,Sai,Sen,Male,1980-01-25,2019-05-01,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Ekanta Butala,396766,5693766998,ashanker@murty-balakrishnan.com,Resigned
+413,EMP0413,Garima,Vyas,Male,1993-09-02,2024-10-28,Production,Operator,Night,SoluTex Manufacturing Plant,Falguni Hayer,378792,+914728575531,robertchand@khanna.com,Inactive
+414,EMP0414,Dayita,Lata,Male,2003-07-05,2025-09-21,Maintenance,Technician,Evening,SoluTex Manufacturing Plant,Champak Sama,1065238,+917731516656,hseth@ramachandran.com,Resigned
+415,EMP0415,Amaira,Buch,Male,1993-11-08,2023-10-08,HR,HR Executive,Night,SoluTex Manufacturing Plant,Brijesh Madan,571017,+910142797611,srattan@kulkarni-butala.com,Active
+416,EMP0416,Qasim,Handa,Female,1968-06-28,2020-11-14,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Orinder Karnik,439435,03892454126,uraghavan@khosla.net,Active
+417,EMP0417,Adweta,Memon,Female,1974-07-12,2018-04-29,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Tanish Gupta,628809,06873756002,lohit41@dixit-kala.org,Resigned
+418,EMP0418,Pallavi,Sachar,Male,1981-03-10,2019-01-25,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Qasim Dalal,937831,03467494904,ramachandrannandini@dhillon-kibe.biz,Inactive
+419,EMP0419,Ayaan,Lala,Female,1967-09-28,2021-11-13,Warehouse,Store Keeper,Night,SoluTex Manufacturing Plant,Baljiwan Kamdar,427739,+913060742903,desaiaadi@borde.com,Inactive
+420,EMP0420,Madhavi,D’Alia,Female,2003-02-25,2023-07-08,Finance,Accountant,Night,SoluTex Manufacturing Plant,Amruta Samra,814895,3161647245,yuvraj92@rau.org,Inactive
+421,EMP0421,Madhav,Aggarwal,Male,2001-01-15,2022-06-20,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Guneet Parmar,353186,6226053372,vdar@kumer.com,Inactive
+422,EMP0422,Oscar,Radhakrishnan,Male,1995-07-03,2024-01-16,Production,Operator,Evening,SoluTex Manufacturing Plant,Dalaja Thakur,305329,+911702076500,rachitabadal@talwar-boase.org,Resigned
+423,EMP0423,Charles,Soni,Female,1983-01-24,2020-10-07,Quality,QA Engineer,Night,SoluTex Manufacturing Plant,Pranit Nagy,429997,4020201188,narayananjalsa@lad-johal.biz,Active
+424,EMP0424,Nachiket,Bedi,Male,1981-02-03,2023-01-05,Maintenance,Maintenance Engineer,Evening,SoluTex Manufacturing Plant,Saumya Hora,549182,3509127237,nattgabriel@sagar.com,Active
+425,EMP0425,Aarini,Om,Female,1989-07-25,2025-11-26,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Guneet Devan,245178,5034444289,radhakrishnanqabil@deep.com,Resigned
+426,EMP0426,Bhanumati,Lala,Male,2004-07-16,2018-01-07,Finance,Accountant,Morning,SoluTex Manufacturing Plant,Bachittar Maharaj,803100,+914579955989,nathanpatla@mahajan.com,Active
+427,EMP0427,Hemal,Banerjee,Male,1970-05-27,2016-08-18,Quality,Quality Inspector,Evening,SoluTex Manufacturing Plant,Ishaan Ram,446987,+913383378262,anitarandhawa@sekhon-gole.com,Inactive
+428,EMP0428,Pranit,Mane,Female,1970-07-08,2023-01-06,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Lajita Iyer,792947,+913037599690,lekhaissac@parikh.com,Active
+429,EMP0429,Jonathan,Kothari,Male,2000-05-24,2017-04-30,Production,Operator,Morning,SoluTex Manufacturing Plant,Zashil Deo,1054613,9307000975,avibhargava@bhatti-tandon.org,Active
+430,EMP0430,Sanya,Chandra,Male,1988-05-05,2019-01-31,Sales,Sales Executive,Night,SoluTex Manufacturing Plant,Brijesh Shere,647841,3004682396,gardebrijesh@bali.com,Resigned
+431,EMP0431,Aarini,Merchant,Male,1987-12-21,2021-10-26,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Vanya Ganesan,223258,1679738129,adityashukla@peri.info,Active
+432,EMP0432,Reyansh,Kapadia,Male,1982-01-15,2019-07-27,Maintenance,Maintenance Engineer,Evening,SoluTex Manufacturing Plant,Atharv Wali,657531,05297878693,bhattirajeshri@sidhu.org,Inactive
+433,EMP0433,Warjas,Jaggi,Male,1971-09-06,2021-04-30,Warehouse,Store Keeper,Night,SoluTex Manufacturing Plant,Dayamai Talwar,1118328,02530355505,janakidixit@sankar.com,Inactive
+434,EMP0434,Vidhi,Dey,Female,1987-10-23,2020-06-07,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Yashoda Dhar,1037504,02172001544,bpalla@seth.com,Resigned
+435,EMP0435,Dayita,Gara,Female,1987-08-28,2020-12-07,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Tanish Batta,788414,3373058870,leela59@munshi-mandal.net,Active
+436,EMP0436,Anthony,Jaggi,Male,2004-06-12,2021-11-09,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Dhruv Verma,978693,03339500661,memonchaitanya@sastry.com,Inactive
+437,EMP0437,Krish,Sami,Female,1984-08-01,2023-03-06,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Arya Khatri,672958,+913450390996,choudhuryamruta@bala.org,Resigned
+438,EMP0438,Timothy,Kapadia,Male,1992-09-01,2023-09-18,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Raagini Sur,513122,05685237663,dsidhu@tailor.com,Inactive
+439,EMP0439,Chakradhar,Chakraborty,Male,1969-11-04,2020-07-20,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Zarna Kakar,1003967,+918044309611,rajatadoshi@das.com,Active
+440,EMP0440,Lakshit,Ganesh,Male,1968-05-12,2019-04-13,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Jhalak Narasimhan,711382,6393560840,balaypavani@jayaraman.com,Inactive
+441,EMP0441,Nisha,Patla,Female,1998-04-19,2019-01-27,Warehouse,Warehouse Executive,Evening,SoluTex Manufacturing Plant,Maanav Manda,1145941,05919617464,mchana@kant.biz,Inactive
+442,EMP0442,Atharv,Sarma,Male,1973-07-24,2022-12-05,Finance,Accountant,Morning,SoluTex Manufacturing Plant,Abha Tiwari,743044,08792743258,advaymangat@bhattacharyya.info,Inactive
+443,EMP0443,Gavin,Chandran,Female,2005-01-30,2016-08-21,Finance,Accountant,Night,SoluTex Manufacturing Plant,Ucchal Saraf,853163,+913899183801,dhingrachatresh@kala.com,Inactive
+444,EMP0444,Mohammed,Halder,Female,1983-05-11,2019-05-22,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Ladli Sharaf,724975,+912945691966,radhashere@kapoor-dash.com,Resigned
+445,EMP0445,Sai,Sarma,Female,2005-03-28,2023-10-29,Sales,Sales Officer,Night,SoluTex Manufacturing Plant,Samuel Dixit,1009077,05949492683,geetika73@gopal-de.biz,Active
+446,EMP0446,Arin,Date,Female,1978-01-25,2019-02-13,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Upma Nagi,719103,5367945485,balvan32@oza.net,Active
+447,EMP0447,Liam,Malhotra,Female,2002-07-18,2022-01-15,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Charles Ram,1116406,2023886787,bhavikaoza@srinivas.info,Active
+448,EMP0448,Faris,Raman,Male,1979-04-15,2025-11-10,Production,Operator,Night,SoluTex Manufacturing Plant,Ria Naik,1194989,1424121248,yoshita97@sodhi-gupta.com,Resigned
+449,EMP0449,Nihal,Toor,Female,1983-02-27,2018-02-28,HR,HR Executive,Evening,SoluTex Manufacturing Plant,Aashi Kant,723641,+919760651976,dewanvarsha@kapadia.com,Active
+450,EMP0450,Mohammed,Bal,Male,1972-12-17,2020-08-22,Production,Operator,Evening,SoluTex Manufacturing Plant,Shaurya Natt,735869,2443159863,karipavani@balasubramanian.com,Inactive
+451,EMP0451,Gautam,Dhar,Male,1974-02-26,2020-09-19,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Yatan Bhakta,1016677,1104996801,idalal@chaudhuri.biz,Resigned
+452,EMP0452,Triya,Kata,Female,1997-10-10,2017-02-17,Production,Operator,Evening,SoluTex Manufacturing Plant,Andrew Doshi,948773,+913042866451,tanvi03@borde.com,Resigned
+453,EMP0453,Ekapad,Dada,Male,1996-09-13,2025-09-27,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Yagnesh Bhagat,872236,01879601387,ramgeetika@mitter.net,Resigned
+454,EMP0454,Anita,Sinha,Female,1978-09-26,2024-08-16,Maintenance,Maintenance Engineer,Evening,SoluTex Manufacturing Plant,William Luthra,1073098,0400329046,urvi97@shanker-chadha.org,Inactive
+455,EMP0455,Abhimanyu,Edwin,Female,1971-12-01,2020-09-27,Sales,Sales Executive,Evening,SoluTex Manufacturing Plant,Brinda Varma,411724,07325421305,jai17@sarraf.net,Inactive
+456,EMP0456,Chaitaly,Garde,Female,1986-09-17,2025-03-19,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Amara Palla,1057585,2690427284,lakshit22@chana.com,Active
+457,EMP0457,Manan,Sama,Male,1982-11-02,2025-09-28,Sales,Sales Manager,Night,SoluTex Manufacturing Plant,Megha Som,837486,1440041283,balveerbandi@pillai-seth.com,Active
+458,EMP0458,Karan,Joshi,Male,1984-03-16,2022-02-01,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Quincy Jayaraman,944664,1171533063,praneel72@jayaraman-karan.info,Resigned
+459,EMP0459,Zaid,Shroff,Male,1994-05-16,2020-11-02,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Zayan Dara,338574,06546310493,anay22@keer.info,Active
+460,EMP0460,Amol,Kunda,Male,1980-01-04,2017-05-23,Quality,Quality Inspector,Evening,SoluTex Manufacturing Plant,Vansha Ramanathan,275739,02039936564,champak27@aurora.com,Inactive
+461,EMP0461,Rushil,Seshadri,Female,1970-06-28,2025-04-10,HR,HR Executive,Night,SoluTex Manufacturing Plant,Siya Banerjee,1169743,+911344838981,lucky09@korpal.org,Inactive
+462,EMP0462,Joshua,Loyal,Male,1998-02-03,2022-08-08,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Tamanna Kari,692879,1479496934,vinaya91@goswami-tripathi.com,Inactive
+463,EMP0463,Bhavani,Devan,Male,1977-12-31,2018-07-06,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Bhavya Chandra,781720,+910021736055,guptahamsini@arya.org,Inactive
+464,EMP0464,Frado,Dewan,Female,1996-11-13,2017-09-06,Production,Operator,Morning,SoluTex Manufacturing Plant,Saksham Choudhary,1082082,0290087891,ppatil@desai.com,Active
+465,EMP0465,Warinder,Pathak,Female,1980-08-25,2025-05-12,HR,HR Executive,Evening,SoluTex Manufacturing Plant,Ria Rout,292092,03933557386,amairasur@modi.com,Active
+466,EMP0466,Anya,Kata,Female,1980-10-19,2024-12-27,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Jason Ghose,595488,01649874201,gopalbasak@ahuja-khatri.com,Active
+467,EMP0467,Yashodhara,Krish,Female,2000-08-04,2016-11-25,Sales,Sales Manager,Night,SoluTex Manufacturing Plant,Rishi Radhakrishnan,1153919,+913790035040,deshpandeabha@acharya-narang.com,Inactive
+468,EMP0468,Indira,Mahal,Male,1979-04-04,2016-08-10,Maintenance,Maintenance Engineer,Morning,SoluTex Manufacturing Plant,Kamya Sule,804077,+917004159638,karanramakrishnan@kara.com,Active
+469,EMP0469,Aadhya,Ravel,Female,2004-12-23,2022-12-02,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Azaan Babu,534758,06690593592,xsem@ramanathan.info,Active
+470,EMP0470,Brijesh,Sawhney,Male,1987-11-21,2020-01-14,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Yagnesh Dugal,1198110,08478350979,onkarchhabra@venkataraman.com,Inactive
+471,EMP0471,Zaid,Choudhury,Male,1974-10-29,2024-11-27,Production,Operator,Morning,SoluTex Manufacturing Plant,Caleb Jha,1144247,9810815774,nagarajanavni@cheema.org,Inactive
+472,EMP0472,Turvi,Baral,Male,1970-09-09,2026-03-27,Production,Operator,Night,SoluTex Manufacturing Plant,Agastya Swamy,246519,+919054046722,gunbirpanchal@muni.com,Inactive
+473,EMP0473,Bachittar,Raval,Male,2004-08-07,2018-01-15,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Nidra Karnik,1062698,06377704268,mghose@dhingra.com,Active
+474,EMP0474,Yamini,Bhardwaj,Male,1989-09-03,2021-10-03,Warehouse,Warehouse Executive,Morning,SoluTex Manufacturing Plant,Abdul Gola,739964,3086422254,kbadal@korpal-nori.com,Resigned
+475,EMP0475,Rishi,Sekhon,Female,1999-02-04,2024-07-25,Production,Operator,Evening,SoluTex Manufacturing Plant,Manthan Bawa,854270,01025591960,ishaankarnik@chahal.com,Inactive
+476,EMP0476,Atharv,Shan,Male,1993-09-15,2019-11-25,Quality,QA Engineer,Evening,SoluTex Manufacturing Plant,Netra Nagarajan,245430,3632349499,saxenarobert@varghese-iyer.com,Resigned
+477,EMP0477,Chakrika,Rao,Male,1985-04-06,2018-10-11,Production,Operator,Evening,SoluTex Manufacturing Plant,Wahab Vig,438168,2076566986,zaitrawable@tiwari.info,Inactive
+478,EMP0478,Janani,Garg,Male,1988-01-10,2024-07-19,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Krishna Krishna,828463,06997394486,aryanarora@keer-devan.org,Resigned
+479,EMP0479,Theodore,Bath,Female,1985-06-02,2024-01-22,HR,HR Executive,Evening,SoluTex Manufacturing Plant,Yashoda Kadakia,1107251,02854884755,majumdareiravati@kale-trivedi.org,Resigned
+480,EMP0480,Pushti,Misra,Female,1988-05-25,2019-06-04,Warehouse,Warehouse Executive,Morning,SoluTex Manufacturing Plant,Chakrika Dugal,386743,+910404618141,nayakhitesh@kalita.com,Resigned
+481,EMP0481,Eiravati,Rege,Female,1983-12-14,2024-03-10,Sales,Sales Manager,Night,SoluTex Manufacturing Plant,Tripti Mistry,253707,08496021788,grajagopal@bhardwaj-mody.com,Active
+482,EMP0482,Vrinda,Maharaj,Male,1986-04-09,2017-07-04,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Jagat Shankar,348703,6673180013,nimratdalal@loke.com,Resigned
+483,EMP0483,Ekavir,Dugar,Female,1969-12-04,2023-04-20,Finance,Finance Executive,Evening,SoluTex Manufacturing Plant,Brijesh Bahl,244762,02191231002,pushti06@sha.com,Resigned
+484,EMP0484,Jai,Gera,Male,1978-07-26,2020-11-20,Maintenance,Maintenance Engineer,Evening,SoluTex Manufacturing Plant,Rachit Subramaniam,956120,+911793955792,ikshita26@dalal.biz,Inactive
+485,EMP0485,William,Raman,Female,1990-11-10,2022-07-24,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Lajita Prabhakar,1032650,6623518543,ubabu@chada-balakrishnan.com,Resigned
+486,EMP0486,Mahika,Kurian,Male,1978-03-20,2018-02-28,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Harinakshi Mallick,769606,6831491709,wridesh79@joshi.com,Active
+487,EMP0487,Januja,Parmar,Female,1970-05-01,2018-07-03,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Mitali Pradhan,605516,00530555426,nakshpal@khare-baria.biz,Active
+488,EMP0488,Aachal,Pandit,Female,1997-07-06,2024-12-16,Sales,Sales Officer,Morning,SoluTex Manufacturing Plant,Jairaj Majumdar,209114,+919137970433,morarnidhi@shanker.com,Active
+489,EMP0489,Raksha,Khalsa,Male,1996-12-28,2021-08-03,Maintenance,Technician,Morning,SoluTex Manufacturing Plant,Pranit Mander,473323,3541044397,urvashimitra@kothari.com,Active
+490,EMP0490,Neel,Soman,Male,1981-11-05,2023-09-18,Production,Operator,Morning,SoluTex Manufacturing Plant,Gabriel Rajan,1052944,09673939866,nadkarnidayita@madan-badal.net,Resigned
+491,EMP0491,Upma,Karnik,Female,1993-08-22,2022-12-27,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Wishi Ganesh,707323,6628898237,chamelimemon@dyal-sankar.com,Active
+492,EMP0492,Qarin,Brar,Female,1990-03-16,2023-05-13,Sales,Sales Officer,Morning,SoluTex Manufacturing Plant,Ridhi Bobal,570432,8348967307,bhavini06@chaudhuri-sane.info,Active
+493,EMP0493,Upma,Venkataraman,Male,2005-03-24,2016-12-08,Maintenance,Technician,Morning,SoluTex Manufacturing Plant,Ekapad Jhaveri,595899,7484875500,naidukiaan@dey.com,Inactive
+494,EMP0494,Omaja,Sahni,Male,1998-09-28,2022-05-06,Production,Operator,Morning,SoluTex Manufacturing Plant,Ansh Choudhury,755287,+911879803666,forumbhatti@banik.org,Active
+495,EMP0495,Gaurang,Das,Male,1983-04-20,2021-12-21,Warehouse,Store Keeper,Morning,SoluTex Manufacturing Plant,Manbir Srinivasan,1144490,+913302272795,zvasa@kadakia-nayak.com,Inactive
+496,EMP0496,Christopher,Merchant,Female,1989-02-09,2025-02-05,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Nakul Chhabra,880062,+911098958660,lrama@sangha.info,Active
+497,EMP0497,Vinaya,Kakar,Female,1992-08-06,2022-08-11,Sales,Sales Officer,Morning,SoluTex Manufacturing Plant,Maya Dass,880083,+915158826404,rajaxiti@deo-gade.com,Active
+498,EMP0498,Jagrati,Dara,Male,1978-11-28,2022-03-29,Warehouse,Warehouse Executive,Morning,SoluTex Manufacturing Plant,Joshua Bala,342984,9581183908,qtak@ray-yadav.com,Resigned
+499,EMP0499,Mohini,Rout,Female,1979-05-29,2026-07-20,Production,Operator,Night,SoluTex Manufacturing Plant,Neelima Kapoor,184064,05601950345,bakshiishanvi@ratta-dalia.com,Active
+500,EMP0500,Lucky,Gara,Female,1987-06-19,2016-10-23,Production,Operator,Night,SoluTex Manufacturing Plant,Saumya Tata,756493,+914890748562,abeer02@bajaj.com,Resigned
+501,EMP0501,Zayan,Dua,Female,1990-07-28,2023-04-15,Sales,Sales Officer,Night,SoluTex Manufacturing Plant,Ryan Salvi,1143833,+918925019901,ucchalkadakia@mann-lad.com,Inactive
+502,EMP0502,Prisha,Karan,Male,1992-11-16,2025-09-03,Sales,Sales Manager,Night,SoluTex Manufacturing Plant,Wakeeta Purohit,751603,4944366624,tanaykannan@goswami.biz,Active
+503,EMP0503,Champak,Dani,Male,1996-11-01,2026-05-25,Finance,Finance Executive,Night,SoluTex Manufacturing Plant,Owen Chakraborty,530342,0510414829,gautamikhosla@narula-wadhwa.com,Active
+504,EMP0504,Yachana,Lala,Male,1977-03-09,2017-10-23,Sales,Sales Executive,Night,SoluTex Manufacturing Plant,Lila Ben,621893,3918725636,balaymitali@venkataraman.com,Active
+505,EMP0505,Zehaan,Sachar,Male,1987-03-05,2018-06-07,Warehouse,Warehouse Executive,Evening,SoluTex Manufacturing Plant,Jonathan Bhatnagar,183167,+912853657238,chauhanteerth@borra-bains.info,Resigned
+506,EMP0506,Henry,Sahni,Female,2001-09-20,2017-04-03,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Naveen Virk,1048425,+914218091259,birnakul@srinivasan.com,Resigned
+507,EMP0507,Dev,Sidhu,Female,1992-08-04,2016-09-11,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Girindra Sethi,182662,5584965353,xitimanne@dewan-varma.net,Resigned
+508,EMP0508,Aarush,Saini,Male,2002-08-13,2026-07-07,Sales,Sales Officer,Evening,SoluTex Manufacturing Plant,Finn Char,414514,1071243923,imaranhora@mukhopadhyay.com,Inactive
+509,EMP0509,Adya,Balakrishnan,Male,1972-02-09,2018-08-22,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Radha Merchant,189769,+917457456110,wpau@dar.com,Inactive
+510,EMP0510,Xalak,Sabharwal,Female,2000-07-11,2018-11-28,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Advaith Pillay,593132,+913759107441,mannemitesh@bal.net,Active
+511,EMP0511,Jagrati,Sengupta,Male,1984-04-12,2020-01-04,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Zaid Borah,698848,3835363840,ishani55@dube.com,Active
+512,EMP0512,Daniel,Mangal,Female,1996-04-17,2020-03-16,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Aachal De,227047,1237318591,kboase@hegde.com,Inactive
+513,EMP0513,Theodore,Venkataraman,Female,1997-09-11,2023-06-07,HR,HR Manager,Evening,SoluTex Manufacturing Plant,Bachittar Srinivasan,336939,+916987536751,dhillondayamai@more.biz,Inactive
+514,EMP0514,Netra,Bhandari,Female,1983-09-21,2024-04-08,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Benjamin Kulkarni,585516,2036983011,ynori@vaidya.net,Active
+515,EMP0515,Amol,Issac,Male,1975-09-04,2019-10-21,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Indira Thakur,1181402,+916038127917,fariq39@kulkarni.net,Resigned
+516,EMP0516,Ekaraj,Keer,Female,2000-06-29,2018-06-11,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Chatresh Dey,1199348,00976290713,lkhalsa@mitra-nagar.com,Inactive
+517,EMP0517,Gautami,Garde,Female,1980-05-04,2020-07-28,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Chaitaly Acharya,542998,7204888642,magargaurika@bose-ahluwalia.org,Inactive
+518,EMP0518,Advik,Shere,Male,2001-03-07,2026-05-03,Production,Operator,Morning,SoluTex Manufacturing Plant,George Seshadri,386705,+913385668104,masterkrish@chauhan.com,Resigned
+519,EMP0519,Chatresh,Mani,Male,2000-03-10,2020-02-12,Sales,Sales Manager,Night,SoluTex Manufacturing Plant,Dakshesh Merchant,672787,2545121662,uppalvictor@rai-deo.com,Active
+520,EMP0520,Tanay,Gara,Male,1971-03-15,2018-11-14,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Brijesh Hegde,849878,00831563727,odika81@bera.com,Active
+521,EMP0521,Nicholas,Jain,Male,1969-01-04,2022-02-12,Production,Operator,Evening,SoluTex Manufacturing Plant,Varenya Khanna,509685,+911264993103,abhimanyu29@mahal.net,Active
+522,EMP0522,Christopher,Sura,Male,1989-08-10,2017-11-17,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Udant Ganguly,909708,09021918477,forumgole@kumar.info,Resigned
+523,EMP0523,Advika,Gokhale,Male,1978-12-10,2016-12-10,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Neha Patla,988819,+919037027776,chanderurvi@seshadri.com,Resigned
+524,EMP0524,Bhavini,Anand,Female,1976-07-10,2020-02-08,Warehouse,Warehouse Executive,Night,SoluTex Manufacturing Plant,Bhavya Sarkar,410554,01527366699,sathearin@rama.com,Active
+525,EMP0525,Falak,Ghose,Female,1968-11-12,2024-01-07,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Urmi Rajagopal,251900,5897854026,mradhakrishnan@cherian.com,Inactive
+526,EMP0526,Guneet,Biswas,Male,1993-10-03,2018-03-20,Quality,Quality Inspector,Evening,SoluTex Manufacturing Plant,Chandresh Munshi,653510,+910412626183,abhakapoor@reddy-sahota.com,Resigned
+527,EMP0527,Rachana,Sane,Male,1971-10-20,2019-07-12,Maintenance,Maintenance Engineer,Night,SoluTex Manufacturing Plant,Vyanjana Shroff,526593,+918232080175,foommen@kamdar.info,Resigned
+528,EMP0528,Radha,Sura,Female,1978-06-17,2018-08-18,Quality,QA Engineer,Night,SoluTex Manufacturing Plant,Darika Ahluwalia,851878,7438253647,alexanderkapoor@radhakrishnan.net,Resigned
+529,EMP0529,Ridhi,Nayar,Female,1997-06-26,2026-01-22,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Teerth Chadha,925730,+917714383504,chasmumamble@tella.com,Active
+530,EMP0530,Jonathan,Bath,Male,1981-10-15,2022-03-31,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Om Char,563015,+913026461632,george88@mittal.org,Active
+531,EMP0531,Harrison,Pathak,Female,1969-02-01,2022-09-29,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Dayita Doshi,924732,01292703728,sahakabir@minhas-gole.biz,Active
+532,EMP0532,Mitesh,Tripathi,Male,1982-11-04,2019-02-22,Sales,Sales Officer,Morning,SoluTex Manufacturing Plant,Imaran Sathe,841820,00234243773,sarafindrajit@rau.biz,Resigned
+533,EMP0533,Isha,Pall,Male,1995-12-13,2018-08-27,Production,Operator,Evening,SoluTex Manufacturing Plant,Jeet Kaur,1050109,5814667578,darshbansal@keer.org,Active
+534,EMP0534,Karan,Khurana,Female,1995-02-21,2022-11-24,Warehouse,Store Keeper,Evening,SoluTex Manufacturing Plant,Lila Edwin,391632,5097464622,uwason@narang.net,Inactive
+535,EMP0535,Adweta,Sahni,Female,1981-09-11,2023-11-22,Management,Plant Manager,Morning,SoluTex Manufacturing Plant,Ria Bakshi,248288,6227256093,yashasvikrishnamurthy@mohan-vohra.biz,Active
+536,EMP0536,Urvashi,Johal,Male,1971-04-01,2021-12-17,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Yashodhara Rout,232567,5586359662,ojasvi48@sidhu.com,Active
+537,EMP0537,Fariq,Mann,Male,1971-07-08,2021-05-24,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Nathaniel Nanda,244200,06624343917,indali53@mody-konda.com,Active
+538,EMP0538,Bhavya,Natt,Male,1976-01-11,2021-05-05,Production,Operator,Evening,SoluTex Manufacturing Plant,Neel Khare,193047,04673158763,warda19@gokhale.com,Resigned
+539,EMP0539,Priya,Deep,Male,1977-02-04,2023-06-06,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Pallavi Dhingra,579365,4515971526,barmanishaan@palla.org,Resigned
+540,EMP0540,Anmol,Ghosh,Female,1993-11-24,2022-01-02,Production,Operator,Night,SoluTex Manufacturing Plant,Eshana Banerjee,758085,+914763631189,kavya68@sarma-merchant.com,Resigned
+541,EMP0541,Matthew,Menon,Female,1978-12-30,2018-12-20,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Jonathan Buch,250075,+918196183313,bhavna23@babu.com,Active
+542,EMP0542,Gayathri,Mani,Male,2001-11-13,2017-09-05,Production,Production Supervisor,Evening,SoluTex Manufacturing Plant,Riya Gill,411603,04923118674,pverma@vohra.com,Resigned
+543,EMP0543,Abha,Toor,Female,1973-11-22,2022-01-16,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Ekavir Patla,456739,+914769834270,dyaltara@sama-thaman.org,Resigned
+544,EMP0544,Naksh,Prabhakar,Female,1983-06-09,2016-09-04,Quality,Quality Inspector,Evening,SoluTex Manufacturing Plant,Wakeeta Chand,1051647,07160608796,utkarsh82@krishnamurthy.com,Resigned
+545,EMP0545,Hema,Krishna,Female,1978-10-30,2017-08-28,Management,Plant Manager,Evening,SoluTex Manufacturing Plant,Aditya Subramanian,285713,0637476623,nadiglipika@dar.info,Inactive
+546,EMP0546,Naveen,Nadkarni,Male,1971-06-04,2024-04-28,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Divya Raju,722419,5969439478,divya30@thakkar-narula.org,Active
+547,EMP0547,Amruta,Sankaran,Male,1970-09-29,2021-04-27,HR,HR Executive,Evening,SoluTex Manufacturing Plant,Indrajit Ghose,942891,+910716034453,yugtara@srinivas-ram.com,Resigned
+548,EMP0548,Amaira,Memon,Female,1971-09-06,2018-05-16,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Jeremiah Palan,199221,+917710646505,jhanda@banik-talwar.com,Inactive
+549,EMP0549,Chasmum,Barman,Male,1974-09-18,2023-07-12,Production,Operator,Night,SoluTex Manufacturing Plant,Sai Nanda,1049465,07199625173,chaudrytanmayi@dugar.com,Active
+550,EMP0550,Lajita,Dixit,Male,1976-04-21,2020-05-31,Production,Operator,Evening,SoluTex Manufacturing Plant,Hritik Bhargava,586082,01908618208,qbhavsar@bansal.info,Inactive
+551,EMP0551,Fariq,Narayan,Female,1971-02-16,2018-01-11,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Avni Vohra,705120,+913961615665,kaleharish@edwin.com,Active
+552,EMP0552,Gautam,Narula,Male,1988-01-07,2023-11-08,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Hema Saini,280870,00661984976,jalsa26@bawa.com,Active
+553,EMP0553,Leena,Tata,Male,1990-08-21,2025-01-27,Sales,Sales Officer,Night,SoluTex Manufacturing Plant,Shivansh Bhatia,615074,03080577063,parth02@karnik.com,Resigned
+554,EMP0554,Mitesh,Chandran,Female,1981-02-12,2018-11-15,Warehouse,Warehouse Executive,Evening,SoluTex Manufacturing Plant,Manthan Gara,181436,8066516573,krishna31@vyas.biz,Resigned
+555,EMP0555,Gautami,Sarna,Male,1994-06-14,2025-04-13,Warehouse,Warehouse Executive,Morning,SoluTex Manufacturing Plant,Osha Atwal,999213,8471003123,vasatikadhaliwal@varghese.com,Active
+556,EMP0556,Aishani,Mishra,Male,1991-12-30,2019-02-03,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Eiravati Das,549746,03812674331,noahoommen@bhattacharyya.com,Active
+557,EMP0557,Kabir,Rajagopalan,Female,1979-08-28,2023-08-28,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Qadim Dhaliwal,404784,2178738343,bhandarijai@suri.org,Resigned
+558,EMP0558,Daksh,Deep,Female,1989-11-26,2025-09-04,Production,Operator,Morning,SoluTex Manufacturing Plant,Wriddhish Bhargava,462869,08147293631,veer14@gade-raja.biz,Resigned
+559,EMP0559,Janani,Varma,Female,2003-06-25,2022-06-12,Quality,Quality Inspector,Night,SoluTex Manufacturing Plant,Hamsini Kapur,360869,+917240296774,samranetra@saran-seshadri.com,Inactive
+560,EMP0560,Charvi,Dubey,Female,1986-07-08,2020-06-25,Sales,Sales Manager,Night,SoluTex Manufacturing Plant,Samar Amble,983806,8924722097,xrout@jha.com,Active
+561,EMP0561,Mohammed,Nayar,Male,1982-02-22,2026-05-02,Production,Operator,Morning,SoluTex Manufacturing Plant,Shravya Kannan,814801,09115560582,ranbir15@savant-dara.com,Resigned
+562,EMP0562,Sanaya,Gala,Female,1981-09-19,2024-12-10,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Chakrika Basu,847092,3581693616,fariqbaral@sani.info,Inactive
+563,EMP0563,George,Mani,Female,1971-11-24,2020-10-13,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Jacob Lalla,187526,03250547594,uppalharshil@varughese-bala.net,Resigned
+564,EMP0564,Nitesh,Naidu,Male,2004-09-08,2023-03-24,Maintenance,Maintenance Engineer,Evening,SoluTex Manufacturing Plant,Reyansh Parmer,802367,+916695700390,jagvidora@dutta.com,Active
+565,EMP0565,Farhan,Din,Female,1979-04-03,2021-03-19,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Ryan Golla,1162622,1613880248,adya78@hegde-narayanan.com,Active
+566,EMP0566,Jeevika,Din,Male,1981-11-18,2023-01-10,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Ekanta Srinivas,497695,03997722435,lavanya69@chaudhry.org,Inactive
+567,EMP0567,Girik,Chana,Male,1998-12-08,2025-11-02,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Sneha Walla,479945,+915776386180,sarmakai@gala.com,Resigned
+568,EMP0568,Fiyaz,Deo,Female,2002-07-14,2020-08-14,HR,HR Manager,Night,SoluTex Manufacturing Plant,Logan Gaba,1010473,6233952809,ekapadraval@mahal.com,Inactive
+569,EMP0569,Jasmit,Rege,Male,1987-08-25,2024-12-19,Maintenance,Technician,Morning,SoluTex Manufacturing Plant,Vincent Iyer,196703,6675372616,dhruv86@madan.com,Resigned
+570,EMP0570,Jalsa,Gill,Female,1975-08-15,2019-04-05,Warehouse,Store Keeper,Night,SoluTex Manufacturing Plant,Daksha Venkataraman,1035721,3712162069,srinivasgaurika@radhakrishnan.info,Inactive
+571,EMP0571,Ria,Rau,Male,1989-10-17,2021-05-04,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Farhan Zachariah,1015220,3718203917,krege@kapoor-hans.com,Resigned
+572,EMP0572,Lekha,Sami,Male,1972-04-04,2019-01-04,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Nikita Deshmukh,348974,+919213169574,modyzashil@tiwari.com,Inactive
+573,EMP0573,Anirudh,Sarkar,Female,1990-01-22,2017-12-14,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Timothy Dani,567479,05475579783,yashvinanda@pathak.com,Resigned
+574,EMP0574,Indali,Gupta,Female,1994-06-27,2016-10-15,Warehouse,Store Keeper,Evening,SoluTex Manufacturing Plant,Champak De,856476,+916632977026,galaisaac@bahri-chander.net,Active
+575,EMP0575,Chavvi,Balan,Male,1978-08-17,2024-07-02,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Balveer Balasubramanian,723533,03999136043,nbuch@loyal.net,Inactive
+576,EMP0576,Rudra,Kuruvilla,Male,1978-10-31,2018-11-27,Production,Operator,Evening,SoluTex Manufacturing Plant,Upkaar Deshmukh,302958,05048998821,hemal49@master-sangha.com,Active
+577,EMP0577,Samuel,Keer,Male,2003-07-15,2025-10-19,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Girish Kade,309017,02288820919,pbhasin@barad-dash.net,Active
+578,EMP0578,Ansh,Kakar,Female,1994-06-06,2021-12-16,Maintenance,Technician,Night,SoluTex Manufacturing Plant,Elijah Palla,878239,1666206751,chakrabortyarunima@pant-choudhry.com,Active
+579,EMP0579,Triya,Krishnan,Female,2004-06-08,2021-03-05,Production,Production Supervisor,Night,SoluTex Manufacturing Plant,Faraj Maharaj,651860,3798385605,dhruvoak@bassi.org,Resigned
+580,EMP0580,Chakradev,Mukherjee,Female,1985-05-02,2022-10-19,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Henry Kashyap,588463,0730114558,shravyachaudhry@mistry.com,Inactive
+581,EMP0581,Nathan,Shanker,Male,1968-12-12,2019-09-11,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Ishani Shere,514109,8104746635,iyengaromya@nigam-dani.info,Inactive
+582,EMP0582,Mahika,Aggarwal,Male,1972-05-15,2017-04-18,Quality,QA Engineer,Night,SoluTex Manufacturing Plant,Warjas Sabharwal,1070348,2578555975,udarsh87@devan.biz,Active
+583,EMP0583,Matthew,Dara,Male,1977-02-08,2023-12-16,Production,Senior Operator,Evening,SoluTex Manufacturing Plant,Ishanvi Ray,847089,02470850874,bahadurjit04@sarkar.com,Resigned
+584,EMP0584,Maanav,Gara,Female,1995-08-22,2021-08-25,Production,Operator,Morning,SoluTex Manufacturing Plant,Faraj Khanna,604960,+913438178447,surikritika@saxena.net,Resigned
+585,EMP0585,Madhavi,Bakshi,Male,1970-05-21,2018-09-06,Production,Production Supervisor,Morning,SoluTex Manufacturing Plant,Yash Chandran,948138,+911437942835,abhimanyu97@mannan.com,Active
+586,EMP0586,Anirudh,Rattan,Male,1971-03-30,2023-04-24,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Oviya Bhatnagar,938236,02939016742,anmol98@dyal-khosla.com,Inactive
+587,EMP0587,Charan,Pant,Female,1984-08-01,2019-12-31,Warehouse,Warehouse Executive,Morning,SoluTex Manufacturing Plant,Ekiya Khosla,891484,04501711008,sbasak@lanka-pillay.info,Resigned
+588,EMP0588,Varenya,Sidhu,Male,1994-02-11,2020-03-18,Production,Senior Operator,Night,SoluTex Manufacturing Plant,Lila Dube,382208,01413835406,kapoorprisha@bansal.com,Resigned
+589,EMP0589,Chandani,Sodhi,Male,2005-07-27,2026-03-01,Maintenance,Technician,Evening,SoluTex Manufacturing Plant,Noah Aggarwal,831043,03665439373,turvichaudhuri@borra-sane.com,Inactive
+590,EMP0590,Vaishnavi,Mangat,Female,2001-09-08,2022-08-26,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Bhavini Rama,197023,07095269986,darpan06@sant-batta.com,Active
+591,EMP0591,Geetika,Pandit,Female,1997-11-18,2023-11-15,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Chandran Zachariah,325276,+918826754116,dalaldarpan@sant-wali.net,Active
+592,EMP0592,Hamsini,Arya,Female,1990-11-06,2021-04-04,Warehouse,Store Keeper,Morning,SoluTex Manufacturing Plant,Dev Ravi,653609,4026388391,mallanya@kaul-khalsa.com,Resigned
+593,EMP0593,Chaman,Panchal,Male,1974-05-08,2018-07-15,Production,Operator,Evening,SoluTex Manufacturing Plant,Abhimanyu Ganguly,686708,1481382280,yahvinarula@dyal.com,Resigned
+594,EMP0594,Finn,Bala,Female,1997-09-29,2021-06-15,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Yuvraj Badami,374118,00611039324,eta08@thakkar.com,Resigned
+595,EMP0595,Gautami,Prakash,Male,1977-03-16,2017-02-15,Production,Senior Operator,Morning,SoluTex Manufacturing Plant,Nikita Goda,195890,+919554009892,aadichakraborty@balan.info,Resigned
+596,EMP0596,Avni,Ganesh,Female,1979-02-08,2025-10-28,Sales,Sales Executive,Morning,SoluTex Manufacturing Plant,Divya Dani,688724,+910824239527,ochanda@rajagopal.com,Inactive
+597,EMP0597,Vritti,Panchal,Female,1977-01-18,2017-06-06,Quality,QA Engineer,Morning,SoluTex Manufacturing Plant,Vedika Ghose,869510,05810837945,bawayash@narasimhan.com,Active
+598,EMP0598,Oeshi,Chaudhry,Female,1987-09-21,2024-11-28,Production,Operator,Evening,SoluTex Manufacturing Plant,Niharika Sani,779275,3235757636,tara78@grover.com,Inactive
+599,EMP0599,Nidhi,D’Alia,Male,1990-09-28,2018-10-12,Quality,Quality Inspector,Morning,SoluTex Manufacturing Plant,Charita Prashad,321533,04710583467,sachi24@chandra.com,Inactive
+600,EMP0600,Rajata,Bala,Female,1995-08-30,2022-03-22,Maintenance,Technician,Morning,SoluTex Manufacturing Plant,Zilmil Talwar,1159275,+914069761544,tailorurmi@rastogi.com,Resigned

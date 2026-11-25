@@ -1,0 +1,601 @@
+﻿employee_id,employee_code,full_name,gender,date_of_birth,joining_date,resignation_date,experience_years,experience_group,department,designation,shift,manager_name,salary,employee_status
+1,EMP0001,Zayyan Kohli,Male,1997-01-08,2025-06-09,2025-08-12,0.2,0-2 Years,Warehouse,Warehouse Executive,Evening,Sneha Sanghvi,384102,Resigned
+2,EMP0002,Umang Chakraborty,Male,1999-03-08,2017-10-31,,8.7,6-10 Years,Maintenance,Technician,Night,Sudiksha Goswami,950999,Active
+3,EMP0003,Janaki Narasimhan,Female,1986-08-10,2020-02-26,2025-02-23,5.0,3-5 Years,Production,Senior Operator,Morning,Urvi Pandya,562639,Resigned
+4,EMP0004,Leela Cherian,Male,1973-11-27,2023-03-06,,3.4,3-5 Years,Production,Operator,Morning,Tristan Mani,694603,Inactive
+5,EMP0005,Zayan Balay,Female,1985-04-23,2021-02-12,,5.5,6-10 Years,Sales,Sales Executive,Night,Sathvik Goyal,810580,Active
+6,EMP0006,Nandini Savant,Female,1987-11-25,2024-01-03,,2.6,3-5 Years,Warehouse,Warehouse Executive,Evening,Mitali Raghavan,599743,Inactive
+7,EMP0007,Veda Saini,Female,1974-02-25,2023-11-29,,2.7,3-5 Years,Maintenance,Maintenance Engineer,Night,Yutika Baral,1026107,Inactive
+8,EMP0008,Yagnesh Seshadri,Female,1974-05-13,2025-05-30,,1.2,0-2 Years,Sales,Sales Officer,Night,Ayushman Deshpande,364625,Active
+9,EMP0009,Simon Madan,Male,2004-01-11,2022-12-07,,3.6,3-5 Years,HR,HR Manager,Night,Umang Cheema,723970,Inactive
+10,EMP0010,Riya Andra,Male,1997-02-13,2017-07-26,2023-06-30,5.9,6-10 Years,Production,Senior Operator,Evening,Radha Chanda,679055,Resigned
+11,EMP0011,Balvan Kanda,Male,1981-03-07,2022-12-20,,3.6,3-5 Years,Production,Senior Operator,Evening,Oni Khosla,992610,Inactive
+12,EMP0012,Gabriel Banik,Female,1970-11-05,2021-04-30,2023-09-06,2.4,3-5 Years,Quality,QA Engineer,Night,Maanav Munshi,710059,Resigned
+13,EMP0013,Bachittar Dani,Female,2000-10-03,2020-02-02,,6.5,6-10 Years,HR,HR Executive,Night,Advaith Lall,459546,Inactive
+14,EMP0014,Tanveer Dhar,Male,2004-12-25,2024-09-21,,1.9,0-2 Years,Production,Senior Operator,Evening,Alka Brar,842176,Inactive
+15,EMP0015,Yashawini Dugal,Female,1975-08-29,2022-09-01,,3.9,3-5 Years,Production,Operator,Evening,Nidra Sibal,1003815,Active
+16,EMP0016,Kamala Narasimhan,Male,1989-05-14,2020-06-07,,6.1,6-10 Years,Sales,Sales Manager,Morning,Yashoda Acharya,996446,Inactive
+17,EMP0017,Ridhi Dugar,Female,1974-01-18,2025-05-30,,1.2,0-2 Years,Production,Production Supervisor,Evening,Sathvik Ghose,226122,Active
+18,EMP0018,Mitesh Raj,Male,2005-05-19,2024-06-06,,2.1,3-5 Years,Quality,Quality Inspector,Night,Harsh Kamdar,725568,Active
+19,EMP0019,Aayush Khalsa,Male,1993-08-25,2017-01-27,,9.5,6-10 Years,HR,HR Manager,Morning,Falak Sur,423106,Inactive
+20,EMP0020,Lekha Babu,Male,1987-08-29,2021-08-18,2023-10-27,2.2,3-5 Years,Warehouse,Warehouse Executive,Morning,Qarin Kara,991584,Resigned
+21,EMP0021,Urishilla Iyengar,Female,1968-11-03,2020-05-18,,6.2,6-10 Years,HR,HR Executive,Night,Advika Gour,924842,Inactive
+22,EMP0022,Abdul Kurian,Male,1974-12-22,2017-12-25,,8.6,6-10 Years,Production,Operator,Evening,Harrison Batra,1104190,Inactive
+23,EMP0023,Madhavi Ahuja,Female,1983-11-18,2019-11-13,,6.7,6-10 Years,Sales,Sales Manager,Morning,Urvashi Sarraf,467928,Active
+24,EMP0024,Megha Tak,Male,1973-05-22,2016-10-05,2025-03-16,8.4,6-10 Years,Production,Senior Operator,Night,Garima Bal,358823,Resigned
+25,EMP0025,Yashica Grover,Male,1975-05-29,2018-11-22,,7.7,6-10 Years,Quality,QA Engineer,Morning,Anita Bali,482623,Inactive
+26,EMP0026,Nidra Sampath,Male,1976-03-23,2021-03-31,2021-10-11,0.5,0-2 Years,Quality,Quality Inspector,Morning,Aradhana Krishna,195313,Resigned
+27,EMP0027,Oliver Pall,Male,1988-05-15,2024-07-20,2025-12-28,1.4,0-2 Years,Sales,Sales Manager,Night,Hemangini Raghavan,998327,Resigned
+28,EMP0028,Ijaya Ramanathan,Male,1982-06-17,2016-11-21,2018-11-28,2.0,0-2 Years,Quality,Quality Inspector,Evening,Gagan Lalla,494381,Resigned
+29,EMP0029,Siddharth Choudhry,Male,2000-08-30,2018-07-17,,8.0,6-10 Years,Sales,Sales Executive,Evening,Indira Khosla,1180227,Active
+30,EMP0030,Netra Batra,Male,1975-09-22,2024-07-26,,2.0,0-2 Years,Quality,Quality Inspector,Evening,Sai Ramanathan,1125700,Inactive
+31,EMP0031,Shivansh Dutta,Female,1972-07-16,2022-07-14,2022-12-27,0.5,0-2 Years,Sales,Sales Executive,Evening,Baljiwan Gulati,913543,Resigned
+32,EMP0032,Yadavi Dhar,Male,1967-11-14,2023-04-02,,3.3,3-5 Years,Production,Senior Operator,Night,Advay Barman,323869,Inactive
+33,EMP0033,Harrison Bahl,Female,1982-06-21,2018-12-25,,7.6,6-10 Years,Quality,QA Engineer,Evening,Amol De,772804,Inactive
+34,EMP0034,Girindra Sandhu,Female,1984-05-29,2022-02-09,2024-07-02,2.4,3-5 Years,Warehouse,Warehouse Executive,Night,Abeer Parmar,370167,Resigned
+35,EMP0035,Xiti Barman,Female,2003-07-08,2023-06-12,,3.1,3-5 Years,Maintenance,Technician,Night,Baghyawati Gulati,681277,Active
+36,EMP0036,Ganga Kumar,Female,2005-06-05,2019-08-20,2026-05-31,6.8,6-10 Years,Production,Senior Operator,Evening,Vihaan Dave,1053822,Resigned
+37,EMP0037,Mohini Wadhwa,Female,2004-09-09,2020-05-14,,6.2,6-10 Years,Production,Senior Operator,Evening,Ekavir Anne,414145,Active
+38,EMP0038,Unni Solanki,Female,1982-11-28,2016-08-25,,9.9,6-10 Years,Production,Operator,Evening,Finn Rege,1087832,Inactive
+39,EMP0039,Ayush Sane,Male,1973-11-14,2018-10-17,,7.8,6-10 Years,Production,Senior Operator,Evening,Atharv Handa,1040077,Inactive
+40,EMP0040,Ishwar Gaba,Female,2000-05-29,2024-09-04,2026-02-06,1.4,0-2 Years,Management,Plant Manager,Morning,Darika Dugar,1076880,Resigned
+41,EMP0041,Falguni Mangal,Female,1980-10-09,2024-12-07,,1.6,0-2 Years,Sales,Sales Executive,Evening,Chavvi Varghese,679819,Active
+42,EMP0042,Aradhana Sem,Female,1975-07-06,2022-12-07,,3.6,3-5 Years,Quality,Quality Inspector,Night,Ayush Ganguly,1149522,Inactive
+43,EMP0043,Wriddhish Master,Male,1974-01-26,2017-10-18,,8.8,6-10 Years,Production,Production Supervisor,Morning,Shaurya Muni,254608,Inactive
+44,EMP0044,Chaitaly Kannan,Male,1986-04-09,2026-03-31,,0.3,0-2 Years,Quality,Quality Inspector,Morning,Darpan Dave,244510,Active
+45,EMP0045,Dalaja Narayan,Female,1991-04-13,2025-07-13,2026-05-08,0.8,0-2 Years,Production,Senior Operator,Morning,Yahvi Mistry,794178,Resigned
+46,EMP0046,Sanaya Sankar,Male,1977-06-01,2020-02-20,2024-10-13,4.6,3-5 Years,HR,HR Manager,Morning,Kamala Iyer,200977,Resigned
+47,EMP0047,Gauri Sur,Male,1993-09-17,2018-05-26,2024-11-05,6.4,6-10 Years,Production,Operator,Evening,Shaurya Chhabra,861706,Resigned
+48,EMP0048,Nidra Mistry,Female,1981-01-18,2020-10-21,,5.8,6-10 Years,Maintenance,Technician,Evening,Qushi Shanker,892355,Inactive
+49,EMP0049,Irya Memon,Female,1984-02-28,2023-01-04,2024-11-18,1.9,0-2 Years,Production,Production Supervisor,Morning,Diya Walia,1106861,Resigned
+50,EMP0050,Netra Goel,Female,1995-10-06,2020-04-01,,6.3,6-10 Years,Sales,Sales Executive,Evening,Aarush Yohannan,1090980,Active
+51,EMP0051,Vasatika Chandran,Male,1974-03-16,2017-05-20,,9.2,6-10 Years,Maintenance,Maintenance Engineer,Morning,Oeshi Viswanathan,1007504,Inactive
+52,EMP0052,Ayush Nigam,Female,1976-10-09,2020-09-08,,5.9,6-10 Years,Production,Operator,Night,Falan Khalsa,777687,Inactive
+53,EMP0053,Naveen Bhagat,Male,1982-02-25,2022-08-24,,3.9,3-5 Years,Maintenance,Maintenance Engineer,Evening,Ishanvi Patla,1061223,Active
+54,EMP0054,Inaya Sunder,Male,1977-11-27,2024-06-25,,2.1,3-5 Years,Production,Production Supervisor,Evening,Onveer Dhingra,332194,Active
+55,EMP0055,Gautami Bhat,Male,1981-04-01,2026-02-08,,0.5,0-2 Years,Sales,Sales Manager,Morning,Lakshmi Datta,910539,Active
+56,EMP0056,Ekta Loke,Female,2000-07-16,2018-04-01,,8.3,6-10 Years,Production,Production Supervisor,Morning,Ishanvi Atwal,713460,Active
+57,EMP0057,Chaaya Kari,Male,1984-03-24,2025-08-19,,0.9,0-2 Years,Maintenance,Maintenance Engineer,Evening,Charles Rattan,1049500,Active
+58,EMP0058,Baghyawati Bedi,Female,1991-10-19,2021-09-13,2022-05-25,0.7,0-2 Years,Production,Operator,Morning,Ranbir Ganesan,339027,Resigned
+59,EMP0059,Chandran Chadha,Male,1967-09-08,2023-07-08,2026-02-07,2.6,3-5 Years,Maintenance,Maintenance Engineer,Morning,Sarthak Anand,503256,Resigned
+60,EMP0060,Ekansh Apte,Male,1994-01-18,2022-04-25,,4.3,3-5 Years,Warehouse,Store Keeper,Morning,Alexander Sarna,789030,Inactive
+61,EMP0061,Urmi Solanki,Female,1995-10-17,2023-01-21,2024-09-08,1.6,0-2 Years,Warehouse,Warehouse Executive,Night,Gaurav Goel,313264,Resigned
+62,EMP0062,Gunbir Kala,Female,1982-11-04,2022-05-12,,4.2,3-5 Years,Quality,Quality Inspector,Evening,Faqid Sampath,962523,Inactive
+63,EMP0063,Vinaya Gade,Male,1968-09-30,2024-12-28,2025-10-29,0.8,0-2 Years,Production,Operator,Evening,Ansh Barad,915306,Resigned
+64,EMP0064,Sudiksha Joshi,Female,1991-11-16,2026-04-15,2026-06-12,0.2,0-2 Years,Warehouse,Store Keeper,Morning,Jason Sanghvi,1044966,Resigned
+65,EMP0065,Edhitha Saha,Female,1968-10-11,2023-08-18,2024-03-26,0.6,0-2 Years,Maintenance,Technician,Morning,Nachiket Sachdeva,769190,Resigned
+66,EMP0066,Inaya Borde,Female,1983-04-16,2019-11-06,2026-02-04,6.2,6-10 Years,Quality,Quality Inspector,Night,Andrew Desai,289220,Resigned
+67,EMP0067,Triya Borah,Male,1968-08-01,2021-08-05,2025-07-05,3.9,3-5 Years,Quality,Quality Inspector,Morning,Yash Mand,183930,Resigned
+68,EMP0068,Rohan Krishnan,Female,1979-08-11,2017-05-06,,9.2,6-10 Years,Production,Production Supervisor,Night,Varenya Subramaniam,1111165,Active
+69,EMP0069,Ekapad Ramachandran,Female,2001-12-16,2016-12-31,,9.6,6-10 Years,Production,Senior Operator,Morning,Hiral Deshmukh,210406,Active
+70,EMP0070,Atharv Borah,Male,1967-09-25,2026-05-03,,0.2,0-2 Years,Sales,Sales Manager,Evening,Lajita Kala,476327,Inactive
+71,EMP0071,Mahika Prashad,Male,1976-03-15,2020-07-15,,6.0,6-10 Years,Quality,Quality Inspector,Night,Laksh Doctor,993308,Active
+72,EMP0072,Jagdish Khanna,Female,1973-02-20,2020-11-20,,5.7,6-10 Years,Management,Plant Manager,Morning,Reva Roy,822735,Active
+73,EMP0073,Kamala Sundaram,Female,1992-07-17,2022-06-09,2025-02-18,2.7,3-5 Years,Quality,QA Engineer,Night,Akshay Kothari,666216,Resigned
+74,EMP0074,Urvashi Raj,Male,2001-05-27,2020-05-02,,6.2,6-10 Years,Maintenance,Technician,Night,Chanchal Kari,1149769,Active
+75,EMP0075,Udarsh Dani,Female,1985-02-08,2021-04-04,,5.3,6-10 Years,Sales,Sales Manager,Night,Ayaan Wadhwa,985586,Active
+76,EMP0076,Krishna Shankar,Male,1971-10-04,2017-05-26,2021-02-21,3.7,3-5 Years,Maintenance,Maintenance Engineer,Evening,Lakshit Saraf,689063,Resigned
+77,EMP0077,Nihal Ghose,Female,1996-02-10,2017-09-16,,8.9,6-10 Years,Maintenance,Technician,Night,Vritti Merchant,600436,Active
+78,EMP0078,Bhavya Tandon,Male,1995-07-03,2016-12-23,2024-11-22,7.9,6-10 Years,Production,Operator,Evening,Nidra Brahmbhatt,798882,Resigned
+79,EMP0079,Nidhi Agate,Male,1993-06-30,2024-10-03,,1.8,0-2 Years,Production,Operator,Night,Nimrat Mital,469969,Active
+80,EMP0080,Mitali Bhavsar,Female,1990-10-16,2020-03-20,,6.4,6-10 Years,HR,HR Manager,Evening,Rehaan Chandra,884365,Active
+81,EMP0081,Laban Mannan,Male,1973-08-02,2023-08-23,,2.9,3-5 Years,Quality,QA Engineer,Morning,Krish Lata,585358,Active
+82,EMP0082,Elijah Modi,Female,1997-01-13,2017-09-13,2022-08-01,4.9,3-5 Years,Sales,Sales Manager,Morning,Nachiket Vala,1177452,Resigned
+83,EMP0083,Eshana Gandhi,Female,1975-02-06,2022-07-05,,4.1,3-5 Years,HR,HR Executive,Night,Divya Peri,984989,Inactive
+84,EMP0084,Jatin Bath,Female,1999-12-28,2025-03-18,,1.4,0-2 Years,Quality,Quality Inspector,Evening,Jack Mandal,1143067,Active
+85,EMP0085,Baljiwan Chatterjee,Male,1987-10-17,2024-03-23,,2.4,3-5 Years,Production,Senior Operator,Night,Bahadurjit Dash,892461,Active
+86,EMP0086,Hema Venkataraman,Male,1988-02-25,2022-12-10,2024-08-07,1.7,0-2 Years,Production,Senior Operator,Morning,Champak Murty,854721,Resigned
+87,EMP0087,Eshana Vig,Female,1976-06-02,2022-09-18,2024-07-01,1.8,0-2 Years,Production,Senior Operator,Evening,Anika Doshi,617058,Resigned
+88,EMP0088,Amol Bahri,Male,2002-02-13,2024-11-05,,1.7,0-2 Years,Production,Operator,Evening,Farhan Murty,390113,Active
+89,EMP0089,Bachittar Edwin,Female,2005-05-10,2018-12-22,,7.6,6-10 Years,Sales,Sales Officer,Morning,Rachit Oak,769003,Active
+90,EMP0090,Viraj Prabhakar,Male,2003-12-19,2021-06-15,,5.1,6-10 Years,Quality,QA Engineer,Evening,Omisha Wable,413580,Inactive
+91,EMP0091,Tejas Kala,Female,1999-01-06,2022-02-12,2023-03-12,1.1,0-2 Years,Production,Operator,Night,Veda Raju,602481,Resigned
+92,EMP0092,Unnati Jani,Male,2002-01-22,2023-11-12,,2.7,3-5 Years,HR,HR Manager,Evening,Pushti Chaudhuri,673853,Inactive
+93,EMP0093,Rachana Sanghvi,Female,1989-11-04,2018-05-04,2019-03-04,0.8,0-2 Years,Sales,Sales Officer,Night,Vaishnavi Pandit,362512,Resigned
+94,EMP0094,Krish Vasa,Female,1997-05-07,2022-02-21,,4.4,3-5 Years,Sales,Sales Executive,Evening,Ati Dey,204267,Active
+95,EMP0095,Aarav Chahal,Female,2000-08-21,2019-10-02,,6.8,6-10 Years,Quality,Quality Inspector,Evening,Ekalinga Rattan,1061984,Inactive
+96,EMP0096,Krishna Ramakrishnan,Male,1991-04-12,2019-11-28,,6.7,6-10 Years,Production,Production Supervisor,Night,Lakshmi Mammen,1013588,Active
+97,EMP0097,Nirja Iyengar,Male,1988-02-27,2023-05-20,2025-03-11,1.8,0-2 Years,Sales,Sales Executive,Morning,Rehaan Ratti,522095,Resigned
+98,EMP0098,Kamala Roy,Male,1988-11-10,2025-05-03,,1.2,0-2 Years,Maintenance,Maintenance Engineer,Morning,Chatresh Mitter,633774,Inactive
+99,EMP0099,Gayathri Master,Female,1978-10-20,2016-09-29,,9.8,6-10 Years,Quality,Quality Inspector,Morning,Pratyush Srinivas,922079,Active
+100,EMP0100,Devansh Goel,Male,1980-08-27,2020-03-04,,6.4,6-10 Years,Quality,Quality Inspector,Morning,Mohammed Muni,790455,Inactive
+101,EMP0101,Balendra Bhasin,Male,1989-07-15,2021-09-30,,4.8,3-5 Years,Production,Senior Operator,Morning,Chaman Modi,800517,Inactive
+102,EMP0102,Onveer Gulati,Female,2002-05-12,2018-03-05,,8.4,6-10 Years,Production,Production Supervisor,Morning,Utkarsh Khare,435219,Active
+103,EMP0103,Mohini Rana,Male,1996-07-30,2017-02-28,,9.4,6-10 Years,Production,Operator,Morning,Mason Mangal,240409,Inactive
+104,EMP0104,Barkha Dass,Female,1989-12-11,2021-11-13,2026-01-23,4.2,3-5 Years,Maintenance,Maintenance Engineer,Night,Lekha Sahni,324331,Resigned
+105,EMP0105,Advay Ben,Female,1982-07-28,2020-06-10,2020-11-28,0.5,0-2 Years,Quality,QA Engineer,Evening,Vanya Kohli,387543,Resigned
+106,EMP0106,Charita Sani,Female,1998-12-06,2023-08-25,2026-03-06,2.5,3-5 Years,Finance,Accountant,Morning,Noah Kaul,964201,Resigned
+107,EMP0107,Faris Golla,Female,2000-08-14,2025-01-02,2026-04-28,1.3,0-2 Years,Sales,Sales Officer,Evening,Vrishti Talwar,652534,Resigned
+108,EMP0108,Vyanjana Bhatt,Female,1984-11-19,2026-01-13,,0.5,0-2 Years,Production,Senior Operator,Night,Tripti Narasimhan,1042298,Inactive
+109,EMP0109,Hardik Shenoy,Female,1977-09-26,2018-10-09,,7.8,6-10 Years,Production,Operator,Night,Tristan Chopra,1172438,Inactive
+110,EMP0110,Girindra Butala,Male,1986-03-25,2023-02-27,2024-02-29,1.0,0-2 Years,Sales,Sales Officer,Evening,Balvan Dara,871356,Resigned
+111,EMP0111,Qushi Shenoy,Male,1975-04-23,2017-02-19,,9.4,6-10 Years,Sales,Sales Manager,Evening,Om Gulati,254556,Active
+112,EMP0112,Quincy Bansal,Female,1987-09-14,2020-03-17,2024-04-06,4.1,3-5 Years,Maintenance,Technician,Night,Meghana Baral,493986,Resigned
+113,EMP0113,Falguni Boase,Female,1998-03-09,2017-03-06,,9.4,6-10 Years,Maintenance,Technician,Night,Eta Virk,991202,Active
+114,EMP0114,Bhavani Gola,Male,1983-03-28,2023-08-22,,2.9,3-5 Years,Sales,Sales Officer,Morning,Shivani Sangha,328162,Inactive
+115,EMP0115,Urvashi Dave,Male,1968-04-01,2020-09-26,2021-10-08,1.0,0-2 Years,Production,Production Supervisor,Evening,Tanish Talwar,561022,Resigned
+116,EMP0116,Robert Venkataraman,Male,1974-01-30,2024-02-24,2026-01-05,1.9,0-2 Years,Production,Operator,Evening,Hitesh Chakrabarti,344938,Resigned
+117,EMP0117,Jason Rama,Male,1990-11-05,2017-02-03,,9.5,6-10 Years,Production,Production Supervisor,Night,Sanya Basu,935391,Active
+118,EMP0118,Anita Seshadri,Male,1984-10-06,2017-11-04,2023-12-28,6.1,6-10 Years,Production,Senior Operator,Morning,Zashil Bumb,1001586,Resigned
+119,EMP0119,Finn Shankar,Female,1994-04-13,2022-05-03,,4.2,3-5 Years,Production,Operator,Evening,Dev Sem,424837,Active
+120,EMP0120,Ati Narain,Male,1983-07-08,2020-11-27,,5.7,6-10 Years,Sales,Sales Executive,Night,Anika Chad,1115455,Inactive
+121,EMP0121,Liam Merchant,Female,1999-12-02,2025-06-28,,1.1,0-2 Years,Quality,Quality Inspector,Evening,Radhika Pau,672945,Inactive
+122,EMP0122,Madhavi Issac,Female,2000-05-20,2021-09-23,,4.9,3-5 Years,Quality,QA Engineer,Evening,Zaid Rajagopal,772633,Active
+123,EMP0123,Gabriel Divan,Female,1978-02-15,2025-08-21,,0.9,0-2 Years,Quality,QA Engineer,Morning,Amruta Parikh,481977,Active
+124,EMP0124,Zashil Mohan,Female,1987-05-09,2025-07-30,,1.0,0-2 Years,Warehouse,Store Keeper,Morning,Aditya Balan,977168,Active
+125,EMP0125,Vinaya Saxena,Male,1989-03-07,2019-08-21,,6.9,6-10 Years,Production,Senior Operator,Evening,Chandani Mohan,436859,Active
+126,EMP0126,Rishi Sandal,Female,2004-12-05,2020-11-30,,5.7,6-10 Years,Sales,Sales Officer,Evening,Oviya Bala,1079116,Active
+127,EMP0127,Lopa Sant,Male,2005-03-11,2025-05-10,,1.2,0-2 Years,Maintenance,Maintenance Engineer,Evening,Vamakshi Singhal,400924,Inactive
+128,EMP0128,Ucchal Nayak,Male,1991-06-01,2023-03-20,,3.4,3-5 Years,Production,Senior Operator,Morning,Fiyaz Iyer,452266,Active
+129,EMP0129,Wriddhish Malhotra,Male,1990-02-03,2024-05-18,,2.2,3-5 Years,Production,Operator,Evening,Isha Parmer,954045,Inactive
+130,EMP0130,Nidra Bhandari,Male,2002-08-23,2021-01-16,2023-01-22,2.0,0-2 Years,Maintenance,Technician,Night,Lakshmi Iyengar,1006045,Resigned
+131,EMP0131,Udarsh Sen,Female,2000-06-13,2022-06-10,,4.1,3-5 Years,Production,Production Supervisor,Night,Dominic Natt,1136664,Inactive
+132,EMP0132,Ekanta Bhatt,Male,1973-01-11,2021-05-02,,5.2,6-10 Years,Production,Operator,Morning,Manthan Krishna,1051067,Active
+133,EMP0133,Darsh Deo,Male,1978-12-02,2022-03-22,2022-08-05,0.4,0-2 Years,Production,Senior Operator,Evening,Bina Deo,1176233,Resigned
+134,EMP0134,Jagvi Sane,Female,1979-09-16,2022-12-05,,3.7,3-5 Years,Production,Senior Operator,Evening,Ryan Sankar,1031022,Active
+135,EMP0135,Yoshita Chaudhuri,Male,2004-04-26,2026-07-07,,0.1,0-2 Years,Sales,Sales Manager,Morning,Praneel Chaudhry,1010104,Inactive
+136,EMP0136,Chakradev De,Male,1972-11-15,2022-05-05,,4.2,3-5 Years,Production,Production Supervisor,Night,Pushti Tata,1020008,Inactive
+137,EMP0137,Zayan Chahal,Male,1984-07-28,2017-08-15,,9.0,6-10 Years,Quality,Quality Inspector,Night,Aryan Kothari,943538,Inactive
+138,EMP0138,Adya Ahluwalia,Male,1978-12-07,2022-04-21,,4.3,3-5 Years,Maintenance,Maintenance Engineer,Morning,Lopa Narasimhan,779984,Active
+139,EMP0139,Dayita Loyal,Male,1990-02-06,2018-12-02,,7.7,6-10 Years,Production,Production Supervisor,Morning,Aarav Chandran,669694,Inactive
+140,EMP0140,Baljiwan Reddy,Male,1980-02-01,2025-12-01,2026-07-25,0.6,0-2 Years,Maintenance,Technician,Morning,Arunima Mitra,539263,Resigned
+141,EMP0141,Ekaraj Bhargava,Female,2004-03-27,2024-06-04,,2.2,3-5 Years,Warehouse,Warehouse Executive,Night,Oviya Memon,1099383,Inactive
+142,EMP0142,Sanya Suri,Female,2004-04-08,2021-03-24,2023-08-29,2.4,3-5 Years,Finance,Finance Executive,Morning,Neel Srinivas,1190944,Resigned
+143,EMP0143,Dhruv Varghese,Female,1983-11-20,2022-07-26,,4.0,3-5 Years,Production,Operator,Morning,Ojasvi Bhasin,803583,Active
+144,EMP0144,Rohan Khalsa,Male,1969-02-25,2022-02-01,2026-02-09,4.0,3-5 Years,Warehouse,Store Keeper,Night,Jeremiah Raju,993281,Resigned
+145,EMP0145,Rudra Chander,Male,1992-12-20,2025-02-26,,1.4,0-2 Years,Sales,Sales Manager,Morning,Pooja Ratta,876729,Active
+146,EMP0146,Aachal Rau,Male,1981-11-30,2020-05-31,,6.2,6-10 Years,Quality,QA Engineer,Evening,Sanya Thaker,928768,Inactive
+147,EMP0147,Bhanumati Thaker,Male,1991-03-06,2025-09-04,2026-04-26,0.6,0-2 Years,Production,Operator,Night,Gopal Khare,741859,Resigned
+148,EMP0148,Victor Kaul,Female,1998-03-31,2021-05-03,,5.2,6-10 Years,Warehouse,Store Keeper,Night,Ati Kakar,1179232,Active
+149,EMP0149,Bhavani Kala,Male,1984-09-16,2024-02-25,,2.4,3-5 Years,Production,Production Supervisor,Night,Omkaar Brar,1047231,Inactive
+150,EMP0150,Caleb Arora,Male,1989-12-26,2019-08-20,,6.9,6-10 Years,Sales,Sales Manager,Night,Vyanjana Dave,846969,Inactive
+151,EMP0151,Warinder Chowdhury,Male,1990-06-25,2021-06-25,2025-06-20,4.0,3-5 Years,Production,Operator,Morning,Upadhriti Sahni,1160179,Resigned
+152,EMP0152,Gautami Murthy,Female,1974-07-12,2019-07-20,,7.0,6-10 Years,Production,Operator,Evening,Forum Pai,590930,Inactive
+153,EMP0153,Zaid Banik,Male,1974-04-17,2023-12-11,,2.6,3-5 Years,Production,Operator,Night,Hemangini Parmar,264920,Active
+154,EMP0154,Zayyan Pathak,Female,1998-02-19,2021-08-21,,4.9,3-5 Years,Sales,Sales Officer,Evening,Harrison Shanker,260429,Active
+155,EMP0155,Ekavir Dube,Male,2002-06-16,2019-07-02,,7.1,6-10 Years,Sales,Sales Officer,Evening,Aashi Muni,1114583,Inactive
+156,EMP0156,Ucchal Jain,Male,1984-05-28,2024-06-10,2026-02-01,1.6,0-2 Years,Warehouse,Warehouse Executive,Morning,Vasudha Toor,816052,Resigned
+157,EMP0157,Dakshesh Kamdar,Female,2004-12-10,2025-09-11,2025-12-07,0.2,0-2 Years,Sales,Sales Manager,Morning,Joshua Ghosh,239166,Resigned
+158,EMP0158,Harish Nadig,Female,2003-02-04,2022-10-25,2024-03-27,1.4,0-2 Years,Production,Operator,Night,Panini Rama,345057,Resigned
+159,EMP0159,Luke Shah,Female,2004-04-20,2021-05-24,,5.2,6-10 Years,Sales,Sales Executive,Night,Nilima Toor,230990,Inactive
+160,EMP0160,Hemangini Dhawan,Female,1967-12-08,2022-11-06,2024-08-19,1.8,0-2 Years,Production,Operator,Morning,Rachita Kanda,560612,Resigned
+161,EMP0161,Sathvik Gala,Male,1988-10-11,2025-01-30,,1.5,0-2 Years,Warehouse,Store Keeper,Morning,Falak Deol,705907,Inactive
+162,EMP0162,Harshil Dua,Female,1979-01-04,2019-09-11,,6.9,6-10 Years,Maintenance,Technician,Evening,Samesh Garde,534267,Active
+163,EMP0163,Vedant Menon,Female,1981-02-19,2024-05-20,,2.2,3-5 Years,Production,Operator,Evening,Bahadurjit Dyal,410172,Inactive
+164,EMP0164,Shivansh Majumdar,Male,2003-05-05,2019-06-22,2023-01-19,3.6,3-5 Years,Management,General Manager,Night,Warda Gade,1174203,Resigned
+165,EMP0165,Garima Taneja,Male,1973-05-01,2024-09-13,2024-11-10,0.2,0-2 Years,Production,Senior Operator,Evening,Teerth Gokhale,987390,Resigned
+166,EMP0166,Vamakshi Nair,Female,1999-01-11,2024-04-20,,2.3,3-5 Years,Production,Senior Operator,Morning,Ryan Maharaj,696250,Inactive
+167,EMP0167,Hitesh Lad,Female,1984-07-10,2020-08-29,,5.9,6-10 Years,Warehouse,Store Keeper,Night,Warjas Choudhury,1047639,Active
+168,EMP0168,Vedant Narula,Female,1980-03-16,2018-10-18,,7.8,6-10 Years,Production,Senior Operator,Morning,Thomas Deshmukh,753213,Inactive
+169,EMP0169,Dalaja Sathe,Female,1974-07-27,2019-06-16,,7.1,6-10 Years,Production,Operator,Night,Yatan Dada,997706,Active
+170,EMP0170,Sanaya Munshi,Female,1972-08-17,2021-04-17,2024-03-21,2.9,3-5 Years,Sales,Sales Officer,Evening,Yauvani Wali,955861,Resigned
+171,EMP0171,Jackson Parsa,Female,2000-03-07,2016-10-03,2018-05-05,1.6,0-2 Years,Production,Senior Operator,Evening,Urishilla Pillay,262834,Resigned
+172,EMP0172,Darika Virk,Female,1973-01-10,2023-01-30,,3.5,3-5 Years,Sales,Sales Manager,Morning,Nathaniel Parikh,801583,Active
+173,EMP0173,Oviya Yadav,Male,2003-12-15,2021-03-29,,5.3,6-10 Years,Production,Operator,Evening,Wazir Grewal,983652,Active
+174,EMP0174,Upma Kaul,Female,1977-08-04,2022-04-27,2025-07-05,3.2,3-5 Years,Quality,QA Engineer,Morning,Bachittar Aggarwal,888559,Resigned
+175,EMP0175,Kevin Bahl,Male,1976-08-22,2025-02-09,,1.5,0-2 Years,Warehouse,Store Keeper,Evening,Jackson Mistry,850059,Active
+176,EMP0176,Gaurav Kohli,Male,1981-05-05,2020-07-07,,6.1,6-10 Years,Management,Plant Manager,Evening,Lucky Naidu,1140456,Inactive
+177,EMP0177,Girik Dora,Male,1988-09-27,2020-03-17,,6.4,6-10 Years,Warehouse,Store Keeper,Night,Sachi Venkatesh,566041,Active
+178,EMP0178,Quincy Deol,Male,1985-05-28,2023-06-20,,3.1,3-5 Years,Production,Senior Operator,Evening,Raghav Vohra,760878,Inactive
+179,EMP0179,Panini Wali,Male,1997-01-26,2020-01-21,,6.5,6-10 Years,Production,Production Supervisor,Evening,Nikita Lata,419940,Active
+180,EMP0180,Avi Vyas,Male,1990-06-09,2017-03-10,2023-08-19,6.4,6-10 Years,Production,Operator,Morning,Zansi Bassi,1058646,Resigned
+181,EMP0181,Keya Dass,Male,1986-01-26,2016-10-22,,9.8,6-10 Years,Production,Senior Operator,Night,Samuel Batra,604720,Active
+182,EMP0182,Ekavir Chakraborty,Male,1979-06-15,2025-06-06,,1.1,0-2 Years,Sales,Sales Officer,Evening,Balveer Sawhney,750427,Inactive
+183,EMP0183,Kevin Patla,Female,1988-04-10,2018-10-20,,7.8,6-10 Years,Production,Senior Operator,Evening,Faqid Bhatnagar,404807,Active
+184,EMP0184,Ranbir Soman,Female,2002-02-14,2023-11-26,,2.7,3-5 Years,Production,Production Supervisor,Morning,Chaaya Walla,526487,Active
+185,EMP0185,Anya Ravel,Female,1979-10-03,2020-12-08,,5.6,6-10 Years,Production,Senior Operator,Evening,Liam Balasubramanian,908306,Inactive
+186,EMP0186,Nathaniel Patil,Female,1974-03-23,2023-01-20,,3.5,3-5 Years,Production,Operator,Morning,Chakrika Ranganathan,345534,Active
+187,EMP0187,Chatresh Devan,Male,1991-07-26,2018-09-06,,7.9,6-10 Years,Quality,QA Engineer,Morning,Nidra Acharya,1191133,Active
+188,EMP0188,Quincy Murthy,Female,1972-03-25,2021-05-17,,5.2,6-10 Years,Management,Plant Manager,Morning,Kabir Gala,918702,Inactive
+189,EMP0189,Anirudh Sabharwal,Female,1986-04-03,2017-09-26,,8.8,6-10 Years,Finance,Finance Executive,Morning,Krishna Sahni,968668,Active
+190,EMP0190,Bahadurjit Pingle,Male,1999-08-29,2025-08-24,,0.9,0-2 Years,Warehouse,Store Keeper,Morning,Warhi Patla,967717,Inactive
+191,EMP0191,Charita Karan,Male,2002-03-21,2022-10-20,,3.8,3-5 Years,Warehouse,Store Keeper,Night,Raksha Dhingra,298453,Active
+192,EMP0192,Rushil Kumar,Male,1981-05-11,2025-04-23,,1.3,0-2 Years,Production,Operator,Morning,Dakshesh Bhasin,288713,Inactive
+193,EMP0193,Siddharth Kala,Male,1992-04-14,2026-03-30,2026-07-24,0.3,0-2 Years,Production,Production Supervisor,Morning,Triya Gara,496315,Resigned
+194,EMP0194,Jhalak Walia,Female,2001-03-27,2018-08-04,,8.0,6-10 Years,Quality,QA Engineer,Morning,Jai Parekh,537309,Active
+195,EMP0195,Krish Saran,Male,1987-04-12,2020-05-26,2025-01-09,4.6,3-5 Years,Sales,Sales Executive,Morning,Rushil Andra,563524,Resigned
+196,EMP0196,Ishanvi Prabhu,Male,1977-01-25,2021-01-24,,5.5,6-10 Years,Warehouse,Store Keeper,Morning,Maanav Desai,827079,Active
+197,EMP0197,Panini Chada,Male,1997-10-19,2024-04-10,,2.3,3-5 Years,Sales,Sales Manager,Evening,Vedhika Ray,221260,Inactive
+198,EMP0198,Manthan Sur,Male,1992-06-22,2020-01-04,,6.6,6-10 Years,Sales,Sales Executive,Evening,Kashvi Din,839830,Inactive
+199,EMP0199,Triya Gara,Male,2001-09-22,2026-03-23,2026-05-29,0.2,0-2 Years,Production,Senior Operator,Evening,Lopa Yogi,705428,Resigned
+200,EMP0200,Hemal Solanki,Male,1982-01-19,2017-10-18,,8.8,6-10 Years,Quality,QA Engineer,Morning,Samarth Nori,941847,Inactive
+201,EMP0201,Raghav Patla,Male,1993-01-21,2026-02-19,2026-07-27,0.4,0-2 Years,Production,Production Supervisor,Morning,Widisha Amble,198780,Resigned
+202,EMP0202,Jyoti Narayan,Female,1993-10-06,2016-09-13,,9.9,6-10 Years,Production,Production Supervisor,Evening,Dakshesh Subramaniam,1003181,Active
+203,EMP0203,Ekiya Kadakia,Male,1976-09-07,2019-05-27,2022-05-26,3.0,3-5 Years,Maintenance,Maintenance Engineer,Morning,Qabil Karan,963308,Resigned
+204,EMP0204,Daksha Morar,Male,1991-09-15,2022-03-19,,4.4,3-5 Years,Warehouse,Warehouse Executive,Evening,Wakeeta Ram,876050,Active
+205,EMP0205,Sanaya Pingle,Male,1989-07-22,2026-05-19,,0.2,0-2 Years,Production,Production Supervisor,Evening,Bhavika Banik,815794,Active
+206,EMP0206,Bachittar Korpal,Male,1992-03-11,2019-03-03,,7.4,6-10 Years,Production,Operator,Evening,Upadhriti Gade,322600,Active
+207,EMP0207,Amaira Bhat,Male,2001-10-17,2020-03-16,,6.4,6-10 Years,Maintenance,Maintenance Engineer,Evening,Elijah Mistry,999715,Inactive
+208,EMP0208,Zaid Dhaliwal,Male,1984-03-11,2018-03-19,,8.4,6-10 Years,Quality,Quality Inspector,Night,Chaitaly Kaur,384261,Inactive
+209,EMP0209,Yatan Chowdhury,Female,2003-12-21,2022-12-14,,3.6,3-5 Years,Production,Production Supervisor,Morning,Ronith Bajwa,995841,Inactive
+210,EMP0210,Kamya Narula,Female,1970-04-28,2023-03-19,2024-05-13,1.2,0-2 Years,Production,Operator,Evening,Widisha Choudhury,1034617,Resigned
+211,EMP0211,Joshua Gola,Female,2002-05-20,2026-03-01,,0.4,0-2 Years,Quality,QA Engineer,Night,Charvi Keer,271785,Inactive
+212,EMP0212,Zayan Nair,Female,1995-12-11,2021-02-23,2026-01-28,4.9,3-5 Years,Production,Senior Operator,Morning,Viraj Loyal,703650,Resigned
+213,EMP0213,Orinder Virk,Female,2004-04-14,2022-11-12,2024-04-16,1.4,0-2 Years,Maintenance,Technician,Evening,Quincy Nayak,411947,Resigned
+214,EMP0214,Yauvani Mallick,Male,2003-03-28,2023-02-13,,3.5,3-5 Years,Production,Operator,Evening,Isaac Dhillon,838848,Inactive
+215,EMP0215,Jatin Kadakia,Male,1981-09-23,2021-11-11,,4.7,3-5 Years,Production,Senior Operator,Morning,Jacob Talwar,228335,Inactive
+216,EMP0216,Kashish Mall,Male,2005-05-04,2020-06-26,,6.1,6-10 Years,Finance,Accountant,Night,Vedant Naik,636850,Active
+217,EMP0217,Jeremiah Edwin,Female,1975-04-01,2019-11-12,2020-06-14,0.6,0-2 Years,Production,Operator,Morning,Jonathan Prashad,221630,Resigned
+218,EMP0218,Anvi Mani,Female,1994-07-10,2021-06-04,2023-11-21,2.5,3-5 Years,Maintenance,Technician,Morning,Divya Kashyap,1017521,Resigned
+219,EMP0219,Henry Pandya,Male,1995-06-08,2019-06-09,,7.1,6-10 Years,Production,Production Supervisor,Evening,Triveni Chaudhuri,348050,Active
+220,EMP0220,Bachittar Vohra,Female,1992-09-30,2023-05-29,2025-12-13,2.5,3-5 Years,Production,Senior Operator,Morning,Hemani Sehgal,188773,Resigned
+221,EMP0221,Waida Chakrabarti,Male,1973-01-29,2024-03-28,,2.3,3-5 Years,Production,Production Supervisor,Night,Umang Gulati,345819,Active
+222,EMP0222,Alka Kade,Female,1994-01-11,2024-04-16,,2.3,3-5 Years,Sales,Sales Officer,Night,Gagan Madan,206038,Inactive
+223,EMP0223,Jagrati Sen,Female,1995-01-25,2026-04-23,,0.3,0-2 Years,Warehouse,Warehouse Executive,Morning,Geetika Bala,665320,Active
+224,EMP0224,Lopa Toor,Female,1976-08-17,2020-03-02,,6.4,6-10 Years,Production,Operator,Evening,Ladli Balay,1129448,Active
+225,EMP0225,Laban Krishnamurthy,Male,1996-09-28,2017-04-09,,9.3,6-10 Years,Maintenance,Maintenance Engineer,Morning,Rehaan Chaudhuri,569482,Active
+226,EMP0226,Upma Puri,Male,1982-05-10,2016-10-17,2018-09-18,1.9,0-2 Years,Quality,Quality Inspector,Morning,Chaitanya More,1102605,Resigned
+227,EMP0227,Harinakshi Sidhu,Male,1967-10-09,2022-10-12,2024-08-01,1.8,0-2 Years,Management,Plant Manager,Morning,Shivani Raman,1068168,Resigned
+228,EMP0228,Megha Majumdar,Female,1997-02-20,2025-09-06,,0.9,0-2 Years,Production,Senior Operator,Evening,Forum Ghose,239413,Active
+229,EMP0229,Udarsh Dora,Male,1993-05-14,2018-01-23,2019-03-29,1.2,0-2 Years,Maintenance,Technician,Morning,Benjamin Cherian,1094492,Resigned
+230,EMP0230,Urvi Sagar,Male,1989-07-15,2018-12-22,,7.6,6-10 Years,Production,Production Supervisor,Night,Varsha Shan,757220,Active
+231,EMP0231,Tanvi Shanker,Male,1974-01-21,2017-09-13,2023-10-28,6.1,6-10 Years,Production,Senior Operator,Morning,Mohini Bail,436014,Resigned
+232,EMP0232,Hardik Srivastava,Male,2004-05-31,2025-12-19,2026-04-20,0.3,0-2 Years,Production,Senior Operator,Night,Azad Swaminathan,665412,Resigned
+233,EMP0233,Mason Saraf,Male,1986-01-02,2024-08-24,,1.9,0-2 Years,Warehouse,Store Keeper,Morning,Aryan Varma,329510,Inactive
+234,EMP0234,Hritik Agate,Female,1985-03-23,2025-06-02,,1.2,0-2 Years,Quality,QA Engineer,Night,Hemang Garde,604598,Active
+235,EMP0235,Manya Loyal,Female,1975-09-13,2025-04-03,,1.3,0-2 Years,Production,Operator,Morning,Bakhshi Tella,318826,Inactive
+236,EMP0236,Karan Pathak,Male,1998-01-17,2024-03-26,,2.3,3-5 Years,Production,Senior Operator,Evening,Veer Prabhakar,274085,Active
+237,EMP0237,Anirudh Bains,Female,1998-09-22,2025-08-04,,1.0,0-2 Years,Production,Senior Operator,Morning,Suhani Bassi,900323,Active
+238,EMP0238,Lakshit Jayaraman,Female,1978-04-17,2018-04-26,2021-02-05,2.8,3-5 Years,Production,Operator,Morning,Abdul Chaudhary,1127743,Resigned
+239,EMP0239,Arin Babu,Female,1971-11-19,2019-02-20,,7.4,6-10 Years,Production,Operator,Night,Chanchal Gaba,775783,Inactive
+240,EMP0240,Dhruv Rau,Female,1978-05-06,2026-04-14,,0.3,0-2 Years,Maintenance,Technician,Night,Robert Ahuja,436403,Active
+241,EMP0241,Hemang Cherian,Male,1994-07-14,2024-03-14,2024-10-20,0.6,0-2 Years,Sales,Sales Executive,Evening,Qasim Pradhan,242653,Resigned
+242,EMP0242,Krishna Chahal,Female,1994-06-24,2018-07-28,,8.0,6-10 Years,Production,Senior Operator,Evening,Chatura Narasimhan,1057748,Active
+243,EMP0243,Anvi Iyer,Male,1968-01-01,2018-09-10,,7.9,6-10 Years,Warehouse,Store Keeper,Night,Matthew Malhotra,358326,Active
+244,EMP0244,Wishi Dhawan,Male,1986-11-17,2021-12-06,,4.6,3-5 Years,Sales,Sales Executive,Morning,Mekhala Parekh,548569,Inactive
+245,EMP0245,Advik Kade,Male,1982-07-07,2016-08-30,,9.9,6-10 Years,Production,Operator,Night,Indrajit Madan,843475,Active
+246,EMP0246,Yauvani Naidu,Male,1988-10-13,2025-01-08,,1.6,0-2 Years,Production,Production Supervisor,Evening,Raksha Narain,727527,Active
+247,EMP0247,Gaurang Seshadri,Female,1980-07-29,2025-10-06,,0.8,0-2 Years,Sales,Sales Executive,Morning,Maanav Kulkarni,712746,Active
+248,EMP0248,Rajata Dutt,Male,1996-02-19,2019-11-30,,6.7,6-10 Years,Quality,QA Engineer,Morning,Advay Parsa,1017631,Inactive
+249,EMP0249,Ryan Solanki,Male,2001-04-04,2025-08-28,,0.9,0-2 Years,Quality,QA Engineer,Evening,Om Majumdar,1092326,Inactive
+250,EMP0250,Mohini Muni,Female,1971-07-23,2025-03-25,,1.3,0-2 Years,Production,Operator,Evening,Chameli Ranganathan,888186,Active
+251,EMP0251,Nandini Saini,Female,1972-01-19,2020-08-07,,6.0,6-10 Years,Warehouse,Warehouse Executive,Evening,Gaurangi Tata,606129,Inactive
+252,EMP0252,Chaaya Chander,Female,1997-05-06,2020-07-02,,6.1,6-10 Years,Sales,Sales Manager,Morning,Manya Nayar,457595,Active
+253,EMP0253,Naksh Lala,Male,1997-11-13,2019-03-04,,7.4,6-10 Years,Sales,Sales Executive,Morning,Adweta Edwin,423398,Inactive
+254,EMP0254,Rehaan Saha,Female,2002-02-10,2025-04-12,,1.3,0-2 Years,Production,Production Supervisor,Evening,Mugdha Chanda,709215,Active
+255,EMP0255,Anay Dara,Female,1973-11-05,2024-09-01,2025-10-13,1.1,0-2 Years,Production,Operator,Morning,Zaitra Ahuja,738258,Resigned
+256,EMP0256,Zehaan Dave,Female,1989-11-19,2022-03-17,,4.4,3-5 Years,Finance,Finance Executive,Evening,Anjali Mody,463192,Active
+257,EMP0257,Riya Sama,Male,1980-02-05,2022-02-10,,4.5,3-5 Years,Quality,Quality Inspector,Morning,Geetika Baria,1028464,Inactive
+258,EMP0258,Darika Wali,Male,2005-07-08,2021-11-27,,4.7,3-5 Years,Maintenance,Maintenance Engineer,Morning,Sachi Sahota,407313,Active
+259,EMP0259,Pavani Choudhary,Male,2005-03-31,2020-11-23,2024-09-24,3.8,3-5 Years,Production,Senior Operator,Evening,Fiyaz Chaudhuri,527099,Resigned
+260,EMP0260,Girish Krishnan,Male,1997-03-17,2016-11-06,2026-01-02,9.2,6-10 Years,Maintenance,Maintenance Engineer,Morning,Aarna Varkey,313617,Resigned
+261,EMP0261,Balveer Mishra,Female,1998-07-10,2024-10-06,,1.8,0-2 Years,Warehouse,Store Keeper,Night,Quincy Mahajan,356035,Inactive
+262,EMP0262,Harsh Mander,Male,1972-08-21,2019-12-27,,6.6,6-10 Years,Quality,Quality Inspector,Morning,Onveer Sem,725653,Inactive
+263,EMP0263,Atharv Wadhwa,Female,1998-12-12,2018-02-06,2021-11-08,3.8,3-5 Years,Sales,Sales Manager,Night,Yutika Baral,453682,Resigned
+264,EMP0264,Hiral Chhabra,Female,2003-06-01,2018-01-11,2019-06-22,1.4,0-2 Years,Sales,Sales Executive,Morning,Anvi Mangal,1146231,Resigned
+265,EMP0265,Jai Badal,Female,1997-09-02,2020-02-20,,6.4,6-10 Years,Production,Senior Operator,Morning,Ayush Bhatti,1147300,Active
+266,EMP0266,Liam Walla,Female,1979-04-07,2021-03-26,2025-09-13,4.5,3-5 Years,Maintenance,Technician,Morning,Krish Mutti,1106121,Resigned
+267,EMP0267,Veer Rai,Male,2005-02-21,2023-08-18,,3.0,3-5 Years,Maintenance,Technician,Night,Azad Dugar,1094094,Inactive
+268,EMP0268,Idika Dixit,Male,1976-05-02,2017-04-06,,9.3,6-10 Years,Finance,Accountant,Night,Siya Barad,818069,Active
+269,EMP0269,Daniel Rastogi,Male,1976-06-17,2021-02-24,,5.4,6-10 Years,HR,HR Manager,Evening,Hitesh More,650470,Active
+270,EMP0270,Baghyawati Krishnamurthy,Male,1967-08-25,2016-12-21,2023-01-20,6.1,6-10 Years,Finance,Finance Executive,Morning,Bakhshi Dara,1092857,Resigned
+271,EMP0271,Nathaniel Sha,Female,1989-10-30,2023-04-04,2025-08-10,2.4,3-5 Years,Maintenance,Technician,Morning,Varsha Sastry,1016639,Resigned
+272,EMP0272,Vidhi Ganesh,Male,1974-05-17,2021-08-23,,4.9,3-5 Years,Quality,Quality Inspector,Night,Ekantika Bansal,448187,Active
+273,EMP0273,Chanakya Khatri,Male,1993-10-09,2023-02-20,2023-07-19,0.4,0-2 Years,Production,Operator,Evening,Rayaan Pathak,722958,Resigned
+274,EMP0274,Jagat Mannan,Female,1982-07-30,2022-07-16,,4.0,3-5 Years,Maintenance,Maintenance Engineer,Evening,Manan Prabhakar,518519,Inactive
+275,EMP0275,Abdul Narain,Male,1994-04-02,2019-06-22,,7.1,6-10 Years,Warehouse,Warehouse Executive,Night,Mohini Kapadia,841947,Active
+276,EMP0276,Isaiah Sandhu,Male,2002-06-28,2025-09-07,,0.9,0-2 Years,Production,Operator,Morning,Jacob Raghavan,424669,Inactive
+277,EMP0277,Girindra Varty,Male,1999-06-25,2020-07-05,2022-06-18,2.0,0-2 Years,Production,Production Supervisor,Night,Qarin Naik,462378,Resigned
+278,EMP0278,Xavier Agrawal,Female,1990-10-20,2024-08-17,,2.0,0-2 Years,Sales,Sales Officer,Night,Omya Kibe,202945,Active
+279,EMP0279,Nachiket Joshi,Female,2000-11-18,2024-02-27,,2.4,3-5 Years,Sales,Sales Officer,Morning,Aradhana Divan,769737,Active
+280,EMP0280,Yug Patla,Male,1988-04-24,2017-01-22,,9.5,6-10 Years,Sales,Sales Manager,Night,Mitali Thaman,880107,Inactive
+281,EMP0281,Yash Bhakta,Female,1986-01-25,2024-10-04,,1.8,0-2 Years,Maintenance,Technician,Night,Ojas Bhatia,794628,Inactive
+282,EMP0282,Zarna Modi,Male,1995-10-01,2016-09-20,2024-04-23,7.6,6-10 Years,Quality,Quality Inspector,Evening,Umang Om,518264,Resigned
+283,EMP0283,Priya Shroff,Female,1968-03-21,2024-08-18,,1.9,0-2 Years,Sales,Sales Officer,Morning,Ojas Viswanathan,310582,Inactive
+284,EMP0284,Harini Murty,Male,2000-11-13,2017-05-27,,9.2,6-10 Years,Sales,Sales Manager,Evening,Thomas Nanda,861779,Active
+285,EMP0285,Krishna Rana,Male,1990-05-11,2017-05-31,,9.2,6-10 Years,Sales,Sales Officer,Evening,Chakradhar Maharaj,405020,Active
+286,EMP0286,Chatura Nadig,Male,1976-04-05,2018-05-20,,8.2,6-10 Years,Warehouse,Warehouse Executive,Morning,Urishilla Barad,202446,Inactive
+287,EMP0287,Jeevika Khurana,Male,1991-12-16,2018-08-26,,7.9,6-10 Years,Maintenance,Technician,Evening,Elijah Ramesh,871437,Inactive
+288,EMP0288,Meera Lalla,Male,1975-11-12,2020-08-30,,5.9,6-10 Years,Production,Operator,Night,Onveer Kumar,1102763,Inactive
+289,EMP0289,Siya Batra,Female,1990-05-01,2016-10-16,,9.8,6-10 Years,Production,Senior Operator,Evening,Chanakya Shankar,849143,Active
+290,EMP0290,Laban Rastogi,Male,1970-11-11,2016-08-14,2024-12-03,8.3,6-10 Years,Sales,Sales Manager,Morning,Janaki Bains,849900,Resigned
+291,EMP0291,Ubika Suresh,Female,1975-10-26,2019-06-19,,7.1,6-10 Years,Quality,QA Engineer,Morning,Avi Mahal,285701,Active
+292,EMP0292,Ishaan Solanki,Male,1975-06-18,2024-06-11,,2.1,3-5 Years,Production,Operator,Evening,Krishna Pillay,276754,Inactive
+293,EMP0293,Kala Tella,Female,1980-02-03,2023-05-30,2024-11-01,1.4,0-2 Years,Quality,QA Engineer,Morning,Siya Suresh,770618,Resigned
+294,EMP0294,Girish Suri,Female,1991-10-21,2019-12-16,,6.6,6-10 Years,Production,Senior Operator,Evening,Ishaan Pau,428093,Active
+295,EMP0295,Christopher Varkey,Female,1986-03-13,2018-02-15,,8.5,6-10 Years,Warehouse,Warehouse Executive,Evening,Janani Tandon,231278,Active
+296,EMP0296,Diya Barman,Female,1973-10-19,2024-02-27,,2.4,3-5 Years,HR,HR Executive,Morning,Oliver Johal,631735,Active
+297,EMP0297,Gagan Gade,Female,2003-10-20,2023-01-22,,3.5,3-5 Years,Quality,QA Engineer,Morning,Onveer Raghavan,1002688,Active
+298,EMP0298,Wishi Choudhry,Female,1990-08-21,2023-12-03,,2.7,3-5 Years,Production,Production Supervisor,Morning,Ijaya Dube,1176996,Inactive
+299,EMP0299,Vivaan Sant,Female,1998-11-14,2022-03-09,2025-09-27,3.6,3-5 Years,Warehouse,Store Keeper,Night,Deepa Memon,642868,Resigned
+300,EMP0300,Triveni Sane,Male,1979-10-12,2023-07-14,2026-02-10,2.6,3-5 Years,Sales,Sales Officer,Night,Harita Chana,658422,Resigned
+301,EMP0301,Samuel Kadakia,Female,1986-09-16,2024-03-23,,2.4,3-5 Years,Management,Plant Manager,Evening,Shravya Radhakrishnan,1142264,Inactive
+302,EMP0302,Tanmayi Dasgupta,Female,1982-09-23,2022-05-11,,4.2,3-5 Years,Maintenance,Technician,Night,Triya Dayal,777594,Active
+303,EMP0303,Unnati Hans,Female,1981-03-02,2024-12-24,2025-08-26,0.7,0-2 Years,Quality,Quality Inspector,Evening,Triveni Tiwari,675802,Resigned
+304,EMP0304,Jeevika Minhas,Male,1983-09-17,2022-09-26,,3.8,3-5 Years,Production,Senior Operator,Morning,Gayathri Vasa,342714,Inactive
+305,EMP0305,Sachi Dalal,Female,1967-10-07,2018-01-09,,8.6,6-10 Years,Quality,Quality Inspector,Night,Devansh Mangal,329558,Active
+306,EMP0306,Indrajit Anne,Female,1989-12-27,2017-09-18,,8.9,6-10 Years,Production,Production Supervisor,Evening,Veda Iyengar,354751,Active
+307,EMP0307,Vivaan Bal,Female,2004-11-11,2019-01-23,,7.5,6-10 Years,Production,Operator,Morning,Pranav Chaudhuri,1048410,Inactive
+308,EMP0308,Qabil Karan,Female,1976-08-16,2020-02-26,2025-12-07,5.8,6-10 Years,Production,Senior Operator,Night,Madhavi Rajan,1186172,Resigned
+309,EMP0309,Reva Reddy,Male,1994-02-14,2020-06-01,,6.2,6-10 Years,Maintenance,Maintenance Engineer,Morning,Vedika Chanda,655293,Inactive
+310,EMP0310,Xavier Kata,Male,1996-09-21,2026-02-02,,0.5,0-2 Years,Production,Operator,Night,Anay Trivedi,790887,Inactive
+311,EMP0311,George Banik,Male,1973-01-24,2018-06-21,,8.1,6-10 Years,Production,Operator,Morning,Viraj Aurora,842387,Inactive
+312,EMP0312,Balhaar Srinivasan,Female,1997-03-10,2022-06-22,,4.1,3-5 Years,Maintenance,Technician,Morning,Balvan Cherian,1185184,Active
+313,EMP0313,Samuel Kibe,Female,2001-08-30,2025-05-26,,1.2,0-2 Years,Production,Senior Operator,Evening,Unnati Luthra,804646,Active
+314,EMP0314,Maanav Dhar,Male,1972-01-21,2022-06-10,2023-09-10,1.3,0-2 Years,Production,Production Supervisor,Morning,Chameli Bawa,368665,Resigned
+315,EMP0315,Lajita Issac,Female,1981-04-28,2021-08-05,,5.0,3-5 Years,Sales,Sales Officer,Night,Abhiram Kapadia,394399,Inactive
+316,EMP0316,Yatin Doshi,Female,1982-06-18,2021-04-17,2022-08-15,1.3,0-2 Years,Warehouse,Warehouse Executive,Night,Victor Goda,378227,Resigned
+317,EMP0317,Bhavini Pillay,Female,1980-02-24,2019-06-06,,7.2,6-10 Years,Sales,Sales Manager,Night,Ridhi Chakrabarti,211491,Inactive
+318,EMP0318,Hemani Nayar,Male,2003-09-16,2023-07-16,2025-08-22,2.1,3-5 Years,Production,Operator,Night,Bachittar Koshy,404774,Resigned
+319,EMP0319,Dalaja Suresh,Male,1969-02-07,2026-05-17,,0.2,0-2 Years,Production,Operator,Evening,Jeet Doshi,611779,Active
+320,EMP0320,Eiravati Deol,Male,1998-11-23,2019-03-25,2023-12-10,4.7,3-5 Years,Sales,Sales Executive,Evening,Anika Shetty,793885,Resigned
+321,EMP0321,Diya Venkataraman,Female,1987-01-31,2023-05-03,,3.2,3-5 Years,Production,Operator,Evening,Ishani Dixit,1084299,Active
+322,EMP0322,Wazir Chadha,Male,1983-04-25,2022-01-01,,4.6,3-5 Years,Warehouse,Store Keeper,Morning,Girik Dave,1126794,Active
+323,EMP0323,Nidhi Naidu,Female,1976-04-25,2023-02-15,,3.5,3-5 Years,Sales,Sales Officer,Morning,Charita Datta,1152232,Inactive
+324,EMP0324,Upasna Hayer,Female,1980-05-08,2025-02-11,,1.5,0-2 Years,Maintenance,Maintenance Engineer,Night,Anusha Sodhi,695519,Active
+325,EMP0325,Caleb Dua,Female,1974-11-26,2022-07-18,,4.0,3-5 Years,Sales,Sales Executive,Evening,Urvi Wason,640442,Active
+326,EMP0326,Ikbal Anand,Female,1973-01-23,2019-11-30,,6.7,6-10 Years,Quality,QA Engineer,Evening,Radhika Balay,1163526,Active
+327,EMP0327,Champak Kari,Male,1999-11-22,2023-07-17,,3.0,3-5 Years,Sales,Sales Officer,Morning,William Deshmukh,427599,Active
+328,EMP0328,Kiaan Palla,Male,1984-05-30,2017-11-14,,8.7,6-10 Years,Production,Production Supervisor,Night,Kalpit Balay,1134029,Active
+329,EMP0329,Priya Sabharwal,Male,1985-11-14,2025-06-16,2025-09-07,0.2,0-2 Years,Quality,QA Engineer,Night,Faqid Biswas,1121634,Resigned
+330,EMP0330,Nisha Grover,Female,1993-06-06,2018-03-04,,8.4,6-10 Years,Sales,Sales Executive,Night,Nitesh Swamy,424317,Inactive
+331,EMP0331,Chanchal Iyer,Female,1982-02-14,2019-02-19,,7.4,6-10 Years,Finance,Accountant,Morning,Vasana Mittal,334328,Inactive
+332,EMP0332,Patrick Lalla,Female,1971-03-19,2024-07-14,,2.0,0-2 Years,Sales,Sales Executive,Evening,Abhimanyu Dada,1098366,Active
+333,EMP0333,Abha Mahajan,Female,1992-04-16,2017-06-14,2025-01-25,7.6,6-10 Years,Finance,Finance Executive,Night,Vasatika Rao,251977,Resigned
+334,EMP0334,Dominic Bhasin,Female,1969-04-21,2018-02-20,2019-11-22,1.8,0-2 Years,Quality,QA Engineer,Morning,Ekbal Cheema,511977,Resigned
+335,EMP0335,Nikita Raja,Female,1999-11-23,2018-06-01,,8.2,6-10 Years,Sales,Sales Officer,Evening,Janaki Ahluwalia,423422,Active
+336,EMP0336,Lajita Chandran,Female,1984-12-21,2019-08-17,,7.0,6-10 Years,Production,Production Supervisor,Night,Kala Bhatti,461246,Inactive
+337,EMP0337,Sanaya Chanda,Male,1976-02-18,2021-07-15,,5.0,3-5 Years,Production,Operator,Evening,Anvi Sahni,418445,Active
+338,EMP0338,Mohini Kala,Male,1978-05-19,2019-06-09,2025-03-15,5.8,6-10 Years,Quality,Quality Inspector,Night,Bakhshi Doctor,765021,Resigned
+339,EMP0339,Naksh Sarna,Male,1998-12-11,2019-11-14,,6.7,6-10 Years,Quality,Quality Inspector,Morning,Manbir Johal,1192679,Active
+340,EMP0340,Sanya Kota,Male,1987-03-02,2023-08-03,,3.0,3-5 Years,Quality,QA Engineer,Evening,Edhitha Taneja,274905,Inactive
+341,EMP0341,Bakhshi Batra,Male,1996-02-28,2017-05-01,,9.2,6-10 Years,Sales,Sales Officer,Night,Gayathri Korpal,1056165,Inactive
+342,EMP0342,Nirja Bassi,Male,1988-12-08,2020-03-28,,6.3,6-10 Years,Production,Operator,Evening,Eesha Bava,1019477,Active
+343,EMP0343,Brijesh Srivastava,Female,1985-11-25,2017-10-11,,8.8,6-10 Years,Production,Production Supervisor,Morning,Baljiwan Memon,819778,Inactive
+344,EMP0344,Bimala Bail,Male,1996-07-03,2023-05-25,2023-07-02,0.1,0-2 Years,Production,Production Supervisor,Evening,Karan Shankar,753182,Resigned
+345,EMP0345,Ladli Brar,Female,1973-05-10,2020-01-09,,6.6,6-10 Years,Production,Senior Operator,Morning,Aarush Raman,223283,Inactive
+346,EMP0346,Lekha Mukherjee,Female,1977-12-27,2016-11-22,,9.7,6-10 Years,Finance,Finance Executive,Night,Anirudh Dugar,718535,Active
+347,EMP0347,Urmi Sankar,Male,1999-10-10,2020-08-30,,5.9,6-10 Years,Sales,Sales Executive,Evening,Widisha Handa,787876,Active
+348,EMP0348,Yagnesh Borah,Male,2005-06-14,2017-02-12,,9.5,6-10 Years,Production,Operator,Morning,Kashish Das,1031231,Active
+349,EMP0349,Abha Rama,Male,1985-04-02,2019-12-17,2025-04-02,5.3,6-10 Years,Maintenance,Maintenance Engineer,Night,Jasmit Patel,901537,Resigned
+350,EMP0350,Zilmil Deshpande,Female,1991-03-04,2018-02-16,2024-10-18,6.7,6-10 Years,HR,HR Manager,Night,Ekaja Memon,993434,Resigned
+351,EMP0351,Arjun Krishnamurthy,Male,1980-09-02,2020-03-12,,6.4,6-10 Years,Quality,QA Engineer,Night,Faraj Narayanan,688567,Active
+352,EMP0352,Urmi Prabhakar,Female,2005-07-12,2019-04-15,,7.3,6-10 Years,Production,Senior Operator,Night,Banjeet Shere,781718,Inactive
+353,EMP0353,Jack Bora,Male,1989-10-28,2019-10-11,,6.8,6-10 Years,Production,Production Supervisor,Evening,Charan Babu,834058,Active
+354,EMP0354,Matthew Sachar,Female,1985-07-25,2023-03-22,2025-11-10,2.6,3-5 Years,Production,Production Supervisor,Night,Ishwar Ahuja,769744,Resigned
+355,EMP0355,Dhruv Yohannan,Female,1993-08-09,2022-09-12,,3.9,3-5 Years,Sales,Sales Manager,Evening,Jagvi Sathe,901377,Inactive
+356,EMP0356,Ekani Comar,Female,2001-12-22,2024-06-04,2025-11-19,1.5,0-2 Years,Quality,QA Engineer,Evening,Adya Keer,991465,Resigned
+357,EMP0357,Meghana Nazareth,Male,1999-10-30,2017-06-09,2021-10-16,4.4,3-5 Years,Maintenance,Maintenance Engineer,Morning,Yadavi Ahluwalia,1047041,Resigned
+358,EMP0358,Ranbir Pingle,Female,1968-09-09,2021-05-07,2025-01-23,3.7,3-5 Years,Production,Operator,Evening,Triya Kari,1031235,Resigned
+359,EMP0359,Timothy Shanker,Male,2004-01-05,2020-11-01,2022-06-27,1.7,0-2 Years,Quality,QA Engineer,Evening,Zarna Shanker,1110577,Resigned
+360,EMP0360,Faraj Tiwari,Female,1972-06-30,2019-11-26,,6.7,6-10 Years,Production,Senior Operator,Evening,Janya Biswas,563919,Inactive
+361,EMP0361,Jeet Bora,Male,1989-06-28,2021-05-22,2025-06-17,4.1,3-5 Years,Finance,Accountant,Morning,Jairaj Kibe,937575,Resigned
+362,EMP0362,Nathaniel Dyal,Male,2001-03-14,2024-04-10,,2.3,3-5 Years,Production,Senior Operator,Evening,Yashoda Banik,1124913,Active
+363,EMP0363,Kavya Viswanathan,Male,1976-05-02,2017-06-30,2022-07-31,5.1,6-10 Years,Production,Production Supervisor,Night,Dakshesh Bhavsar,667847,Resigned
+364,EMP0364,Shravya Chatterjee,Female,1995-09-10,2020-10-13,2023-06-28,2.7,3-5 Years,Production,Senior Operator,Night,Lakshit Chakraborty,428653,Resigned
+365,EMP0365,Frederick Sarkar,Male,1970-11-18,2019-12-03,,6.7,6-10 Years,Sales,Sales Executive,Night,Naveen Tailor,1018332,Active
+366,EMP0366,Vaishnavi Nori,Male,1973-11-28,2023-06-18,2025-01-29,1.6,0-2 Years,Sales,Sales Manager,Morning,Bhavini Mammen,804383,Resigned
+367,EMP0367,Maya Barad,Male,1981-03-08,2026-06-16,2026-07-25,0.1,0-2 Years,Production,Operator,Night,Samuel Lal,669090,Resigned
+368,EMP0368,Devika Sem,Female,1971-02-07,2017-12-18,,8.6,6-10 Years,Sales,Sales Manager,Evening,Daksha Talwar,636913,Active
+369,EMP0369,Krishna Parikh,Female,1967-11-22,2025-05-17,2025-07-01,0.1,0-2 Years,Production,Operator,Morning,Xavier Kuruvilla,1117715,Resigned
+370,EMP0370,Faraj Raman,Female,1990-01-15,2017-06-22,2018-10-25,1.3,0-2 Years,Sales,Sales Manager,Evening,Charvi Sandhu,911082,Resigned
+371,EMP0371,Eshana Swaminathan,Female,2002-09-04,2019-06-17,2021-04-08,1.8,0-2 Years,Warehouse,Store Keeper,Morning,Advika Chaudhary,638693,Resigned
+372,EMP0372,Shivansh Mannan,Male,1989-05-12,2025-09-16,,0.9,0-2 Years,Sales,Sales Manager,Evening,Gunbir Sagar,1150395,Active
+373,EMP0373,Anay Goswami,Female,1975-07-26,2025-03-27,2025-06-17,0.2,0-2 Years,Production,Senior Operator,Morning,Patrick Aggarwal,744264,Resigned
+374,EMP0374,Leela Thakkar,Female,2003-03-15,2022-01-14,,4.5,3-5 Years,Sales,Sales Executive,Morning,Harita Dora,1091399,Inactive
+375,EMP0375,Siya Ahuja,Male,1999-04-12,2021-01-18,2023-07-12,2.5,3-5 Years,Quality,QA Engineer,Night,Odika Sagar,999076,Resigned
+376,EMP0376,Veer Shetty,Male,1998-01-04,2016-09-05,2023-04-29,6.6,6-10 Years,Quality,Quality Inspector,Night,Champak Soni,687249,Resigned
+377,EMP0377,Naveen Som,Female,1969-10-29,2017-02-12,,9.5,6-10 Years,Production,Production Supervisor,Morning,Chaaya Sahota,896928,Active
+378,EMP0378,Aarush Dass,Male,2002-11-24,2017-10-30,2023-08-02,5.8,6-10 Years,Production,Operator,Evening,Lohit Rajagopalan,265194,Resigned
+379,EMP0379,Arunima Banerjee,Male,1972-08-07,2025-12-14,,0.6,0-2 Years,Sales,Sales Officer,Evening,Omkaar Mane,334383,Active
+380,EMP0380,Zayan Kara,Female,2004-04-02,2020-12-24,2023-08-30,2.7,3-5 Years,Production,Operator,Night,Aryan Hegde,786598,Resigned
+381,EMP0381,Irya Sridhar,Female,1999-03-31,2024-01-30,,2.5,3-5 Years,Finance,Accountant,Night,Mitesh Som,998347,Active
+382,EMP0382,Yagnesh Srivastava,Male,1981-12-19,2025-08-22,2026-06-16,0.8,0-2 Years,Quality,QA Engineer,Evening,Robert Nadkarni,298723,Resigned
+383,EMP0383,Sanya Basak,Female,1971-08-15,2020-10-07,2024-02-02,3.3,3-5 Years,Management,Plant Manager,Night,Yoshita Ganguly,901179,Resigned
+384,EMP0384,Charvi Jain,Female,1994-06-03,2025-08-24,2025-10-17,0.1,0-2 Years,Quality,QA Engineer,Night,Varsha Sen,550841,Resigned
+385,EMP0385,Ucchal Agarwal,Female,1975-01-15,2022-06-19,2025-08-19,3.2,3-5 Years,Maintenance,Maintenance Engineer,Night,Bachittar Raman,959347,Resigned
+386,EMP0386,Janani Bains,Female,1978-05-09,2026-01-07,2026-05-18,0.4,0-2 Years,Sales,Sales Manager,Evening,Maya Varughese,846787,Resigned
+387,EMP0387,Zashil Chokshi,Male,1980-03-02,2017-01-03,,9.6,6-10 Years,Production,Senior Operator,Evening,Victor Karpe,540887,Inactive
+388,EMP0388,Samuel Sampath,Male,1982-02-27,2018-12-07,,7.6,6-10 Years,Quality,QA Engineer,Morning,Arya Zacharia,935518,Inactive
+389,EMP0389,Dayita Mahal,Female,1988-10-25,2024-02-16,2025-09-18,1.6,0-2 Years,Maintenance,Maintenance Engineer,Night,Chandani Sani,629021,Resigned
+390,EMP0390,Ekavir Bhargava,Male,1996-09-23,2025-10-01,,0.8,0-2 Years,Finance,Finance Executive,Evening,Arya Arora,651351,Inactive
+391,EMP0391,Tanish Lalla,Male,1998-06-12,2017-03-23,,9.4,6-10 Years,Maintenance,Maintenance Engineer,Morning,Nathaniel Misra,559846,Active
+392,EMP0392,Christopher Wable,Female,1981-08-09,2018-03-23,2022-12-26,4.8,3-5 Years,Maintenance,Maintenance Engineer,Night,Ranbir Doctor,640377,Resigned
+393,EMP0393,Theodore Dave,Female,1968-09-13,2019-12-14,,6.6,6-10 Years,Production,Operator,Evening,Anay Kannan,823884,Active
+394,EMP0394,Ethan Sama,Female,2000-02-12,2024-05-21,,2.2,3-5 Years,Sales,Sales Executive,Morning,Diya Andra,572432,Active
+395,EMP0395,Gabriel Cheema,Male,2004-02-07,2022-06-29,2024-10-16,2.3,3-5 Years,Warehouse,Warehouse Executive,Evening,Amara Ratta,1154034,Resigned
+396,EMP0396,Michael Ghose,Female,1998-12-31,2017-07-20,,9.0,6-10 Years,Maintenance,Technician,Evening,Samuel Bhatia,784619,Active
+397,EMP0397,Simon Kuruvilla,Male,1974-07-15,2024-09-19,,1.9,0-2 Years,Sales,Sales Officer,Evening,Aarnav Barman,1038557,Active
+398,EMP0398,Bakhshi Pathak,Male,2005-05-23,2020-09-04,,5.9,6-10 Years,Maintenance,Maintenance Engineer,Night,Nidra Sandal,1005721,Inactive
+399,EMP0399,Mohini Narain,Female,1984-10-29,2023-12-21,2024-04-12,0.3,0-2 Years,Warehouse,Warehouse Executive,Morning,Guneet Palan,502150,Resigned
+400,EMP0400,Lila Deep,Female,2002-03-25,2020-12-08,2024-02-17,3.2,3-5 Years,HR,HR Manager,Evening,Jeevika Borde,996984,Resigned
+401,EMP0401,Tanvi Bail,Male,2004-11-22,2019-02-09,,7.5,6-10 Years,Maintenance,Technician,Morning,Kiaan Kale,368592,Inactive
+402,EMP0402,Mugdha Parikh,Male,1992-05-10,2021-10-09,2025-08-11,3.8,3-5 Years,Quality,QA Engineer,Evening,Benjamin Kamdar,565376,Resigned
+403,EMP0403,Harinakshi Ray,Male,1972-12-16,2020-09-19,2022-07-22,1.8,0-2 Years,Production,Production Supervisor,Morning,Dalaja Chatterjee,252864,Resigned
+404,EMP0404,Dayita Edwin,Male,1988-10-25,2023-06-16,,3.1,3-5 Years,Production,Operator,Morning,Balvan Biswas,905739,Active
+405,EMP0405,Chanchal Dara,Male,2000-08-29,2019-12-04,,6.7,6-10 Years,Production,Production Supervisor,Night,Leena Behl,678280,Inactive
+406,EMP0406,Zayyan Jha,Male,1999-10-03,2026-06-06,,0.2,0-2 Years,Maintenance,Maintenance Engineer,Night,Bahadurjit Bhavsar,526078,Inactive
+407,EMP0407,Elijah Setty,Female,1975-10-25,2023-01-20,2025-03-18,2.2,3-5 Years,Finance,Finance Executive,Evening,Faraj Kadakia,389738,Resigned
+408,EMP0408,Mitali Kale,Male,1967-09-18,2020-10-23,2021-01-25,0.3,0-2 Years,Production,Operator,Night,Tanish Dhawan,220685,Resigned
+409,EMP0409,Chasmum Kara,Female,2004-07-15,2021-10-11,,4.8,3-5 Years,Maintenance,Maintenance Engineer,Night,Sanaya Loyal,709974,Inactive
+410,EMP0410,Sachi Bhasin,Female,1999-10-05,2022-02-21,,4.4,3-5 Years,Production,Operator,Night,Ikshita Agarwal,467330,Active
+411,EMP0411,Geetika Narasimhan,Female,1999-01-24,2021-03-11,2023-02-12,1.9,0-2 Years,Sales,Sales Executive,Morning,Balendra Hora,1157080,Resigned
+412,EMP0412,Sai Sen,Male,1980-01-25,2019-05-01,2022-07-17,3.2,3-5 Years,Production,Senior Operator,Evening,Ekanta Butala,396766,Resigned
+413,EMP0413,Garima Vyas,Male,1993-09-02,2024-10-28,,1.8,0-2 Years,Production,Operator,Night,Falguni Hayer,378792,Inactive
+414,EMP0414,Dayita Lata,Male,2003-07-05,2025-09-21,2026-07-27,0.8,0-2 Years,Maintenance,Technician,Evening,Champak Sama,1065238,Resigned
+415,EMP0415,Amaira Buch,Male,1993-11-08,2023-10-08,,2.8,3-5 Years,HR,HR Executive,Night,Brijesh Madan,571017,Active
+416,EMP0416,Qasim Handa,Female,1968-06-28,2020-11-14,,5.7,6-10 Years,Quality,QA Engineer,Morning,Orinder Karnik,439435,Active
+417,EMP0417,Adweta Memon,Female,1974-07-12,2018-04-29,2020-02-28,1.8,0-2 Years,Production,Senior Operator,Evening,Tanish Gupta,628809,Resigned
+418,EMP0418,Pallavi Sachar,Male,1981-03-10,2019-01-25,,7.5,6-10 Years,Sales,Sales Officer,Evening,Qasim Dalal,937831,Inactive
+419,EMP0419,Ayaan Lala,Female,1967-09-28,2021-11-13,,4.7,3-5 Years,Warehouse,Store Keeper,Night,Baljiwan Kamdar,427739,Inactive
+420,EMP0420,Madhavi D’Alia,Female,2003-02-25,2023-07-08,,3.1,3-5 Years,Finance,Accountant,Night,Amruta Samra,814895,Inactive
+421,EMP0421,Madhav Aggarwal,Male,2001-01-15,2022-06-20,,4.1,3-5 Years,Production,Senior Operator,Night,Guneet Parmar,353186,Inactive
+422,EMP0422,Oscar Radhakrishnan,Male,1995-07-03,2024-01-16,2024-10-20,0.8,0-2 Years,Production,Operator,Evening,Dalaja Thakur,305329,Resigned
+423,EMP0423,Charles Soni,Female,1983-01-24,2020-10-07,,5.8,6-10 Years,Quality,QA Engineer,Night,Pranit Nagy,429997,Active
+424,EMP0424,Nachiket Bedi,Male,1981-02-03,2023-01-05,,3.6,3-5 Years,Maintenance,Maintenance Engineer,Evening,Saumya Hora,549182,Active
+425,EMP0425,Aarini Om,Female,1989-07-25,2025-11-26,2026-03-25,0.3,0-2 Years,Production,Production Supervisor,Night,Guneet Devan,245178,Resigned
+426,EMP0426,Bhanumati Lala,Male,2004-07-16,2018-01-07,,8.6,6-10 Years,Finance,Accountant,Morning,Bachittar Maharaj,803100,Active
+427,EMP0427,Hemal Banerjee,Male,1970-05-27,2016-08-18,,9.9,6-10 Years,Quality,Quality Inspector,Evening,Ishaan Ram,446987,Inactive
+428,EMP0428,Pranit Mane,Female,1970-07-08,2023-01-06,,3.6,3-5 Years,Production,Production Supervisor,Morning,Lajita Iyer,792947,Active
+429,EMP0429,Jonathan Kothari,Male,2000-05-24,2017-04-30,,9.3,6-10 Years,Production,Operator,Morning,Zashil Deo,1054613,Active
+430,EMP0430,Sanya Chandra,Male,1988-05-05,2019-01-31,2026-07-12,7.4,6-10 Years,Sales,Sales Executive,Night,Brijesh Shere,647841,Resigned
+431,EMP0431,Aarini Merchant,Male,1987-12-21,2021-10-26,,4.8,3-5 Years,Production,Senior Operator,Morning,Vanya Ganesan,223258,Active
+432,EMP0432,Reyansh Kapadia,Male,1982-01-15,2019-07-27,,7.0,6-10 Years,Maintenance,Maintenance Engineer,Evening,Atharv Wali,657531,Inactive
+433,EMP0433,Warjas Jaggi,Male,1971-09-06,2021-04-30,,5.3,6-10 Years,Warehouse,Store Keeper,Night,Dayamai Talwar,1118328,Inactive
+434,EMP0434,Vidhi Dey,Female,1987-10-23,2020-06-07,2025-09-10,5.3,6-10 Years,Production,Senior Operator,Night,Yashoda Dhar,1037504,Resigned
+435,EMP0435,Dayita Gara,Female,1987-08-28,2020-12-07,,5.6,6-10 Years,Production,Senior Operator,Morning,Tanish Batta,788414,Active
+436,EMP0436,Anthony Jaggi,Male,2004-06-12,2021-11-09,,4.7,3-5 Years,Production,Production Supervisor,Morning,Dhruv Verma,978693,Inactive
+437,EMP0437,Krish Sami,Female,1984-08-01,2023-03-06,2023-05-17,0.2,0-2 Years,Production,Senior Operator,Evening,Arya Khatri,672958,Resigned
+438,EMP0438,Timothy Kapadia,Male,1992-09-01,2023-09-18,,2.9,3-5 Years,Sales,Sales Executive,Evening,Raagini Sur,513122,Inactive
+439,EMP0439,Chakradhar Chakraborty,Male,1969-11-04,2020-07-20,,6.0,6-10 Years,Production,Production Supervisor,Night,Zarna Kakar,1003967,Active
+440,EMP0440,Lakshit Ganesh,Male,1968-05-12,2019-04-13,,7.3,6-10 Years,Production,Senior Operator,Morning,Jhalak Narasimhan,711382,Inactive
+441,EMP0441,Nisha Patla,Female,1998-04-19,2019-01-27,,7.5,6-10 Years,Warehouse,Warehouse Executive,Evening,Maanav Manda,1145941,Inactive
+442,EMP0442,Atharv Sarma,Male,1973-07-24,2022-12-05,,3.7,3-5 Years,Finance,Accountant,Morning,Abha Tiwari,743044,Inactive
+443,EMP0443,Gavin Chandran,Female,2005-01-30,2016-08-21,,9.9,6-10 Years,Finance,Accountant,Night,Ucchal Saraf,853163,Inactive
+444,EMP0444,Mohammed Halder,Female,1983-05-11,2019-05-22,2021-02-17,1.7,0-2 Years,Production,Senior Operator,Night,Ladli Sharaf,724975,Resigned
+445,EMP0445,Sai Sarma,Female,2005-03-28,2023-10-29,,2.8,3-5 Years,Sales,Sales Officer,Night,Samuel Dixit,1009077,Active
+446,EMP0446,Arin Date,Female,1978-01-25,2019-02-13,,7.5,6-10 Years,Production,Senior Operator,Night,Upma Nagi,719103,Active
+447,EMP0447,Liam Malhotra,Female,2002-07-18,2022-01-15,,4.5,3-5 Years,Maintenance,Technician,Night,Charles Ram,1116406,Active
+448,EMP0448,Faris Raman,Male,1979-04-15,2025-11-10,2026-06-20,0.6,0-2 Years,Production,Operator,Night,Ria Naik,1194989,Resigned
+449,EMP0449,Nihal Toor,Female,1983-02-27,2018-02-28,,8.4,6-10 Years,HR,HR Executive,Evening,Aashi Kant,723641,Active
+450,EMP0450,Mohammed Bal,Male,1972-12-17,2020-08-22,,5.9,6-10 Years,Production,Operator,Evening,Shaurya Natt,735869,Inactive
+451,EMP0451,Gautam Dhar,Male,1974-02-26,2020-09-19,2021-02-19,0.4,0-2 Years,Maintenance,Technician,Night,Yatan Bhakta,1016677,Resigned
+452,EMP0452,Triya Kata,Female,1997-10-10,2017-02-17,2025-03-25,8.1,6-10 Years,Production,Operator,Evening,Andrew Doshi,948773,Resigned
+453,EMP0453,Ekapad Dada,Male,1996-09-13,2025-09-27,2026-01-13,0.3,0-2 Years,Sales,Sales Executive,Evening,Yagnesh Bhagat,872236,Resigned
+454,EMP0454,Anita Sinha,Female,1978-09-26,2024-08-16,,2.0,0-2 Years,Maintenance,Maintenance Engineer,Evening,William Luthra,1073098,Inactive
+455,EMP0455,Abhimanyu Edwin,Female,1971-12-01,2020-09-27,,5.8,6-10 Years,Sales,Sales Executive,Evening,Brinda Varma,411724,Inactive
+456,EMP0456,Chaitaly Garde,Female,1986-09-17,2025-03-19,,1.4,0-2 Years,Production,Senior Operator,Evening,Amara Palla,1057585,Active
+457,EMP0457,Manan Sama,Male,1982-11-02,2025-09-28,,0.8,0-2 Years,Sales,Sales Manager,Night,Megha Som,837486,Active
+458,EMP0458,Karan Joshi,Male,1984-03-16,2022-02-01,2026-03-21,4.1,3-5 Years,Production,Senior Operator,Night,Quincy Jayaraman,944664,Resigned
+459,EMP0459,Zaid Shroff,Male,1994-05-16,2020-11-02,,5.7,6-10 Years,Production,Production Supervisor,Morning,Zayan Dara,338574,Active
+460,EMP0460,Amol Kunda,Male,1980-01-04,2017-05-23,,9.2,6-10 Years,Quality,Quality Inspector,Evening,Vansha Ramanathan,275739,Inactive
+461,EMP0461,Rushil Seshadri,Female,1970-06-28,2025-04-10,,1.3,0-2 Years,HR,HR Executive,Night,Siya Banerjee,1169743,Inactive
+462,EMP0462,Joshua Loyal,Male,1998-02-03,2022-08-08,,4.0,3-5 Years,Production,Production Supervisor,Night,Tamanna Kari,692879,Inactive
+463,EMP0463,Bhavani Devan,Male,1977-12-31,2018-07-06,,8.1,6-10 Years,Production,Production Supervisor,Night,Bhavya Chandra,781720,Inactive
+464,EMP0464,Frado Dewan,Female,1996-11-13,2017-09-06,,8.9,6-10 Years,Production,Operator,Morning,Saksham Choudhary,1082082,Active
+465,EMP0465,Warinder Pathak,Female,1980-08-25,2025-05-12,,1.2,0-2 Years,HR,HR Executive,Evening,Ria Rout,292092,Active
+466,EMP0466,Anya Kata,Female,1980-10-19,2024-12-27,,1.6,0-2 Years,Production,Senior Operator,Night,Jason Ghose,595488,Active
+467,EMP0467,Yashodhara Krish,Female,2000-08-04,2016-11-25,,9.7,6-10 Years,Sales,Sales Manager,Night,Rishi Radhakrishnan,1153919,Inactive
+468,EMP0468,Indira Mahal,Male,1979-04-04,2016-08-10,,10.0,6-10 Years,Maintenance,Maintenance Engineer,Morning,Kamya Sule,804077,Active
+469,EMP0469,Aadhya Ravel,Female,2004-12-23,2022-12-02,,3.7,3-5 Years,Production,Production Supervisor,Evening,Azaan Babu,534758,Active
+470,EMP0470,Brijesh Sawhney,Male,1987-11-21,2020-01-14,,6.5,6-10 Years,Quality,QA Engineer,Evening,Yagnesh Dugal,1198110,Inactive
+471,EMP0471,Zaid Choudhury,Male,1974-10-29,2024-11-27,,1.7,0-2 Years,Production,Operator,Morning,Caleb Jha,1144247,Inactive
+472,EMP0472,Turvi Baral,Male,1970-09-09,2026-03-27,,0.3,0-2 Years,Production,Operator,Night,Agastya Swamy,246519,Inactive
+473,EMP0473,Bachittar Raval,Male,2004-08-07,2018-01-15,,8.5,6-10 Years,Production,Senior Operator,Night,Nidra Karnik,1062698,Active
+474,EMP0474,Yamini Bhardwaj,Male,1989-09-03,2021-10-03,2023-03-25,1.5,0-2 Years,Warehouse,Warehouse Executive,Morning,Abdul Gola,739964,Resigned
+475,EMP0475,Rishi Sekhon,Female,1999-02-04,2024-07-25,,2.0,0-2 Years,Production,Operator,Evening,Manthan Bawa,854270,Inactive
+476,EMP0476,Atharv Shan,Male,1993-09-15,2019-11-25,2022-11-06,2.9,3-5 Years,Quality,QA Engineer,Evening,Netra Nagarajan,245430,Resigned
+477,EMP0477,Chakrika Rao,Male,1985-04-06,2018-10-11,,7.8,6-10 Years,Production,Operator,Evening,Wahab Vig,438168,Inactive
+478,EMP0478,Janani Garg,Male,1988-01-10,2024-07-19,2025-12-02,1.4,0-2 Years,Quality,Quality Inspector,Night,Krishna Krishna,828463,Resigned
+479,EMP0479,Theodore Bath,Female,1985-06-02,2024-01-22,2024-06-12,0.4,0-2 Years,HR,HR Executive,Evening,Yashoda Kadakia,1107251,Resigned
+480,EMP0480,Pushti Misra,Female,1988-05-25,2019-06-04,2023-06-12,4.0,3-5 Years,Warehouse,Warehouse Executive,Morning,Chakrika Dugal,386743,Resigned
+481,EMP0481,Eiravati Rege,Female,1983-12-14,2024-03-10,,2.4,3-5 Years,Sales,Sales Manager,Night,Tripti Mistry,253707,Active
+482,EMP0482,Vrinda Maharaj,Male,1986-04-09,2017-07-04,2022-02-16,4.6,3-5 Years,Maintenance,Technician,Night,Jagat Shankar,348703,Resigned
+483,EMP0483,Ekavir Dugar,Female,1969-12-04,2023-04-20,2025-11-21,2.6,3-5 Years,Finance,Finance Executive,Evening,Brijesh Bahl,244762,Resigned
+484,EMP0484,Jai Gera,Male,1978-07-26,2020-11-20,,5.7,6-10 Years,Maintenance,Maintenance Engineer,Evening,Rachit Subramaniam,956120,Inactive
+485,EMP0485,William Raman,Female,1990-11-10,2022-07-24,2026-07-26,4.0,3-5 Years,Production,Senior Operator,Night,Lajita Prabhakar,1032650,Resigned
+486,EMP0486,Mahika Kurian,Male,1978-03-20,2018-02-28,,8.4,6-10 Years,Production,Production Supervisor,Night,Harinakshi Mallick,769606,Active
+487,EMP0487,Januja Parmar,Female,1970-05-01,2018-07-03,,8.1,6-10 Years,Sales,Sales Officer,Evening,Mitali Pradhan,605516,Active
+488,EMP0488,Aachal Pandit,Female,1997-07-06,2024-12-16,,1.6,0-2 Years,Sales,Sales Officer,Morning,Jairaj Majumdar,209114,Active
+489,EMP0489,Raksha Khalsa,Male,1996-12-28,2021-08-03,,5.0,3-5 Years,Maintenance,Technician,Morning,Pranit Mander,473323,Active
+490,EMP0490,Neel Soman,Male,1981-11-05,2023-09-18,2025-08-24,1.9,0-2 Years,Production,Operator,Morning,Gabriel Rajan,1052944,Resigned
+491,EMP0491,Upma Karnik,Female,1993-08-22,2022-12-27,,3.6,3-5 Years,Production,Production Supervisor,Morning,Wishi Ganesh,707323,Active
+492,EMP0492,Qarin Brar,Female,1990-03-16,2023-05-13,,3.2,3-5 Years,Sales,Sales Officer,Morning,Ridhi Bobal,570432,Active
+493,EMP0493,Upma Venkataraman,Male,2005-03-24,2016-12-08,,9.6,6-10 Years,Maintenance,Technician,Morning,Ekapad Jhaveri,595899,Inactive
+494,EMP0494,Omaja Sahni,Male,1998-09-28,2022-05-06,,4.2,3-5 Years,Production,Operator,Morning,Ansh Choudhury,755287,Active
+495,EMP0495,Gaurang Das,Male,1983-04-20,2021-12-21,,4.6,3-5 Years,Warehouse,Store Keeper,Morning,Manbir Srinivasan,1144490,Inactive
+496,EMP0496,Christopher Merchant,Female,1989-02-09,2025-02-05,,1.5,0-2 Years,Production,Senior Operator,Morning,Nakul Chhabra,880062,Active
+497,EMP0497,Vinaya Kakar,Female,1992-08-06,2022-08-11,,4.0,3-5 Years,Sales,Sales Officer,Morning,Maya Dass,880083,Active
+498,EMP0498,Jagrati Dara,Male,1978-11-28,2022-03-29,2024-01-24,1.8,0-2 Years,Warehouse,Warehouse Executive,Morning,Joshua Bala,342984,Resigned
+499,EMP0499,Mohini Rout,Female,1979-05-29,2026-07-20,,0.0,0-2 Years,Production,Operator,Night,Neelima Kapoor,184064,Active
+500,EMP0500,Lucky Gara,Female,1987-06-19,2016-10-23,2020-10-30,4.0,3-5 Years,Production,Operator,Night,Saumya Tata,756493,Resigned
+501,EMP0501,Zayan Dua,Female,1990-07-28,2023-04-15,,3.3,3-5 Years,Sales,Sales Officer,Night,Ryan Salvi,1143833,Inactive
+502,EMP0502,Prisha Karan,Male,1992-11-16,2025-09-03,,0.9,0-2 Years,Sales,Sales Manager,Night,Wakeeta Purohit,751603,Active
+503,EMP0503,Champak Dani,Male,1996-11-01,2026-05-25,,0.2,0-2 Years,Finance,Finance Executive,Night,Owen Chakraborty,530342,Active
+504,EMP0504,Yachana Lala,Male,1977-03-09,2017-10-23,,8.8,6-10 Years,Sales,Sales Executive,Night,Lila Ben,621893,Active
+505,EMP0505,Zehaan Sachar,Male,1987-03-05,2018-06-07,2021-11-19,3.5,3-5 Years,Warehouse,Warehouse Executive,Evening,Jonathan Bhatnagar,183167,Resigned
+506,EMP0506,Henry Sahni,Female,2001-09-20,2017-04-03,2024-11-10,7.6,6-10 Years,Production,Senior Operator,Night,Naveen Virk,1048425,Resigned
+507,EMP0507,Dev Sidhu,Female,1992-08-04,2016-09-11,2019-12-05,3.2,3-5 Years,Maintenance,Technician,Night,Girindra Sethi,182662,Resigned
+508,EMP0508,Aarush Saini,Male,2002-08-13,2026-07-07,,0.1,0-2 Years,Sales,Sales Officer,Evening,Finn Char,414514,Inactive
+509,EMP0509,Adya Balakrishnan,Male,1972-02-09,2018-08-22,,7.9,6-10 Years,Sales,Sales Executive,Morning,Radha Merchant,189769,Inactive
+510,EMP0510,Xalak Sabharwal,Female,2000-07-11,2018-11-28,,7.7,6-10 Years,Production,Production Supervisor,Night,Advaith Pillay,593132,Active
+511,EMP0511,Jagrati Sengupta,Male,1984-04-12,2020-01-04,,6.6,6-10 Years,Production,Senior Operator,Morning,Zaid Borah,698848,Active
+512,EMP0512,Daniel Mangal,Female,1996-04-17,2020-03-16,,6.4,6-10 Years,Production,Senior Operator,Morning,Aachal De,227047,Inactive
+513,EMP0513,Theodore Venkataraman,Female,1997-09-11,2023-06-07,,3.1,3-5 Years,HR,HR Manager,Evening,Bachittar Srinivasan,336939,Inactive
+514,EMP0514,Netra Bhandari,Female,1983-09-21,2024-04-08,,2.3,3-5 Years,Production,Senior Operator,Night,Benjamin Kulkarni,585516,Active
+515,EMP0515,Amol Issac,Male,1975-09-04,2019-10-21,2021-01-01,1.2,0-2 Years,Sales,Sales Executive,Morning,Indira Thakur,1181402,Resigned
+516,EMP0516,Ekaraj Keer,Female,2000-06-29,2018-06-11,,8.1,6-10 Years,Production,Senior Operator,Evening,Chatresh Dey,1199348,Inactive
+517,EMP0517,Gautami Garde,Female,1980-05-04,2020-07-28,,6.0,6-10 Years,Production,Senior Operator,Night,Chaitaly Acharya,542998,Inactive
+518,EMP0518,Advik Shere,Male,2001-03-07,2026-05-03,2026-06-22,0.1,0-2 Years,Production,Operator,Morning,George Seshadri,386705,Resigned
+519,EMP0519,Chatresh Mani,Male,2000-03-10,2020-02-12,,6.5,6-10 Years,Sales,Sales Manager,Night,Dakshesh Merchant,672787,Active
+520,EMP0520,Tanay Gara,Male,1971-03-15,2018-11-14,,7.7,6-10 Years,Quality,Quality Inspector,Night,Brijesh Hegde,849878,Active
+521,EMP0521,Nicholas Jain,Male,1969-01-04,2022-02-12,,4.5,3-5 Years,Production,Operator,Evening,Varenya Khanna,509685,Active
+522,EMP0522,Christopher Sura,Male,1989-08-10,2017-11-17,2018-02-26,0.3,0-2 Years,Quality,Quality Inspector,Morning,Udant Ganguly,909708,Resigned
+523,EMP0523,Advika Gokhale,Male,1978-12-10,2016-12-10,2018-01-14,1.1,0-2 Years,Production,Production Supervisor,Morning,Neha Patla,988819,Resigned
+524,EMP0524,Bhavini Anand,Female,1976-07-10,2020-02-08,,6.5,6-10 Years,Warehouse,Warehouse Executive,Night,Bhavya Sarkar,410554,Active
+525,EMP0525,Falak Ghose,Female,1968-11-12,2024-01-07,,2.6,3-5 Years,Production,Senior Operator,Morning,Urmi Rajagopal,251900,Inactive
+526,EMP0526,Guneet Biswas,Male,1993-10-03,2018-03-20,2019-01-16,0.8,0-2 Years,Quality,Quality Inspector,Evening,Chandresh Munshi,653510,Resigned
+527,EMP0527,Rachana Sane,Male,1971-10-20,2019-07-12,2024-12-27,5.5,6-10 Years,Maintenance,Maintenance Engineer,Night,Vyanjana Shroff,526593,Resigned
+528,EMP0528,Radha Sura,Female,1978-06-17,2018-08-18,2024-05-24,5.8,6-10 Years,Quality,QA Engineer,Night,Darika Ahluwalia,851878,Resigned
+529,EMP0529,Ridhi Nayar,Female,1997-06-26,2026-01-22,,0.5,0-2 Years,Maintenance,Technician,Night,Teerth Chadha,925730,Active
+530,EMP0530,Jonathan Bath,Male,1981-10-15,2022-03-31,,4.3,3-5 Years,Quality,Quality Inspector,Morning,Om Char,563015,Active
+531,EMP0531,Harrison Pathak,Female,1969-02-01,2022-09-29,,3.8,3-5 Years,Production,Production Supervisor,Evening,Dayita Doshi,924732,Active
+532,EMP0532,Mitesh Tripathi,Male,1982-11-04,2019-02-22,2024-05-08,5.2,6-10 Years,Sales,Sales Officer,Morning,Imaran Sathe,841820,Resigned
+533,EMP0533,Isha Pall,Male,1995-12-13,2018-08-27,,7.9,6-10 Years,Production,Operator,Evening,Jeet Kaur,1050109,Active
+534,EMP0534,Karan Khurana,Female,1995-02-21,2022-11-24,,3.7,3-5 Years,Warehouse,Store Keeper,Evening,Lila Edwin,391632,Inactive
+535,EMP0535,Adweta Sahni,Female,1981-09-11,2023-11-22,,2.7,3-5 Years,Management,Plant Manager,Morning,Ria Bakshi,248288,Active
+536,EMP0536,Urvashi Johal,Male,1971-04-01,2021-12-17,,4.6,3-5 Years,Production,Senior Operator,Night,Yashodhara Rout,232567,Active
+537,EMP0537,Fariq Mann,Male,1971-07-08,2021-05-24,,5.2,6-10 Years,Production,Production Supervisor,Morning,Nathaniel Nanda,244200,Active
+538,EMP0538,Bhavya Natt,Male,1976-01-11,2021-05-05,2023-10-22,2.5,3-5 Years,Production,Operator,Evening,Neel Khare,193047,Resigned
+539,EMP0539,Priya Deep,Male,1977-02-04,2023-06-06,2025-09-17,2.3,3-5 Years,Production,Production Supervisor,Morning,Pallavi Dhingra,579365,Resigned
+540,EMP0540,Anmol Ghosh,Female,1993-11-24,2022-01-02,2022-10-23,0.8,0-2 Years,Production,Operator,Night,Eshana Banerjee,758085,Resigned
+541,EMP0541,Matthew Menon,Female,1978-12-30,2018-12-20,,7.6,6-10 Years,Production,Production Supervisor,Night,Jonathan Buch,250075,Active
+542,EMP0542,Gayathri Mani,Male,2001-11-13,2017-09-05,2025-09-14,8.0,6-10 Years,Production,Production Supervisor,Evening,Riya Gill,411603,Resigned
+543,EMP0543,Abha Toor,Female,1973-11-22,2022-01-16,2024-05-10,2.3,3-5 Years,Production,Senior Operator,Evening,Ekavir Patla,456739,Resigned
+544,EMP0544,Naksh Prabhakar,Female,1983-06-09,2016-09-04,2025-12-21,9.3,6-10 Years,Quality,Quality Inspector,Evening,Wakeeta Chand,1051647,Resigned
+545,EMP0545,Hema Krishna,Female,1978-10-30,2017-08-28,,8.9,6-10 Years,Management,Plant Manager,Evening,Aditya Subramanian,285713,Inactive
+546,EMP0546,Naveen Nadkarni,Male,1971-06-04,2024-04-28,,2.3,3-5 Years,Production,Production Supervisor,Night,Divya Raju,722419,Active
+547,EMP0547,Amruta Sankaran,Male,1970-09-29,2021-04-27,2022-03-11,0.9,0-2 Years,HR,HR Executive,Evening,Indrajit Ghose,942891,Resigned
+548,EMP0548,Amaira Memon,Female,1971-09-06,2018-05-16,,8.2,6-10 Years,Production,Senior Operator,Evening,Jeremiah Palan,199221,Inactive
+549,EMP0549,Chasmum Barman,Male,1974-09-18,2023-07-12,,3.1,3-5 Years,Production,Operator,Night,Sai Nanda,1049465,Active
+550,EMP0550,Lajita Dixit,Male,1976-04-21,2020-05-31,,6.2,6-10 Years,Production,Operator,Evening,Hritik Bhargava,586082,Inactive
+551,EMP0551,Fariq Narayan,Female,1971-02-16,2018-01-11,,8.6,6-10 Years,Production,Production Supervisor,Morning,Avni Vohra,705120,Active
+552,EMP0552,Gautam Narula,Male,1988-01-07,2023-11-08,,2.7,3-5 Years,Production,Senior Operator,Evening,Hema Saini,280870,Active
+553,EMP0553,Leena Tata,Male,1990-08-21,2025-01-27,2025-11-12,0.8,0-2 Years,Sales,Sales Officer,Night,Shivansh Bhatia,615074,Resigned
+554,EMP0554,Mitesh Chandran,Female,1981-02-12,2018-11-15,2024-04-06,5.4,6-10 Years,Warehouse,Warehouse Executive,Evening,Manthan Gara,181436,Resigned
+555,EMP0555,Gautami Sarna,Male,1994-06-14,2025-04-13,,1.3,0-2 Years,Warehouse,Warehouse Executive,Morning,Osha Atwal,999213,Active
+556,EMP0556,Aishani Mishra,Male,1991-12-30,2019-02-03,,7.5,6-10 Years,Quality,Quality Inspector,Morning,Eiravati Das,549746,Active
+557,EMP0557,Kabir Rajagopalan,Female,1979-08-28,2023-08-28,2025-02-22,1.5,0-2 Years,Sales,Sales Executive,Morning,Qadim Dhaliwal,404784,Resigned
+558,EMP0558,Daksh Deep,Female,1989-11-26,2025-09-04,2026-02-15,0.4,0-2 Years,Production,Operator,Morning,Wriddhish Bhargava,462869,Resigned
+559,EMP0559,Janani Varma,Female,2003-06-25,2022-06-12,,4.1,3-5 Years,Quality,Quality Inspector,Night,Hamsini Kapur,360869,Inactive
+560,EMP0560,Charvi Dubey,Female,1986-07-08,2020-06-25,,6.1,6-10 Years,Sales,Sales Manager,Night,Samar Amble,983806,Active
+561,EMP0561,Mohammed Nayar,Male,1982-02-22,2026-05-02,2026-06-11,0.1,0-2 Years,Production,Operator,Morning,Shravya Kannan,814801,Resigned
+562,EMP0562,Sanaya Gala,Female,1981-09-19,2024-12-10,,1.6,0-2 Years,Production,Senior Operator,Morning,Chakrika Basu,847092,Inactive
+563,EMP0563,George Mani,Female,1971-11-24,2020-10-13,2023-01-16,2.3,3-5 Years,Production,Senior Operator,Morning,Jacob Lalla,187526,Resigned
+564,EMP0564,Nitesh Naidu,Male,2004-09-08,2023-03-24,,3.4,3-5 Years,Maintenance,Maintenance Engineer,Evening,Reyansh Parmer,802367,Active
+565,EMP0565,Farhan Din,Female,1979-04-03,2021-03-19,,5.4,6-10 Years,Production,Production Supervisor,Night,Ryan Golla,1162622,Active
+566,EMP0566,Jeevika Din,Male,1981-11-18,2023-01-10,,3.6,3-5 Years,Production,Senior Operator,Night,Ekanta Srinivas,497695,Inactive
+567,EMP0567,Girik Chana,Male,1998-12-08,2025-11-02,2026-01-28,0.2,0-2 Years,Production,Senior Operator,Evening,Sneha Walla,479945,Resigned
+568,EMP0568,Fiyaz Deo,Female,2002-07-14,2020-08-14,,6.0,6-10 Years,HR,HR Manager,Night,Logan Gaba,1010473,Inactive
+569,EMP0569,Jasmit Rege,Male,1987-08-25,2024-12-19,2025-07-05,0.5,0-2 Years,Maintenance,Technician,Morning,Vincent Iyer,196703,Resigned
+570,EMP0570,Jalsa Gill,Female,1975-08-15,2019-04-05,,7.3,6-10 Years,Warehouse,Store Keeper,Night,Daksha Venkataraman,1035721,Inactive
+571,EMP0571,Ria Rau,Male,1989-10-17,2021-05-04,2024-12-12,3.6,3-5 Years,Production,Senior Operator,Night,Farhan Zachariah,1015220,Resigned
+572,EMP0572,Lekha Sami,Male,1972-04-04,2019-01-04,,7.6,6-10 Years,Quality,QA Engineer,Morning,Nikita Deshmukh,348974,Inactive
+573,EMP0573,Anirudh Sarkar,Female,1990-01-22,2017-12-14,2023-06-03,5.5,6-10 Years,Production,Senior Operator,Night,Timothy Dani,567479,Resigned
+574,EMP0574,Indali Gupta,Female,1994-06-27,2016-10-15,,9.8,6-10 Years,Warehouse,Store Keeper,Evening,Champak De,856476,Active
+575,EMP0575,Chavvi Balan,Male,1978-08-17,2024-07-02,,2.1,3-5 Years,Production,Senior Operator,Evening,Balveer Balasubramanian,723533,Inactive
+576,EMP0576,Rudra Kuruvilla,Male,1978-10-31,2018-11-27,,7.7,6-10 Years,Production,Operator,Evening,Upkaar Deshmukh,302958,Active
+577,EMP0577,Samuel Keer,Male,2003-07-15,2025-10-19,,0.8,0-2 Years,Production,Senior Operator,Night,Girish Kade,309017,Active
+578,EMP0578,Ansh Kakar,Female,1994-06-06,2021-12-16,,4.6,3-5 Years,Maintenance,Technician,Night,Elijah Palla,878239,Active
+579,EMP0579,Triya Krishnan,Female,2004-06-08,2021-03-05,2024-06-27,3.3,3-5 Years,Production,Production Supervisor,Night,Faraj Maharaj,651860,Resigned
+580,EMP0580,Chakradev Mukherjee,Female,1985-05-02,2022-10-19,,3.8,3-5 Years,Production,Senior Operator,Evening,Henry Kashyap,588463,Inactive
+581,EMP0581,Nathan Shanker,Male,1968-12-12,2019-09-11,,6.9,6-10 Years,Production,Senior Operator,Evening,Ishani Shere,514109,Inactive
+582,EMP0582,Mahika Aggarwal,Male,1972-05-15,2017-04-18,,9.3,6-10 Years,Quality,QA Engineer,Night,Warjas Sabharwal,1070348,Active
+583,EMP0583,Matthew Dara,Male,1977-02-08,2023-12-16,2024-12-16,1.0,0-2 Years,Production,Senior Operator,Evening,Ishanvi Ray,847089,Resigned
+584,EMP0584,Maanav Gara,Female,1995-08-22,2021-08-25,2026-05-21,4.7,3-5 Years,Production,Operator,Morning,Faraj Khanna,604960,Resigned
+585,EMP0585,Madhavi Bakshi,Male,1970-05-21,2018-09-06,,7.9,6-10 Years,Production,Production Supervisor,Morning,Yash Chandran,948138,Active
+586,EMP0586,Anirudh Rattan,Male,1971-03-30,2023-04-24,,3.3,3-5 Years,Production,Senior Operator,Night,Oviya Bhatnagar,938236,Inactive
+587,EMP0587,Charan Pant,Female,1984-08-01,2019-12-31,2020-08-25,0.7,0-2 Years,Warehouse,Warehouse Executive,Morning,Ekiya Khosla,891484,Resigned
+588,EMP0588,Varenya Sidhu,Male,1994-02-11,2020-03-18,2022-06-12,2.2,3-5 Years,Production,Senior Operator,Night,Lila Dube,382208,Resigned
+589,EMP0589,Chandani Sodhi,Male,2005-07-27,2026-03-01,,0.4,0-2 Years,Maintenance,Technician,Evening,Noah Aggarwal,831043,Inactive
+590,EMP0590,Vaishnavi Mangat,Female,2001-09-08,2022-08-26,,3.9,3-5 Years,Quality,QA Engineer,Morning,Bhavini Rama,197023,Active
+591,EMP0591,Geetika Pandit,Female,1997-11-18,2023-11-15,,2.7,3-5 Years,Production,Senior Operator,Morning,Chandran Zachariah,325276,Active
+592,EMP0592,Hamsini Arya,Female,1990-11-06,2021-04-04,2021-12-15,0.7,0-2 Years,Warehouse,Store Keeper,Morning,Dev Ravi,653609,Resigned
+593,EMP0593,Chaman Panchal,Male,1974-05-08,2018-07-15,2021-04-25,2.8,3-5 Years,Production,Operator,Evening,Abhimanyu Ganguly,686708,Resigned
+594,EMP0594,Finn Bala,Female,1997-09-29,2021-06-15,2026-05-22,4.9,3-5 Years,Production,Senior Operator,Morning,Yuvraj Badami,374118,Resigned
+595,EMP0595,Gautami Prakash,Male,1977-03-16,2017-02-15,2020-08-22,3.5,3-5 Years,Production,Senior Operator,Morning,Nikita Goda,195890,Resigned
+596,EMP0596,Avni Ganesh,Female,1979-02-08,2025-10-28,,0.8,0-2 Years,Sales,Sales Executive,Morning,Divya Dani,688724,Inactive
+597,EMP0597,Vritti Panchal,Female,1977-01-18,2017-06-06,,9.1,6-10 Years,Quality,QA Engineer,Morning,Vedika Ghose,869510,Active
+598,EMP0598,Oeshi Chaudhry,Female,1987-09-21,2024-11-28,,1.7,0-2 Years,Production,Operator,Evening,Niharika Sani,779275,Inactive
+599,EMP0599,Nidhi D’Alia,Male,1990-09-28,2018-10-12,,7.8,6-10 Years,Quality,Quality Inspector,Morning,Charita Prashad,321533,Inactive
+600,EMP0600,Rajata Bala,Female,1995-08-30,2022-03-22,2026-03-11,4.0,3-5 Years,Maintenance,Technician,Morning,Zilmil Talwar,1159275,Resigned

@@ -1,0 +1,16 @@
+﻿warehouse_id,warehouse_code,warehouse_name,warehouse_type,city,state,capacity_sqft,manager_name,warehouse_status
+1,WH001,Raw Material Warehouse 1,Raw Material,Solapur,Maharashtra,20835,Kritika Mann,Active
+2,WH002,Raw Material Warehouse 2,Raw Material,Solapur,Maharashtra,12778,Madhavi Rai,Active
+3,WH003,Raw Material Warehouse 3,Raw Material,Pune,Maharashtra,36145,Indrajit Jha,Active
+4,WH004,Raw Material Warehouse 4,Raw Material,Mumbai,Maharashtra,33663,Chaitanya Jani,Inactive
+5,WH005,Finished Goods Warehouse 1,Finished Goods,Solapur,Maharashtra,9896,Victor Mukherjee,Active
+6,WH006,Finished Goods Warehouse 2,Finished Goods,Pune,Maharashtra,48741,Tamanna Tella,Active
+7,WH007,Finished Goods Warehouse 3,Finished Goods,Hyderabad,Telangana,17922,Jackson Lanka,Active
+8,WH008,Finished Goods Warehouse 4,Finished Goods,Surat,Gujarat,28083,Yash Batra,Active
+9,WH009,Finished Goods Warehouse 5,Finished Goods,Delhi,Delhi,7562,Qasim Bala,Inactive
+10,WH010,Packaging Warehouse 1,Packaging,Solapur,Maharashtra,35630,Pushti Dubey,Inactive
+11,WH011,Packaging Warehouse 2,Packaging,Ahmedabad,Gujarat,13949,Naveen Tata,Inactive
+12,WH012,Export Warehouse 1,Export,Mumbai,Maharashtra,40696,Gaurangi Oak,Inactive
+13,WH013,Export Warehouse 2,Export,Chennai,Tamil Nadu,21076,Samaksh Pandya,Inactive
+14,WH014,Spare Parts Warehouse 1,Spare Parts,Solapur,Maharashtra,8323,Aarini Gandhi,Inactive
+15,WH015,Spare Parts Warehouse 2,Spare Parts,Nagpur,Maharashtra,5496,Priya Dugal,Inactive
