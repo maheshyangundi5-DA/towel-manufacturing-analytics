@@ -1,14 +1,21 @@
 # 🏭 TOWEL MANUFACTURING ANALYTICS
 ### End-to-End Data Analytics Project | SQL | Python | Power BI
 
+xecutive Dashboard Preview
+
+Managing Director – Manufacturing Intelligence Dashboard
+
+The executive dashboard provides a consolidated overview of key manufacturing business functions, supporting management-level monitoring and decision-making.
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi" />
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Analytics-orange?logo=mysql" />
-  <img src="https://img.shields.io/badge/Project-End--to--End-success" />
+  <img src="powerbi/images/23-MANAGING%20DIRECTOR-EXECUTIVE%20DASHBOARD.JPG" alt="Managing Director Executive Dashboard" width="100%">
 </p>
 
----
+<p align="center">
+  <b>Executive-Level Business Intelligence | Manufacturing Performance | KPI Monitoring</b>
+</p>
+
+
 
 ## 📌 Project Overview
 
